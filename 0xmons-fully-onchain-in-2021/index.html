@@ -5,10 +5,10 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <meta content="NFT, Bitcoin NFTs, Counterparty, Bitcoin, XCP, Weex, Stephan Vogler, Rare Pepe, Spells Of Genesis"
+    <meta content="NFT, Ethereum NFTs, Ai Art, GAN, 0xmon, 0xmons, Sudoswap"
         name="keywords" />
 
-    <title>Earliest Hashed NFTs On Bitcoin (2014-2018)</title>
+    <title>0xmons Fully Onchain In 2021</title>
 
     <link href="images/favicon.ico" rel="icon" type="image/jpeg" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css"
@@ -24,34 +24,46 @@
 
 <body class="p-1 m-4">
     <div class="pb-3">
-        <h1>Earliest Hashed NFTs On Bitcoin (2014-2018)</h1>
+        <h1>0xmons Fully Onchain In 2021</h1>
         <h6>
-            ~99% of early Bitcoin NFTs lacked any kind of onchain link to the data/art they represented. This table is
-            about the ~1%.
+            Only 87 0xmons had their GAN animations put onchain in 2021, making them the first known onchain AI artworks.
+        </h6>
+        <h6>
+            While some other 0xmons had still images of their artwork put onchain, this list focuses only on those that had their full artwork (animation) put onchain.
+        </h6>
+        <h6>
+            See <a href='https://web.archive.org/web/20240909141756/https://blog.0xmons.xyz/79081566310' target='_blank'>0xmons v2 Cthulhu: On-chain Encoding</a> for more info.
         </h6>
     </div>
 
     <div class="pb-3">
         <h6>
-            ✅ = pristine
+            <b>Note</b>: The first AI artwork to include both AI art AND the algo/neural network on chain is 
+            <a href="https://web.archive.org/web/20230327021332/https://opensea.io/assets/ethereum/0x2a648cb23d3adf1bb171fabc0119ea3eb951841f/0">XOR by Nahiko</a>, 
+            which was releaased in 9th August 2021.
         </h6>
         <h6>
-            ⚠️ = check notes
+            With that in mind, 0xmons with onchain animations released before this date could therefore be of extra interest.
+        </h6>
+    </div>
+
+    <div class="pb-3">
+        <h6>
+            ⛓️ = this column is onchain data
         </h6>
     </div>
 
     <table id="data-table" class="table display" style="width:100%">
         <thead class="text-center">
             <tr>
-                <th>File</th>
-                <th>Datetime Hashed</th>
-                <th>Asset Name(s)</th>
-                <th>Current Supply</th>
-                <th>Hash Type</th>
-                <th>Project & Author</th>
-                <th>File Type</th>
-                <th></th>
-                <th>Notes</th>
+                <th>Art ⛓️</th>
+                <th>Onchain Datetime</th>
+                <th>Linked Datetime</th>
+                <th>Name ⛓️</th>
+                <th>Series</th>
+                <th>Author ⛓️</th>
+                <th>Epithets ⛓️</th>
+                <th>Description ⛓️</th>
             </tr>
         </thead>
 
@@ -84,15 +96,14 @@
                     data.forEach(row => {
                         const tableRow = `
                             <tr>
-                                <td>${row.file}</td>
-                                <td>${row.datetime}</td>
-                                <td>${row.names}</td>
-                                <td>${row.supply}</td>
-                                <td>${row.hash}</td>
-                                <td>${row.project_author}</td>
-                                <td>${row.file_type}</td>
-                                <td>${row.status}</td>
-                                <td>${row.notes}</td>
+                                <td>${row.art}</td>
+                                <td>${row.onchain_datetime}</td>
+                                <td>${row.linked_datetime}</td>
+                                <td>${row.name}</td>
+                                <td>${row.series}</td>
+                                <td>${row.author}</td>
+                                <td>${row.epithets}</td>
+                                <td>${row.description}</td>
                             </tr>
                         `;
 
