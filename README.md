@@ -10,7 +10,7 @@ Only 87 0xmons had their GAN animations put onchain in 2021, making them the fir
 
 [View Live Timeline](https://dsgriffin.github.io/nft-timelines/0xmons-fully-onchain-in-2021/)
 
-[View Source Code](0xmons-fully-onchain-in-2022/)
+[View Source Code](https://github.com/dsgriffin/nft-timelines/tree/main/0xmons-fully-onchain-in-2021)
 
 ## Earliest Hashed NFTs On Bitcoin
 
@@ -18,7 +18,7 @@ Only 87 0xmons had their GAN animations put onchain in 2021, making them the fir
 
 [View Live Timeline](https://dsgriffin.github.io/nft-timelines/earliest-hashed-nfts-on-bitcoin/)
 
-[View Source Code](earliest-hashed-nfts-on-bitcoin/)
+[View Source Code](https://github.com/dsgriffin/nft-timelines/tree/main/earliest-hashed-nfts-on-bitcoin)
 
 # License
 
