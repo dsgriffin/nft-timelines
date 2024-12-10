@@ -278,5 +278,45 @@
         "author": "<a href='https://etherscan.io/address/0xA3dFB42724734D74d1B66f6F12a4AfA5D7D38DF2' target='_blank'>thecarter.eth</a>",
         "epithets": "What Lurks Among the Trees",
         "description": "A long, thin creature said to have a humanoid body with a mass of antlers at the top, and a serpentine head. It possesses many tendrils which it uses to ensnare and kill the unwary. If one is to cut them off, the tendrils will grow back stronger and angrier."
+    },
+    {
+        "art": "<img alt='Sibil' height='125px' src='images/sibil.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xf02127d8519f9ba09f1912d42753d1de2054fb008666ef1e6f1c46eb4cabaf60' target='_blank'>2021-06-06 11:40:38</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xd1944488958df73d6b534c7ad7e19cbfdf8213cd21342e15d2b26b1611e94673' target='_blank'>2021-06-06 11:40:38</a>",
+        "name": "Sibil",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xA3dFB42724734D74d1B66f6F12a4AfA5D7D38DF2' target='_blank'>thecarter.eth</a>",
+        "epithets": "Mage of Many Faces",
+        "description": "She is known as the most powerful of the Phantoona, a mage of ancient repute and a rival of Thal in skill. She is said to have originally dwelled among the Night Gods, but was driven into exile by a human king who stole her magic. She now wanders in the wilderness of the Vast, awaiting her next encounter."
+    },
+    {
+        "art": "<img alt='Thori 'eleke' height='125px' src='images/thori-eleke.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x8d85d000017098f5664f6e74c3c6cb6d32d823f81b3ab56f2421db33e55c8e04' target='_blank'>2021-06-13 07:57:14</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x8f08225f0a65be93fee7163095fffc58fec3a1c2a18f24068bb5a26566fa08f5' target='_blank' class='text-danger'>Link Attempt Failed</a>",
+        "name": "Thori 'eleke",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x6871D1a603fEb9Cc2aA8213B9ab16B33e418cD8F' target='_blank'>mitchoz.eth</a>",
+        "epithets": "Flame from the Stars",
+        "description": "This being is considered the natural child of two Celestial Iridescents and has the ability to create fire by touching a subject. When it is absorbed by its victim, it soon becomes filled with hot vapor. The fire will then fill the victim's body, where it can only burn for a short time, then liquefy the body, causing it to shatter into atoms and vapor."
+    },
+    {
+        "art": "<img alt='Könmaa' height='125px' src='images/konmaa.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x01b5e2a75fcc52d1d50d06db53058484ed7c6ff7dd1b8650729a55138ae1513c' target='_blank'>2021-06-13 11:18:17</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xbd84d53daa6d53614d534550dd53c0193ec770278bd5a750de9cdf3ab90bc05c' target='_blank'>2021-06-13 11:18:17</a>",
+        "name": "Könmaa",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c' target='_blank'>0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c</a>",
+        "epithets": "The Final Bridge",
+        "description": "A mass of immortal, malevolent spirits with the ability to infect living beings and turn them into spirits as well. They manifest as spindly, black figures, and are known to dwell on the astral plane, though they may be summoned to the physical world for brief periods of time."
+    },
+    {
+        "art": "<img alt='Ubys' height='125px' src='images/ubys.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x01b5e2a75fcc52d1d50d06db53058484ed7c6ff7dd1b8650729a55138ae1513c' target='_blank'>2021-06-15 05:04:51</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xa2fe5dc3c055f305458eba03215a19dcfc13c8a0a39cce4416640b6e9fd52f83' target='_blank'>2021-06-15 07:50:03</a>",
+        "name": "Ubys",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xA186727FDAF90cD7d9972572E32C618Ce04206f8' target='_blank'>madpilot.eth</a>",
+        "epithets": "Keeper of the East",
+        "description": "As the most ancient of the six chief celestial beings, Ubys rules over the East of the Vast. He holds dominion over the stars, and although his function is to carry out the decrees of the celestial sphere, he will sometimes break his own principles if it will benefit the vaster good."
     }
 ]
