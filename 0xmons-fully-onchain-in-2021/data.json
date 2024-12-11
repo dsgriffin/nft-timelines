@@ -378,5 +378,15 @@
         "author": "<a href='https://etherscan.io/address/0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c' target='_blank'>0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c</a>",
         "epithets": "Butcher of Fates",
         "description": "A savage, cruel entity who is said to be the embodiment of chaos, and the deity most responsible for the state of the world. He manifests in a shapeless mass of dark, green-black slime; he is said to have six disembodied arms with long claws."
+    },
+    {
+        "art": "<img alt='Pashnu' height='125px' src='images/pashnu.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x5202774216a683f6224d96d04c9108c2f63717e4b1c28424d92718678c15013c' target='_blank'>2021-06-19 01:27:08</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x99d14e1ad91d8d85162f4e641ee4b095cc2f9309c63bb0c4f9c1318349fd6770' target='_blank'>2021-06-19 01:29:29</a>",
+        "name": "Pashnu",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c' target='_blank'>0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c</a>",
+        "epithets": "Ambassador of the Comets",
+        "description": "One of the oldest beings in Cygnus Prime, she is an enigmatic being known for her calm nature and her seemingly omniscient knowledge of the countless paths of the universe. She possesses the ability to generate inter-dimensional portals that transport other beings between her planes of existence. She is one of the few who has seen the ruins of the Prothean world of Heliopolis, and she has gathered what little data has been preserved on that world in order to form a theory regarding the creation of the Protheans."
     }
 ]
