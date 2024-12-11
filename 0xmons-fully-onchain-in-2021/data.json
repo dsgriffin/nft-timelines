@@ -311,12 +311,72 @@
     },
     {
         "art": "<img alt='Ubys' height='125px' src='images/ubys.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x01b5e2a75fcc52d1d50d06db53058484ed7c6ff7dd1b8650729a55138ae1513c' target='_blank'>2021-06-15 05:04:51</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x7ad5e5b7d6cc5429b64a3240bbce33bcc2736f160b42476e9bc8629fc5436bbb' target='_blank'>2021-06-15 05:04:51</a>",
         "linked_datetime": "<a href='https://etherscan.io/tx/0xa2fe5dc3c055f305458eba03215a19dcfc13c8a0a39cce4416640b6e9fd52f83' target='_blank'>2021-06-15 07:50:03</a>",
         "name": "Ubys",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0xA186727FDAF90cD7d9972572E32C618Ce04206f8' target='_blank'>madpilot.eth</a>",
         "epithets": "Keeper of the East",
         "description": "As the most ancient of the six chief celestial beings, Ubys rules over the East of the Vast. He holds dominion over the stars, and although his function is to carry out the decrees of the celestial sphere, he will sometimes break his own principles if it will benefit the vaster good."
+    },
+    {
+        "art": "<img alt='Yü-Koth' height='125px' src='images/yu-koth.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x74338e75b95524ec2a3a868ab0258a6f49467c4f6678b9a256dc18e5f0e7ff7b' target='_blank'>2021-06-16 06:12:18</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x8107ec518cc7f92e92a49fb898eaae7794bf8af2352ea8a86bb3185916c8252d' target='_blank'>2021-06-16 06:12:43</a>",
+        "name": "Yü-Koth",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xA8DEFb2E1fe760f02f39E3D07A2BA0605fD8eb28' target='_blank'>shiroi.eth</a>",
+        "epithets": "Sending of Six",
+        "description": "A gigantic green tortoise with a long tail and many legs. Its shell is covered in glowing stars and meteors. Every decade, it adds a new star, birthed from human souls."
+    },
+    {
+        "art": "<img alt='Khakh' height='125px' src='images/khakh.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xede143ddb3819b40e841808a5487c1f78f6d7bc3492b6d158a2ffadf370f24e1' target='_blank'>2021-06-16 06:27:44</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x0e4a8031610c404c5e49ee98b2d71572dbfc19b3158516f69b1d91d0db46e7f5' target='_blank'>2021-06-16 06:27:44</a>",
+        "name": "Khakh",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0xA8DEFb2E1fe760f02f39E3D07A2BA0605fD8eb28' target='_blank'>shiroi.eth</a>",
+        "epithets": "The World Serpent, The Father of Serpents",
+        "description": "A colossal red serpent with multiple eyes and a slavering mouth, surrounded by numerous shadowy serpents. He is one of the ancient Gods, who has awoken twice before to begin world-ending cataclysms. He sleeps beneath the Gulf of Rhot."
+    },
+    {
+        "art": "<img alt='Dzä' height='125px' src='images/dza.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xff27e9d3c88df2b86d450d2f3cde506824e23a1cf897c45a94b407baee1f68fe' target='_blank'>2021-06-18 05:28:18</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x1640ec921f26a150aee4a2c88232268d4c8e561035c24f00b5b3fe761fb4b1ef' target='_blank'>2021-06-18 05:28:25</a>",
+        "name": "Dzä",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xF897A887dDd26899F7DA140b30459e5BC4dDC9BC' target='_blank'>sukoneck.eth</a>",
+        "epithets": "The Old Woman in the Sky",
+        "description": "The Great Judge of Fate, said to have created the Unnamed Lands with her right hand. She is a giant woman said to be made of stone, who holds a tablet in one hand and a pen in the other, and wears a crown of stars. She is accompanied by two flaming figures, one green and one red."
+    },
+    {
+        "art": "<img alt='Zois' height='125px' src='images/zois.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x7589296c3c8118121b564ca16b16faf89dc7b950a70e4eebd1f71ba8e4439d6a' target='_blank'>2021-06-18 06:22:16</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x6fbcadc9c1a17ab5317595f927da803bfe5cef80ac72a4f053e3f3493b60f328' target='_blank'>2021-06-18 06:24:33</a>",
+        "name": "Zois",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x96FA266108150305dF209e8c4Cc6a363F0a0b04a' target='_blank'>0x96FA266108150305dF209e8c4Cc6a363F0a0b04a</a>",
+        "epithets": "The Despoiler of Fate",
+        "description": "A god of the outer plane, perhaps not even a deity at all. According to tales told in the distant lands of Ruhänz, he is an entity that revels in violence. One tale is that he kills those who worship him without any form of apparent cause."
+    },
+    {
+        "art": "<img alt='Zhüthä' height='125px' src='images/zhutha.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x8032c75a320e895b86342d01b4361cd6e59c59856fd18a2c0964fd82b3221cd8' target='_blank'>2021-06-18 11:22:58</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xa1b3e77afbb8039d607b29dee8f546755771c4b75009a42e696cab3c590bf88d' target='_blank'>2021-06-18 11:48:40</a>",
+        "name": "Zhüthä",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x6232d7a6085D0Ab8F885292078eEb723064a376B' target='_blank'>lordbog.eth</a>",
+        "epithets": "Chariot of G'yathnä",
+        "description": "A living vehicle, ridden by G'yathnä when she appears before humankind. Appears as a writhing mass of leaves and ice with two thin wings."
+    },
+    {
+        "art": "<img alt='Vüthüs' height='125px' src='images/vuthus.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x563514f6088dcdf711c69162e20223d4fdf24cbf0769df3415c65b9c14f2988c' target='_blank'>2021-06-19 01:24:08</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xaa5fcfae254ecf08f7fcaa147b2c5f493938dc307f75732a1711dc7485717d74' target='_blank'>2021-06-19 01:24:08</a>",
+        "name": "Vüthüs",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c' target='_blank'>0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c</a>",
+        "epithets": "Butcher of Fates",
+        "description": "A savage, cruel entity who is said to be the embodiment of chaos, and the deity most responsible for the state of the world. He manifests in a shapeless mass of dark, green-black slime; he is said to have six disembodied arms with long claws."
     }
 ]
