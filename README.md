@@ -14,7 +14,7 @@ Only 87 0xmons had their GAN animations put onchain in 2021, making them the fir
 
 ## Earliest Hashed NFTs On Bitcoin
 
-~99% of early Bitcoin NFTs lacked any kind of onchain link to the data/art they represented. This is about the ~1%.
+~99% of early Bitcoin NFTs lacked cryptographic proof linking them to the data/art they represented. This table is about the ~1%.
 
 [View Live Timeline](https://dsgriffin.github.io/nft-timelines/earliest-hashed-nfts-on-bitcoin/)
 
