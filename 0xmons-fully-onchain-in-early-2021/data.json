@@ -11,8 +11,8 @@
     },
     {
         "art": "<img alt='X'l-rho' height='125px' src='images/xl-rho.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0xcc08c6081f09fc2f13f667e6e1a7923356787f34f83cbb24661f966756fa13ee' target='_blank'>2021-02-19 08:34:23</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xa6e0167b9dc04f69e0548da8c84f70bba2acb61329e28184a4155218e2d1e779' target='_blank'>2021-02-19 08:34:50</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xcc08c6081f09fc2f13f667e6e1a7923356787f34f83cbb24661f966756fa13ee' target='_blank'>2021-02-19 20:34:23</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xa6e0167b9dc04f69e0548da8c84f70bba2acb61329e28184a4155218e2d1e779' target='_blank'>2021-02-19 20:34:50</a>",
         "name": "X'l-rho",
         "series": "1",
         "author": "<a href='https://etherscan.io/address/0xa3dfb42724734d74d1b66f6f12a4afa5d7d38df2' target='_blank'>thecarter.eth</a>",
@@ -31,8 +31,8 @@
     },
     {
         "art": "<img alt='Genesis' height='125px' src='images/genesis.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0xe39a28d8e8e7e8085e24ae938b80f42b18a5be74522937636f50a17167b64146' target='_blank'>2021-02-22 08:29:51</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xdc08ed86d735a0c312b26441537e4b1fcac6581f8eaa5a3ee9c9ef64c52cb7e2' target='_blank'>2021-02-22 08:29:51</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xe39a28d8e8e7e8085e24ae938b80f42b18a5be74522937636f50a17167b64146' target='_blank'>2021-02-22 20:29:51</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xdc08ed86d735a0c312b26441537e4b1fcac6581f8eaa5a3ee9c9ef64c52cb7e2' target='_blank'>2021-02-22 20:29:51</a>",
         "name": "Genesis",
         "series": "0",
         "author": "<a href='https://etherscan.io/address/0x75d4bdbf6593ed463e9625694272a0ff9a6d346f' target='_blank'>xmon.eth</a>",
@@ -101,8 +101,8 @@
     },
     {
         "art": "<img alt='Fäli' height='125px' src='images/fali.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x313265e9c666630d9096196c74d21a3211e2e3ca307727fbd3db88786eada872' target='_blank'>2021-04-02 05:31:58</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xba0651e7f18c65e0115839a869ab7e3a3d71c0c7d7230db294e2fc7a1ef98e04' target='_blank'>2021-04-02 05:37:51</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x313265e9c666630d9096196c74d21a3211e2e3ca307727fbd3db88786eada872' target='_blank'>2021-04-02 17:31:58</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xba0651e7f18c65e0115839a869ab7e3a3d71c0c7d7230db294e2fc7a1ef98e04' target='_blank'>2021-04-02 17:37:51</a>",
         "name": "Fäli",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0x0ff104944594bbd7aa2953a5bea1dac1c7f330a0' target='_blank'>0x0ff.eth</a>",
@@ -182,7 +182,7 @@
     {
         "art": "<img alt='Horset' height='125px' src='images/horset.gif' width='125px'/>",
         "onchain_datetime": "<a href='https://etherscan.io/tx/0x1b4c2e867b38d42943212129f2705117e181ef4dbd459646dd5a3e0965545457' target='_blank'>2021-04-17 07:04:01</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0x62db24583ec9691ab94b6b0a87803d6528e3b3448876661a8f06947dad8adfd9' target='_blank'>2021-04-16 07:07:25</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x62db24583ec9691ab94b6b0a87803d6528e3b3448876661a8f06947dad8adfd9' target='_blank'>2021-04-17 07:07:25</a>",
         "name": "Horset",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0x26c6f93451BCf317a1FC24393fE760cF695525b3' target='_blank'>0x26c6f93451BCf317a1FC24393fE760cF695525b3</a>",
@@ -191,8 +191,8 @@
     },
     {
         "art": "<img alt='Nadiss' height='125px' src='images/nadiss.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x5fa840f6b11a08c02024ada957f208168bd6a1614634168d82e4982ff3fd6829' target='_blank'>2021-04-23 10:19:04</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xdc46ad2ab0beb224681443f5fb6335d84ae0882f2db7667e47b77538f520a8c1' target='_blank'>2021-04-23 10:23:36</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x5fa840f6b11a08c02024ada957f208168bd6a1614634168d82e4982ff3fd6829' target='_blank'>2021-04-23 22:19:04</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xdc46ad2ab0beb224681443f5fb6335d84ae0882f2db7667e47b77538f520a8c1' target='_blank'>2021-04-23 22:23:36</a>",
         "name": "Nadiss",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0x188C30E9A6527F5F0c3f7fe59B72ac7253C62F28' target='_blank'>cryptoetc.eth</a>",
@@ -201,8 +201,8 @@
     },
     {
         "art": "<img alt='K'rmigu' height='125px' src='images/k-rmigu.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x833ad10dcabf68b174a92d484d1c57e969bfe080cf67e5a7e2f0d2f53328f113' target='_blank'>2021-04-23 11:38:55</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xb86549f0db250b040e4079ef81869bb9e0c4fbb3f0ee0446f2caf583e2889184' target='_blank'>2021-04-23 11:40:08</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x833ad10dcabf68b174a92d484d1c57e969bfe080cf67e5a7e2f0d2f53328f113' target='_blank'>2021-04-23 23:38:55</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xb86549f0db250b040e4079ef81869bb9e0c4fbb3f0ee0446f2caf583e2889184' target='_blank'>2021-04-23 23:40:08</a>",
         "name": "K'rmigu",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0x188C30E9A6527F5F0c3f7fe59B72ac7253C62F28' target='_blank'>cryptoetc.eth</a>",
@@ -251,7 +251,7 @@
     },
     {
         "art": "<img alt='Ub-Zeeg' height='125px' src='images/ub-zeeg.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x3cf4a768c783143eba45d1e43ca2b8f3726621dd02d9bab044c08e43c04f5643' target='_blank'>2021-05-19 11:34:40</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x3cf4a768c783143eba45d1e43ca2b8f3726621dd02d9bab044c08e43c04f5643' target='_blank'>2021-05-19 23:34:40</a>",
         "linked_datetime": "<a href='https://etherscan.io/tx/0xfb679cefc515b9e5acbd6525691235c80897a973c845f3d4b1f775888901dc7a' target='_blank'>2021-06-20 04:42:51</a>",
         "name": "Ub-Zeeg",
         "series": "1",
@@ -271,8 +271,8 @@
     },
     {
         "art": "<img alt='Kchhk-tïr' height='125px' src='images/kchhk-tir.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0xafd4c852969d1a9b2e6af2143886744115ee1330154609ad7cc5252fcc16ba98' target='_blank'>2021-06-06 11:35:32</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0x9c48759e73a673c80ba8bd3213b83bc91215de7cab08925c90cf830da70edfee' target='_blank'>2021-06-06 11:35:54</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xafd4c852969d1a9b2e6af2143886744115ee1330154609ad7cc5252fcc16ba98' target='_blank'>2021-06-06 23:35:32</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x9c48759e73a673c80ba8bd3213b83bc91215de7cab08925c90cf830da70edfee' target='_blank'>2021-06-06 23:35:54</a>",
         "name": "Kchhk-tïr",
         "series": "1",
         "author": "<a href='https://etherscan.io/address/0xA3dFB42724734D74d1B66f6F12a4AfA5D7D38DF2' target='_blank'>thecarter.eth</a>",
@@ -281,8 +281,8 @@
     },
     {
         "art": "<img alt='Sibil' height='125px' src='images/sibil.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0xf02127d8519f9ba09f1912d42753d1de2054fb008666ef1e6f1c46eb4cabaf60' target='_blank'>2021-06-06 11:40:38</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xd1944488958df73d6b534c7ad7e19cbfdf8213cd21342e15d2b26b1611e94673' target='_blank'>2021-06-06 11:40:38</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xf02127d8519f9ba09f1912d42753d1de2054fb008666ef1e6f1c46eb4cabaf60' target='_blank'>2021-06-06 23:40:38</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xd1944488958df73d6b534c7ad7e19cbfdf8213cd21342e15d2b26b1611e94673' target='_blank'>2021-06-06 23:40:38</a>",
         "name": "Sibil",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0xA3dFB42724734D74d1B66f6F12a4AfA5D7D38DF2' target='_blank'>thecarter.eth</a>",
@@ -311,8 +311,8 @@
     },
     {
         "art": "<img alt='Ubys' height='125px' src='images/ubys.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x7ad5e5b7d6cc5429b64a3240bbce33bcc2736f160b42476e9bc8629fc5436bbb' target='_blank'>2021-06-15 05:04:51</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xa2fe5dc3c055f305458eba03215a19dcfc13c8a0a39cce4416640b6e9fd52f83' target='_blank'>2021-06-15 07:50:03</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x7ad5e5b7d6cc5429b64a3240bbce33bcc2736f160b42476e9bc8629fc5436bbb' target='_blank'>2021-06-15 17:04:51</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xa2fe5dc3c055f305458eba03215a19dcfc13c8a0a39cce4416640b6e9fd52f83' target='_blank'>2021-06-15 19:50:03</a>",
         "name": "Ubys",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0xA186727FDAF90cD7d9972572E32C618Ce04206f8' target='_blank'>madpilot.eth</a>",
@@ -371,8 +371,8 @@
     },
     {
         "art": "<img alt='Vüthüs' height='125px' src='images/vuthus.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x563514f6088dcdf711c69162e20223d4fdf24cbf0769df3415c65b9c14f2988c' target='_blank'>2021-06-19 01:24:08</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xaa5fcfae254ecf08f7fcaa147b2c5f493938dc307f75732a1711dc7485717d74' target='_blank'>2021-06-19 01:24:08</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x563514f6088dcdf711c69162e20223d4fdf24cbf0769df3415c65b9c14f2988c' target='_blank'>2021-06-19 13:24:08</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xaa5fcfae254ecf08f7fcaa147b2c5f493938dc307f75732a1711dc7485717d74' target='_blank'>2021-06-19 13:24:08</a>",
         "name": "Vüthüs",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c' target='_blank'>0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c</a>",
@@ -381,8 +381,8 @@
     },
     {
         "art": "<img alt='Pashnu' height='125px' src='images/pashnu.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x5202774216a683f6224d96d04c9108c2f63717e4b1c28424d92718678c15013c' target='_blank'>2021-06-19 01:27:08</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0x99d14e1ad91d8d85162f4e641ee4b095cc2f9309c63bb0c4f9c1318349fd6770' target='_blank'>2021-06-19 01:29:29</a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x5202774216a683f6224d96d04c9108c2f63717e4b1c28424d92718678c15013c' target='_blank'>2021-06-19 13:27:08</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x99d14e1ad91d8d85162f4e641ee4b095cc2f9309c63bb0c4f9c1318349fd6770' target='_blank'>2021-06-19 13:29:29</a>",
         "name": "Pashnu",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c' target='_blank'>0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c</a>",
@@ -428,5 +428,15 @@
         "author": "<a href='https://etherscan.io/address/0xdaE48D7b5c73a95F74CAAe08F7f92D3B7927f449' target='_blank'>neffnet.eth</a>",
         "epithets": "The Dire Mercy",
         "description": "A large, black-winged raven-like creature with a single yellow eye and a long swooping black beak. It is said to hunt for souls of those who die with regret, hatred, or anger in their hearts."
+    },
+    {
+        "art": "<img alt='Sirrism' height='125px' src='images/sirrism.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x54a1cfeb6bbf03a7ba8ebccd01ae5790cc8fc3eefb6bf1c5f5f2178cd53849fc' target='_blank'>2021-06-20 14:30:55</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xe0ef60e12971cee467ef0fbf55f30d9c70ec1b225b8371ca0875952eedadb3de' target='_blank'>2021-06-20 14:30:55</a>",
+        "name": "Sirrism",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x7A69a8399740fcB54a182957181a5FCA675e1eF5' target='_blank'>angryboo.eth</a>",
+        "epithets": "Signet of Darkness",
+        "description": "A deep, dark, circular being that floats in the ceiling of an immense cavern, cloaked in shadows. The Abyssal Ensemble is said to be imprisoned within it."
     }
 ]
