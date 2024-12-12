@@ -388,5 +388,45 @@
         "author": "<a href='https://etherscan.io/address/0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c' target='_blank'>0x9b8A2D69EaD9E7ad7aC99c02Ecddd9654BFd3E0c</a>",
         "epithets": "Ambassador of the Comets",
         "description": "One of the oldest beings in Cygnus Prime, she is an enigmatic being known for her calm nature and her seemingly omniscient knowledge of the countless paths of the universe. She possesses the ability to generate inter-dimensional portals that transport other beings between her planes of existence. She is one of the few who has seen the ruins of the Prothean world of Heliopolis, and she has gathered what little data has been preserved on that world in order to form a theory regarding the creation of the Protheans."
+    },
+    {
+        "art": "<img alt='Ak-Lhaa' height='125px' src='images/ak-lhaa.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x03c9f361d82353b003494979f436653d965c80466739e5fe9a0acc3b891c20f8' target='_blank'>2021-06-20 02:52:37</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xd33338fc2837573484bb6efebdadbfd61d08abc79e5f5a7a503808da13f8d97f' target='_blank'>2021-06-20 02:57:06</a>",
+        "name": "Ak-Lhaa",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xba29FAF969A0252bc58bAB0c8B3d52B162470345' target='_blank'>0xba29FAF969A0252bc58bAB0c8B3d52B162470345</a>",
+        "epithets": "The Hairy Demon of Pestilence",
+        "description": "A humanoid figure with no distinct features or organs that is covered in hair. It is the messenger, servant, and herald of G'yathnä. It is said to spread disease with its touch. Goop is said to be composed of the sickly ichors which flow from it."
+    },
+    {
+        "art": "<img alt='Davaat' height='125px' src='images/davaat.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x2099defd3fa4d3b2a7df97301b9ef01f221a2baeddfecab3a40307b81d7dc699' target='_blank'>2021-06-20 04:22:46</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x12f03c42ec87978f27692ce028fdc49003ce0951a402b9a86d91967d1ea88760' target='_blank'>2021-06-20 04:22:46</a>",
+        "name": "Davaat",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8' target='_blank'>0x883F4BF1Cd53692Bb602BFb580d4B1504539dFb8</a>",
+        "epithets": "The Slumbering Enemy",
+        "description": "The serpent who sleeps in the ruins of Teld. She is frequently seen there in the shape of a red fluid that seeps from the ground, noxious in taste and odor. She drinks this fluid and lives off her own existence, in a virtuous cycle. Some say that she still wields great power and will one day be reborn, though others insist that she will sleep forever."
+    },
+    {
+        "art": "<img alt='Ghitlagh' height='125px' src='images/ghitlagh.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x93dedd8aad1e45ad8308f865d0bd3dd6c46f154290f2562506aecc3c52b4a85c' target='_blank'>2021-06-20 04:49:16</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x7d845ad448b521ca89dde7e7253c5ea84c6ce26ad644d5b3cd1dc2166947f8ff' target='_blank'>2021-06-20 04:49:20</a>",
+        "name": "Ghitlagh",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x4129b4337d5A2F7278A02Ff15Bb1e4E548D8eE60' target='_blank'>playpausestop.eth</a>",
+        "epithets": "The One Who Stops the World",
+        "description": "A suit-wearing, frog-like creature with no head and six long striped tentacles. It is said to be the mightiest and most powerful of all the Suspected Entities. It was also thought to be dormant, but it has recently made itself known through radio waves."
+    },
+    {
+        "art": "<img alt='Vulgnash' height='125px' src='images/vulgnash.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x9f55621ded99029496f04599b75d2522a1368e4f8d459e7eff6ab24bd6687582' target='_blank'>2021-06-20 05:50:55</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x3a945725c115c0d9788f0374f4d67ec3926e94fbf2c38225a6be9ec563072b88' target='_blank'>2021-06-20 05:51:37</a>",
+        "name": "Vulgnash",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xdaE48D7b5c73a95F74CAAe08F7f92D3B7927f449' target='_blank'>neffnet.eth</a>",
+        "epithets": "The Dire Mercy",
+        "description": "A large, black-winged raven-like creature with a single yellow eye and a long swooping black beak. It is said to hunt for souls of those who die with regret, hatred, or anger in their hearts."
     }
 ]
