@@ -9,11 +9,29 @@
         "notes": "See <a href='https://time.graphics/event/9017600' target='_blank'>time.graphics entry</a>"
     },
     {
-        "file": "<img alt='THENAKAMOTOS.2 by Cornholio' height='75px' src='images/THENAKAMOTOS2.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
+        "file": "<img alt='THENAKAMOTOS.2 by ?' height='75px' src='images/THENAKAMOTOS2.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none; background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
         "datetime": "<a href='https://explorer.unspendablelabs.com/tx/9f19de022df7401cce53fc661d6dee06eeedb71bbac0db775c31d3bdd5109ba8' target='_blank'>2022-05-07 20:27:12</a>",
         "name": "THENAKAMOTOS.2",
         "supply": "0",
-        "project_author": "? <br /> ?",
+        "project_author": "The Nakamotos Club <br /> <a href='https://x.com/quentinbdb' target='_blank'>ffmad.xcp</a>",
+        "file_type": "png",
+        "notes": "See <a href='https://thenakamotos.club/' target='_blank'>thenakamotos.club</a>"
+    },
+    {
+        "file": "<img alt='THENAKAMOTOS.3 by ?' height='75px' src='images/THENAKAMOTOS3.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none; background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
+        "datetime": "<a href='https://explorer.unspendablelabs.com/tx/4a8f45f0e7c1b27bbb7080ca897969ffd97b7a650bfa9bfe535f44da71abd399' target='_blank'>2022-05-08 06:05:52</a>",
+        "name": "THENAKAMOTOS.3",
+        "supply": "0",
+        "project_author": "The Nakamotos Club <br /> <a href='https://x.com/quentinbdb' target='_blank'>ffmad.xcp</a>",
+        "file_type": "png",
+        "notes": "See <a href='https://thenakamotos.club/' target='_blank'>thenakamotos.club</a>"
+    },    
+    {
+        "file": "<img alt='THENAKAMOTOS.1 by ?' height='75px' src='images/THENAKAMOTOS1.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none; background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
+        "datetime": "<a href='https://explorer.unspendablelabs.com/tx/8b7a62bbe00d18d191dd6e5505df0bc70190b9220f4fc82d5b2dd198d767c04d' target='_blank'>2022-05-08 14:48:30</a>",
+        "name": "THENAKAMOTOS.1",
+        "supply": "0",
+        "project_author": "The Nakamotos Club <br /> <a href='https://x.com/quentinbdb' target='_blank'>ffmad.xcp</a>",
         "file_type": "png",
         "notes": "See <a href='https://thenakamotos.club/' target='_blank'>thenakamotos.club</a>"
     },
