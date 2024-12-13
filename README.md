@@ -2,7 +2,7 @@
 
 NFT Timelines is a repo containing various nft timelines, specifically ones relating to "firsts" or relatively early tokens of a niche.
 
-Each timeline contains an `images/` folder; I strive to only use the original onchain/hash-matching files for each asset mentioned, but there will be the odd exception (e.g. PEPERMANENT being displayed as a .gif rather than the entire onchain .json file)
+Each timeline contains an `images/` folder; I strive to only use the original onchain/hash-matching files for each asset mentioned, but there will be the odd exception (e.g. PEPERMANENT being displayed as a .gif rather than the entire onchain .json file).
 
 # Timelines
 
