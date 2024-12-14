@@ -628,5 +628,85 @@
         "author": "<a href='https://etherscan.io/address/0x9FeCf056375A973308bB3D6fb6b1c230CfD21456' target='_blank'>Council of Old Ones</a>",
         "epithets": "The Rainbow Worm",
         "description": "An immensely long worm with a huge, gaping mouth at one end, and multiple, heaving abdomens at the other end. Its skin is said to be rainbow-colored. It is capable of devouring the world and Ntánu Uryayar, the Burning Mountain, in one bite, and has been prophesied to do so by Huacas after the coming of the Fleet of Worlds."
+    },
+    {
+        "art": "<img alt='Kerenzi' height='125px' src='images/kerenzi.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xc722190e9d781e84d4ec8a3fa8a2dd8997779078727386852e733a179f6a875d' target='_blank'>2021-06-26 10:51:40</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x374f912e6086cd5a99b57bc530c1f03235c7f6cfd228c5c19d373bbc384f99d1' target='_blank'>2021-06-26 10:51:40</a>",
+        "name": "Kerenzi",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x9FeCf056375A973308bB3D6fb6b1c230CfD21456' target='_blank'>Council of Old Ones</a>",
+        "epithets": "The Giving Spirit",
+        "description": "Originally a powerful deity, Kerenzi forsook her throne to serve the mortals of Noras. She is said to have brought gifts of much joy to the young and to have given them all she had in her power. After the Fall of Noras she now resides with the Hoununkees in the day world."
+    },
+    {
+        "art": "<img alt='Bth'gth' height='125px' src='images/bth-gth.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xc21c723919f1d624d69b087eb8da733dee1420770e96d25de7be653aaf072bf5' target='_blank'>2021-06-26 10:51:53</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x6683a0291fe510bc1496ef1c35ae2eb533090674bd8973801fb3b41b7b5537ab' target='_blank'>2021-06-26 10:52:26</a>",
+        "name": "Bth'gth",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x9FeCf056375A973308bB3D6fb6b1c230CfD21456' target='_blank'>Council of Old Ones</a>",
+        "epithets": "The Hungering One",
+        "description": "Said to be a colossal monstrosity with shapeless appendages which it uses to feed on any things in its reach. It is thought to be offsprung from Cchzshuai's rage and pain when he was expelled from the realms of the gods."
+    },
+    {
+        "art": "<img alt='H'Inaphi' height='125px' src='images/h-inaphi.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x3b7e7995fff497bc7f4867953c63c7fb097f6a1dfc7f43d2254fac154272f59a' target='_blank'>2021-06-27 04:40:47</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x7f30115fb046593b0977ac8f8ab29166ad13874fb8470d341e8c774f3acaab77' target='_blank'>2021-06-27 04:40:59</a>",
+        "name": "H'Inaphi",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0xC9420C9349120CA88D6C349CDF4Af038e2Ca5027' target='_blank'>0xC9420C9349120CA88D6C349CDF4Af038e2Ca5027</a>",
+        "epithets": "Imposter of the Deep",
+        "description": "A being that dwells at the bottom of the ocean. He is said to be the source of the violent, mysterious storms that buffet the Inner Worlds. His true identity has yet to be ascertained, and every attempt by the Other's servants to draw him out have failed."
+    },
+    {
+        "art": "<img alt='Jielung-Shi' height='125px' src='images/jielung-shi.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xfbf4348ede339f16af9041f442e906e722358ee2f6eb5a93a58fe53e92e004e9' target='_blank'>2021-06-29 05:37:11</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x48b79cff3499dca435a8b85da905dc1fd8c0a93f2c72d0f0405ba461e3397bb8' target='_blank'>2021-06-29 05:38:48</a>",
+        "name": "Jielung-Shi",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x75d4bdBf6593ed463e9625694272a0FF9a6D346F' target='_blank'>xmon.eth</a>",
+        "epithets": "The World Dragon",
+        "description": "A legendary creature of immense power which once served as the guardian of the universe. It is said to be located in a celestial void called O's Maw, and that it came to Earth in the form of a great serpent. It is believed that Dluthos slew it, and its body turned to stone upon death, becoming the column of stone at the center of Xavala."
+    },
+    {
+        "art": "<img alt='Jielung-Shi' height='125px' src='images/jielung-shi.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xfbf4348ede339f16af9041f442e906e722358ee2f6eb5a93a58fe53e92e004e9' target='_blank'>2021-06-29 05:37:11</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x48b79cff3499dca435a8b85da905dc1fd8c0a93f2c72d0f0405ba461e3397bb8' target='_blank'>2021-06-29 05:38:48</a>",
+        "name": "Jielung-Shi",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x75d4bdBf6593ed463e9625694272a0FF9a6D346F' target='_blank'>xmon.eth</a>",
+        "epithets": "The World Dragon",
+        "description": "A legendary creature of immense power which once served as the guardian of the universe. It is said to be located in a celestial void called O's Maw, and that it came to Earth in the form of a great serpent. It is believed that Dluthos slew it, and its body turned to stone upon death, becoming the column of stone at the center of Xavala."
+    },
+    {
+        "art": "<img alt='Slaaaof' height='125px' src='images/slaaaof.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x3940e5114ff17cc22eeccdc105c32409eebf97ecebd65876045a1392c0d899cf' target='_blank'>2021-07-01 06:43:40</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xa160aa284f05f869e8bec7242234ef917c57df79d9b7632b178ef5d51215ed3c' target='_blank'>2021-07-01 06:43:43</a>",
+        "name": "Slaaaof",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x4c973E0E6Dd28182A8CF29c78d56F8c1730CdA91' target='_blank'>techspecvault.eth</a>",
+        "epithets": "The Greateaters",
+        "description": "Elongated entities which move through the cracks of the earth to devour humans. They are said to have no eyes or mouths, and to be blind and deaf. They can morph their bodies into any shape they desire. It is said that Sthümä, the ruler of the Black Moon, may have created them for this purpose."
+    },
+    {
+        "art": "<img alt='Ar'ac' height='125px' src='images/ar-ac.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x653d3ce4fb162fa8cd67bc57e5a27b93c54d7b55f60e00ed13ead1a2565e1c5a' target='_blank'>2021-07-04 09:42:42</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x4159f71a522b9e282c911d834c2be8a9d66e7d7f8bda0584e69ff9ab0b33dec9' target='_blank'>2021-07-04 09:42:42</a>",
+        "name": "Ar'ac",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x7fCc3B4a05826c14afaFe6830F3511E9DDE48171' target='_blank'>0x7fCc3B4a05826c14afaFe6830F3511E9DDE48171</a>",
+        "epithets": "Ether-Shaper of the Pitch",
+        "description": "A great, black, devilish entity with a bizarre, insectoid appearance. It is said to be able to reshape reality through its etheric web, and any living creature it touches falls into catatonic stupor."
+    },
+    {
+        "art": "<img alt='Anu-avadh & Atharvadh' height='125px' src='images/anu-avadh-and-atharvadh.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x05c2f0c25d8d6859f2f556e94a866bce3eb633700cfbd852215bad1eda2fd9fa' target='_blank'>2021-07-04 19:14:40</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x92a7ec20b15a17765de66e805ef2888f46c5dbd4fc83c4371ec9af92f68d749e' target='_blank'>2021-07-04 19:14:40</a>",
+        "name": "Anu-avadh & Atharvadh",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0xfe6474CB60d7a3771cd436fc9893f78dA7B8D7Bc' target='_blank'>plegma.eth</a>",
+        "epithets": "The Twin Princes of the Sun",
+        "description": "Conjoined brothers, one golden and one silver, who are masters of the sun and the moon. They are said to visit the realm of men every new year to impart their wisdom to the children."
     }
 ]
