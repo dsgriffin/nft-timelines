@@ -568,5 +568,65 @@
         "author": "<a href='https://etherscan.io/address/0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47' target='_blank'>0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47</a>",
         "epithets": "The Sagely One",
         "description": "The wise queen of the Hoununkees, Soriyia is one of the greatest benefactors of the Vast. She takes a great interest in the research of the realm, encouraging experimentation and trying to determine the proper methods of mitigating the slow collapse of its borders."
+    },
+    {
+        "art": "<img alt='Stari'bla' height='125px' src='images/stari-bla.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xf6860ea47a34ba1cfb63f890f84b2cf8cf83155259cab81c76be77cb1ca2730d' target='_blank'>2021-06-24 06:02:09</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xd521f7dd65fee6445020fab9a63b77673fd78d9ffd3a066c3ae15c11e694cc63' target='_blank'>2021-06-24 06:02:09</a>",
+        "name": "Stari'bla",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47' target='_blank'>0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47</a>",
+        "epithets": "The Black Sun",
+        "description": "A sentient star with no light, said to exist within the deepest part of the universe. Within the Blind Star is the realm of Cchzchchhaa, the World Dragon."
+    },
+    {
+        "art": "<img alt='Cptzchshuai' height='125px' src='images/cptzchshuai.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x4ac019a17ad77903b9ebff99666ccc2671c56e72ed299bf27109c06b0c495c45' target='_blank'>2021-06-24 06:46:00</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x58d9e3a6ef3e7ab5ce7198ed520f6d79cf3366d77c15bc2ecf608ec1dbd56530' target='_blank'>2021-06-24 07:09:04</a>",
+        "name": "Cptzchshuai",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47' target='_blank'>0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47</a>",
+        "epithets": "Leviathan of the Deep",
+        "description": "A gigantic beast which dwells in the depths of the Gulf of Rhot. Said to have been exiled from the realm of the Gods for his terrible acts. It is often described as being an evil equal to or greater than Zathroth, and they are said to be locked in a struggle with one another as the Leviathan lures men to their deaths through its servants, such as Gh'nag-gh'a and C'zhur-Gh'ull-Lhaa, whereas Zathroth attempts to destroy life by corrupting every living thing."
+    },
+    {
+        "art": "<img alt='An'sac' height='125px' src='images/an-sac.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xe739fe11be0a1469a7c62d57413b016a23247692832605ceff13e02947a5de57' target='_blank'>2021-06-24 11:42:05</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x1f32b2c5f5cbeaae2786645953129d056973e0a291ccc69c6273ebcc07a75344' target='_blank'>2021-06-24 11:46:48</a>",
+        "name": "An'sac",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xA3dFB42724734D74d1B66f6F12a4AfA5D7D38DF2' target='_blank'>thecarter.eth</a>",
+        "epithets": "One Who Persists",
+        "description": "The oldest being of all the Aetherials. She does not age, and has been seen to hover at the edge of reality, the only being in existence that was able to accomplish such a feat. She spends most of her time within the Orb of All, where she watches, and also makes appearances on high altars, the surface of dark worlds, and in the skies. She is considered to be the ultimate force in the Aether, since she can enter the heavens or exit to approach the mortal plane."
+    },
+    {
+        "art": "<img alt='Zhai' height='125px' src='images/zhai.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xbaeae7eb857d2f69525e57b98f016404f303bd254c38fd00eb48825906349cd7' target='_blank'>2021-06-26 10:41:25</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xc61ca4a6d28ef95effff4a5759718f5595fc9306806b7303e62f6c3e85c15129' target='_blank'>2021-06-26 10:42:07</a>",
+        "name": "Zhai",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x9FeCf056375A973308bB3D6fb6b1c230CfD21456' target='_blank'>Council of Old Ones</a>",
+        "epithets": "The Giftbringer",
+        "description": "The Giftbringer is one of Alchera's most mysterious beings. He is a pale, one-eyed man wearing a dark robe and a mask of shadows. This mask often conceals his face, but when the mask of shadows is removed, he is said to be an ancient being, the embodiment of Alchera's good will, but one that takes no joy in it."
+    },
+    {
+        "art": "<img alt='Bwgenlun' height='125px' src='images/bwgenlun.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x50fef636738c58bc78745a0b36e7794e645c6e5015af752789ed5a02f308bc5c' target='_blank'>2021-06-26 10:45:13</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xbd389520392c3d1b6785fc3f3f58f1b02800c9d04299b13880d685ba8936cb18' target='_blank'>2021-06-26 10:45:13</a>",
+        "name": "Bwgenlun",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x9FeCf056375A973308bB3D6fb6b1c230CfD21456' target='_blank'>Council of Old Ones</a>",
+        "epithets": "Giant of Shadow",
+        "description": "A colossal being of shadow with several human-like faces growing out of what seems to be its stomach, and one huge face on the back of its head. It is said to have 'bloomed forth from the Black Moon' and to have shattered the moon into lumps of black glass."
+    },
+    {
+        "art": "<img alt='Zgrgl' height='125px' src='images/zgrgl.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x2532465430775ef17c990474301dd35e2469ff891b088bff89f27eded96bf87c' target='_blank'>2021-06-26 10:48:20</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xc72b0e448fa05f8ef5b7cc804e5088a9336b4953953e53135080205fe9aa9c0c' target='_blank'>2021-06-26 10:48:20</a>",
+        "name": "Zgrgl",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x9FeCf056375A973308bB3D6fb6b1c230CfD21456' target='_blank'>Council of Old Ones</a>",
+        "epithets": "The Rainbow Worm",
+        "description": "An immensely long worm with a huge, gaping mouth at one end, and multiple, heaving abdomens at the other end. Its skin is said to be rainbow-colored. It is capable of devouring the world and Ntánu Uryayar, the Burning Mountain, in one bite, and has been prophesied to do so by Huacas after the coming of the Fleet of Worlds."
     }
 ]
