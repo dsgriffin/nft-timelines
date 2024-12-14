@@ -670,16 +670,6 @@
         "description": "A legendary creature of immense power which once served as the guardian of the universe. It is said to be located in a celestial void called O's Maw, and that it came to Earth in the form of a great serpent. It is believed that Dluthos slew it, and its body turned to stone upon death, becoming the column of stone at the center of Xavala."
     },
     {
-        "art": "<img alt='Jielung-Shi' height='125px' src='images/jielung-shi.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0xfbf4348ede339f16af9041f442e906e722358ee2f6eb5a93a58fe53e92e004e9' target='_blank'>2021-06-29 05:37:11</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0x48b79cff3499dca435a8b85da905dc1fd8c0a93f2c72d0f0405ba461e3397bb8' target='_blank'>2021-06-29 05:38:48</a>",
-        "name": "Jielung-Shi",
-        "series": "2",
-        "author": "<a href='https://etherscan.io/address/0x75d4bdBf6593ed463e9625694272a0FF9a6D346F' target='_blank'>xmon.eth</a>",
-        "epithets": "The World Dragon",
-        "description": "A legendary creature of immense power which once served as the guardian of the universe. It is said to be located in a celestial void called O's Maw, and that it came to Earth in the form of a great serpent. It is believed that Dluthos slew it, and its body turned to stone upon death, becoming the column of stone at the center of Xavala."
-    },
-    {
         "art": "<img alt='Slaaaof' height='125px' src='images/slaaaof.gif' width='125px'/>",
         "onchain_datetime": "<a href='https://etherscan.io/tx/0x3940e5114ff17cc22eeccdc105c32409eebf97ecebd65876045a1392c0d899cf' target='_blank'>2021-07-01 06:43:40</a>",
         "linked_datetime": "<a href='https://etherscan.io/tx/0xa160aa284f05f869e8bec7242234ef917c57df79d9b7632b178ef5d51215ed3c' target='_blank'>2021-07-01 06:43:43</a>",
