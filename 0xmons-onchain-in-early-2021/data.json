@@ -438,5 +438,135 @@
         "author": "<a href='https://etherscan.io/address/0x7A69a8399740fcB54a182957181a5FCA675e1eF5' target='_blank'>angryboo.eth</a>",
         "epithets": "Signet of Darkness",
         "description": "A deep, dark, circular being that floats in the ceiling of an immense cavern, cloaked in shadows. The Abyssal Ensemble is said to be imprisoned within it."
+    },
+    {
+        "art": "<img alt='Thal' height='125px' src='images/thal.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x292f8b2a8df8d6e6bd0e1dbabe18a1f204f35a76c30f5756a9417c55702fa433' target='_blank'>2021-06-20 14:36:58</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x543751728037dfb166d8a643556c6c3ce926badc010c14670ebb637a2bf47c3f' target='_blank'>2021-06-20 14:36:58</a>",
+        "name": "Thal",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x7A69a8399740fcB54a182957181a5FCA675e1eF5' target='_blank'>angryboo.eth</a>",
+        "epithets": "The Tempest",
+        "description": "An enigmatic being with one enormous eye, most often said to be the eye of the Great Storm itself. Its most common name in the Vast is 'The Thunder God', and it is generally held to be the largest of the beings which dwell in the Primal Sarcophagus."
+    },
+    {
+        "art": "<img alt='Ornan Unsca' height='125px' src='images/ornan-unsca.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xb307a0bd372445068a1eb950a1358ad5337ee87e219ee036742374d19fa5c8e6' target='_blank'>2021-06-20 18:06:28</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x079cde72d6eea60d31e28555d95e1e6f1dab7b06eac26a44f2855b68d9f20372' target='_blank'>2021-06-24 05:11:24</a>",
+        "name": "Ornan Unsca",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0xA8DEFb2E1fe760f02f39E3D07A2BA0605fD8eb28' target='_blank'>shiroi.eth</a>",
+        "epithets": "The Mad Mage",
+        "description": "A depraved wizard who has done terrible things in her pursuit of power. It is believed that Ornan Unsca has been undead since before recorded history, and that she may have been born from the corpse of the legendary wizard Dluthos. She is the leader of the Cult of Zhar & Lloigor."
+    },
+    {
+        "art": "<img alt='Zhuryä' height='125px' src='images/zhurya.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x4cdad4d62799f596738c3ac989e3ba78edfc103c39e7fcf72c366324ee1d8b89' target='_blank'>2021-06-20 21:36:20</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x32e0e9b43387ec1837747177d801d3f85a5fa2b2244fd4db084e08f8008f3865' target='_blank'>2021-06-20 21:36:20</a>",
+        "name": "Zhuryä",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xa478b38fde533A215139Bd415abd8D2752c6C62b' target='_blank'>mundus.eth</a>",
+        "epithets": "The Fate Weaver",
+        "description": "A being which resides in the space near the Blind Star, and is said to be the soul sister of the World Serpent. She is a powerful being, but with very little knowledge of the world outside her own. She can change someone's path."
+    },
+    {
+        "art": "<img alt='Iniellarl'imu' height='125px' src='images/iniellarl-imu.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xd904cc185b52f4a4879705a2db2d154f20ee01483642c62f0c9f486c0eef3f3c' target='_blank'>2021-06-20 21:40:16</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x68d2ab9386574bbfb7b08e0c8cc2b168c5f3ba1932dfe4e29807230ea83a5745' target='_blank'>2021-06-20 21:40:16</a>",
+        "name": "Iniellarl'imu",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xa478b38fde533A215139Bd415abd8D2752c6C62b' target='_blank'>mundus.eth</a>",
+        "epithets": "The One Above",
+        "description": "A sentient being which transcends space and time. She dwells in the ancient body of a cleric who sacrificed herself for the temple of an entity which no one seems to remember. She has the power to perceive and manipulate the very fabric of the Pod's makeup. The only thing that keeps the Arbiters of the War in the Sky from defeating her is the remaining strands of her consciousness, which also anchor her."
+    },
+    {
+        "art": "<img alt='Raska' height='125px' src='images/raska.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xd5f86c6fd83a78a433701a6893af3bdfb5a4fe5affe2d3d5c1bfc180bbc1b4bd' target='_blank'>2021-06-21 06:26:18</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xe982d480ff7252417368f2d6d1f2fe9b845ef6d0ae3d6c5982568c618c0988f6' target='_blank'>2021-06-21 06:26:18</a>",
+        "name": "Raska",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x7fCc3B4a05826c14afaFe6830F3511E9DDE48171' target='_blank'>0x7fCc3B4a05826c14afaFe6830F3511E9DDE48171</a>",
+        "epithets": "The Scarlet Mistress",
+        "description": "An ancient, fiery crone with blood-red skin and stark white hair. She has gem-like eyes which burn like fire. Raska rules over the subterranean realm of Nur and controls the dead."
+    },
+    {
+        "art": "<img alt='Yorae' height='125px' src='images/yorae.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x8567fb3bef6b7ae0d93a6623b278a5a8a9f880fd47807ecd0444e2e163a7402e' target='_blank'>2021-06-23 23:27:21</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xe2b540ac60a87b71c373f35973bb19c9d2cfc660ce4437962afbe979fe740531' target='_blank'>2021-06-23 23:27:23</a>",
+        "name": "Yorae",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47' target='_blank'>0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47</a>",
+        "epithets": "The Mystery That Walks",
+        "description": "A scarlet, shifting humanoid that always looks to be made of smoke and haze, with a single, glowing eye. It is always seen carrying an oversized scythe adorned with frantic whispers."
+    },
+    {
+        "art": "<img alt='Alchera' height='125px' src='images/alchera.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xcb7498e30c9f6455127f9c9876ad53e85a157a0b04335403f75becd3c8d63e81' target='_blank'>2021-06-23 23:28:50</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xc26a84d1ba0e4247af3d38bb81ef585105c7d6231fc703d6180d304a3154e48b' target='_blank'>2021-06-23 23:28:50</a>",
+        "name": "Alchera",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47' target='_blank'>0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47</a>",
+        "epithets": "The Great Mother",
+        "description": "The creator of all life. It is said to reside in some realm beyond human understanding. It created itself from the Void, and then created the first sentient beings, the Nüwaddi, as part of its own being."
+    },
+    {
+        "art": "<img alt='Betchai' height='125px' src='images/betchai.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xc0709bf587937a18bd8d4fc4b3d02d5c9bcccf1afc8a3b3b1353d44b0f52bcd9' target='_blank'>2021-06-24 05:11:33</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x35659e33e0096286fce31296bb420e734737b87731bdfa9180a16bff2353373b' target='_blank'>2021-06-24 05:11:33</a>",
+        "name": "Betchai",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xA8DEFb2E1fe760f02f39E3D07A2BA0605fD8eb28' target='_blank'>shiroi.eth</a>",
+        "epithets": "The Friend of the Children",
+        "description": "One of the Pitch Gods, Betchai has always lived and taught in the lands of night. But these days she resides within a blazing waterfall in the Pit of Hate, surrounded by a ring of pitch and tar. The legend of Betchai has it that she appeared to protect the children of that village, but the Pitch Gods have cast her out. She now works as a guide to the Cave of Fear, the innermost realm of the Pit."
+    },
+    {
+        "art": "<img alt='Mystänth'yu' height='125px' src='images/mystanth-yu.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x2edbc848d163fc00f3fa0ca6d49d2155d4fccad73abf03c7dcb7ca428214d52f' target='_blank'>2021-06-24 05:11:33</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xa189abe4fd18140f345c754a883bc120976c9a4bf4b1664887c98c9b816f637a' target='_blank'>2021-06-24 05:11:33</a>",
+        "name": "Mystänth'yu",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xA8DEFb2E1fe760f02f39E3D07A2BA0605fD8eb28' target='_blank'>shiroi.eth</a>",
+        "epithets": "The Entangled One",
+        "description": "Said to be the first person to have ever died. Her soul became an entity of its own, one which created and controlled the Misery-Tide. Now, spirits flock to her waves, carried by the force of her sorrow."
+    },
+    {
+        "art": "<img alt='Elincrei' height='125px' src='images/elincrei.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x129c3b7c8562d56f1b7b98017b50e23fdb9b9598926c1b48686a7d954bedb57f' target='_blank'>2021-06-24 05:38:49</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x91869abd28eb868ac77587aec1705381a858ccf5fb6f8f5291c0885dc65f1057' target='_blank'>2021-06-24 05:38:49</a>",
+        "name": "Elincrei",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47' target='_blank'>0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47</a>",
+        "epithets": "Storm of the Moon",
+        "description": "Her head is the true crater of the Red Moon, which has been raining down blood for millennia. She rules the highest levels of command in the Lunar Association, and her massive shadow has a destructive effect on anyone who approaches it. If anyone without a ritual approaches her, they are likely to be transformed into a blood-sodden corpse."
+    },
+    {
+        "art": "<img alt='Rüäz-Lhüth' height='125px' src='images/ruaz-lhuth.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xc86d7e28778b375553d12544bdf4d0f2db1bffc8dd3063d0abf2a13da196ac08' target='_blank'>2021-06-24 05:38:49</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x0c6494c6d723d978282965c70e993a325b15fbe55fbe1763251fbff1c2cfe9cf' target='_blank'>2021-06-24 05:38:49</a>",
+        "name": "Rüäz-Lhüth",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47' target='_blank'>0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47</a>",
+        "epithets": "Spinning Wheels of the Dark, The Blue Purple of Eternity",
+        "description": "The world was once a void made of abstract force, but after aeons of such existence, it began sputtering and pulsing with life when two great stars, one white and one purple, fell into the void. These stars were Rüäz and Lhüth. Rüäz was charged with life, and Lhüth with death. They dwelt together, until one day Lhüth saw a human being and attempted to destroy it. Rüäz intervened and rescued the human, and they soon parted ways. Rüäz remained in the void while Lhüth went away to roam the universe."
+    },
+    {
+        "art": "<img alt='T'nkthu' height='125px' src='images/t-nkthu.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x6e4947080e537b08ced3bf3a7cb335988b0462d5e702fc9dfc04da3ad52c5927' target='_blank'>2021-06-24 05:45:37</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xf3e7fadbf8c3fc29d081eeb1116d725191b7ee80d44e93b20cedf05fbc8dcced' target='_blank'>2021-06-24 05:46:30</a>",
+        "name": "T'nkthu",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47' target='_blank'>0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47</a>",
+        "epithets": "The Phantasm of the Unseen",
+        "description": "A god-like entity, said to be inexorably drawn to the sound of laughter. It was said to have been buried underneath the ice at the South Pole before the coming of the Flametopians."
+    },
+    {
+        "art": "<img alt='Soriyia' height='125px' src='images/soriyia.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x93b5691e700186aff2b544afacca3252002d54940a8fd5126822b32dfa89a72c' target='_blank'>2021-06-24 05:57:37</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x435761acebaf4ef81c4e2aac2fa59ad069ac1ded89bae5b43ebb876366269be8' target='_blank'>2021-06-24 05:57:37</a>",
+        "name": "Soriyia",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47' target='_blank'>0x0c3DbcF236282ed1ECa06597D8858CCfBa569c47</a>",
+        "epithets": "The Sagely One",
+        "description": "The wise queen of the Hoununkees, Soriyia is one of the greatest benefactors of the Vast. She takes a great interest in the research of the realm, encouraging experimentation and trying to determine the proper methods of mitigating the slow collapse of its borders."
     }
 ]
