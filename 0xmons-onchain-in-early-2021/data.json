@@ -82,7 +82,7 @@
     {
         "art": "<img alt='Xálagor' height='125px' src='images/xalagor.gif' width='125px'/>",
         "onchain_datetime": "<a href='https://etherscan.io/tx/0x59984b378cc0e8453497933f63cec3d0a57f67d39e042a9fff59555b61aa4e60' target='_blank'>2021-03-01 12:01:41</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xdd655c520b492034fa82837b80944f8fef9934cbc9649c634d9bfb29cea518d3' target='_blank'>TBD</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x761436d4ea60ad5d2cea46ee91409d01dc84d4ba95e29b6a38d71990fb36226f' target='_blank'>2021-08-02 12:28:40</a>",
         "name": "Xálagor",
         "series": "1",
         "author": "<a href='https://etherscan.io/address/0x5068aed87a97c063729329c2ebE84cfEd3177F83' target='_blank'>0x5068aed87a97c063729329c2ebE84cfEd3177F83</a>",
@@ -768,26 +768,6 @@
         "author": "<a href='https://etherscan.io/address/0x4c973E0E6Dd28182A8CF29c78d56F8c1730CdA91' target='_blank'>techspecvault.eth</a>",
         "epithets": "Master of Hunger and Despair",
         "description": "A colossal entity said to have the power to bring famine to the earth. It is said to be visible from the Core World, and usually takes the form of a vast, black serpentine creature with three heads."
-    },
-    {
-        "art": "<img alt='Iä-Ngai' height='125px' src='images/ia-ngai.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x15c460e27e462e6a62896d8fbb16bda812e3bd92e0fcf5da4d767e13ea782e01' target='_blank'>2021-07-11 13:27:28</a>",
-        "linked_datetime": "<p class='text-danger'>No Link - Never Attempted</p>",
-        "name": "Iä-Ngai",
-        "series": "1",
-        "author": "<a href='https://etherscan.io/address/0x0b13f13c0E99F24b96A835B787D1347B33d87776' target='_blank'>internetman.eth</a>",
-        "epithets": "Sordid Gnawer of the Moon",
-        "description": "A small, shining creature with unblinking eyes and a small agape mouth. It is said to come from the depths of space. Can bring luck or misfortune depending on time of day."
-    },
-    {
-        "art": "<img alt='Iä-Ngai' height='125px' src='images/ia-ngai.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x15c460e27e462e6a62896d8fbb16bda812e3bd92e0fcf5da4d767e13ea782e01' target='_blank'>2021-07-11 13:27:28</a>",
-        "linked_datetime": "<p class='text-danger'>Art Not Linked To NFT - Not Attempted</p>",
-        "name": "Iä-Ngai",
-        "series": "1",
-        "author": "<a href='https://etherscan.io/address/0x0b13f13c0E99F24b96A835B787D1347B33d87776' target='_blank'>internetman.eth</a>",
-        "epithets": "Sordid Gnawer of the Moon",
-        "description": "A small, shining creature with unblinking eyes and a small agape mouth. It is said to come from the depths of space. Can bring luck or misfortune depending on time of day."
     },
     {
         "art": "<img alt='Iä-Ngai' height='125px' src='images/ia-ngai.gif' width='125px'/>",
