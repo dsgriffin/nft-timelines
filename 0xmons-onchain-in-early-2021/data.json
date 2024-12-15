@@ -292,7 +292,7 @@
     {
         "art": "<img alt='Thori 'eleke' height='125px' src='images/thori-eleke.gif' width='125px'/>",
         "onchain_datetime": "<a href='https://etherscan.io/tx/0x8d85d000017098f5664f6e74c3c6cb6d32d823f81b3ab56f2421db33e55c8e04' target='_blank'>2021-06-13 07:57:14</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0x8f08225f0a65be93fee7163095fffc58fec3a1c2a18f24068bb5a26566fa08f5' target='_blank' class='text-danger'>Art Not Linked To NFT - Attempt Failed</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x8f08225f0a65be93fee7163095fffc58fec3a1c2a18f24068bb5a26566fa08f5' target='_blank' class='text-danger'>Art Not Linked To NFT (Attempt Fail)</a>",
         "name": "Thori 'eleke",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0x6871D1a603fEb9Cc2aA8213B9ab16B33e418cD8F' target='_blank'>mitchoz.eth</a>",
@@ -762,7 +762,7 @@
     {
         "art": "<img alt='Iä-Ngai' height='125px' src='images/ia-ngai.gif' width='125px'/>",
         "onchain_datetime": "<a href='https://etherscan.io/tx/0x15c460e27e462e6a62896d8fbb16bda812e3bd92e0fcf5da4d767e13ea782e01' target='_blank'>2021-07-11 13:27:28</a>",
-        "linked_datetime": "<p class='text-danger'>Art Not Linked To NFT - Not Attempted</p>",
+        "linked_datetime": "<p class='text-danger'>Art Not Linked To NFT (No Attempt)</p>",
         "name": "Iä-Ngai",
         "series": "1",
         "author": "<a href='https://etherscan.io/address/0x0b13f13c0E99F24b96A835B787D1347B33d87776' target='_blank'>internetman.eth</a>",
@@ -772,7 +772,7 @@
     {
         "art": "<img alt='Tag'ai' height='125px' src='images/tag-ai.gif' width='125px'/>",
         "onchain_datetime": "<a href='https://etherscan.io/tx/0xc125646ce6a3cc928aecc08c4ee68e5e341ca18d5ab62cca5a012442ed3f2e8a' target='_blank'>2021-07-12 08:10:45</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0x4f85c2d43c56aba3d4c6194ca838bf654234b72c93a89ee4545a704d850539d4' target='_blank' class='text-danger'>Art Not Linked To NFT - Attempt Failed</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x4f85c2d43c56aba3d4c6194ca838bf654234b72c93a89ee4545a704d850539d4' target='_blank' class='text-danger'>Art Not Linked To NFT (Attempt Fail)</a>",
         "name": "Tag'ai",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0xCa11d10CEb098f597a0CAb28117fC3465991a63c' target='_blank'>0xCa11d10CEb098f597a0CAb28117fC3465991a63c</a>",
