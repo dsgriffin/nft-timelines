@@ -760,16 +760,6 @@
         "description": "A colossal entity said to have the power to bring famine to the earth. It is said to be visible from the Core World, and usually takes the form of a vast, black serpentine creature with three heads."
     },
     {
-        "art": "<img alt='Chaofraz' height='125px' src='images/chaofraz.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x4311f238b7a1b80dc04bdfac1b9187d179c6b4d998dace5c1ce358ee670fb19d' target='_blank'>2021-07-10 06:29:34</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0xdbcdc663e99383515b23de61b5ba1abf41b8f2c3a99c354e2b7cd2190fe6b0a0' target='_blank'>2021-07-10 06:30:44</a>",
-        "name": "Chaofraz",
-        "series": "2",
-        "author": "<a href='https://etherscan.io/address/0x4c973E0E6Dd28182A8CF29c78d56F8c1730CdA91' target='_blank'>techspecvault.eth</a>",
-        "epithets": "Master of Hunger and Despair",
-        "description": "A colossal entity said to have the power to bring famine to the earth. It is said to be visible from the Core World, and usually takes the form of a vast, black serpentine creature with three heads."
-    },
-    {
         "art": "<img alt='Iä-Ngai' height='125px' src='images/ia-ngai.gif' width='125px'/>",
         "onchain_datetime": "<a href='https://etherscan.io/tx/0x15c460e27e462e6a62896d8fbb16bda812e3bd92e0fcf5da4d767e13ea782e01' target='_blank'>2021-07-11 13:27:28</a>",
         "linked_datetime": "<p class='text-danger'>Art Not Linked To NFT - Not Attempted</p>",
