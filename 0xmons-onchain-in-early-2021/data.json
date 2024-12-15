@@ -292,7 +292,7 @@
     {
         "art": "<img alt='Thori 'eleke' height='125px' src='images/thori-eleke.gif' width='125px'/>",
         "onchain_datetime": "<a href='https://etherscan.io/tx/0x8d85d000017098f5664f6e74c3c6cb6d32d823f81b3ab56f2421db33e55c8e04' target='_blank'>2021-06-13 07:57:14</a>",
-        "linked_datetime": "<a href='https://etherscan.io/tx/0x8f08225f0a65be93fee7163095fffc58fec3a1c2a18f24068bb5a26566fa08f5' target='_blank' class='text-danger'>Link Attempt Failed</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x8f08225f0a65be93fee7163095fffc58fec3a1c2a18f24068bb5a26566fa08f5' target='_blank' class='text-danger'>Art Not Linked To NFT - Attempt Failed</a>",
         "name": "Thori 'eleke",
         "series": "2",
         "author": "<a href='https://etherscan.io/address/0x6871D1a603fEb9Cc2aA8213B9ab16B33e418cD8F' target='_blank'>mitchoz.eth</a>",
@@ -698,5 +698,165 @@
         "author": "<a href='https://etherscan.io/address/0xfe6474CB60d7a3771cd436fc9893f78dA7B8D7Bc' target='_blank'>plegma.eth</a>",
         "epithets": "The Twin Princes of the Sun",
         "description": "Conjoined brothers, one golden and one silver, who are masters of the sun and the moon. They are said to visit the realm of men every new year to impart their wisdom to the children."
+    },
+    {
+        "art": "<img alt='Quyllur Mitschun' height='125px' src='images/quyllur-mitschun.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x45dd7b340a1998db42812b9932dfa35dad7f97aa19584e0e20efbceabd25da9a' target='_blank'>2021-07-06 05:11:09</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xe31823bfacff577a050ad1e0b4cf5950253fb3a0a04c74bfe856662a211f4603' target='_blank'>2021-07-06 05:26:18</a>",
+        "name": "Quyllur Mitschun",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x836eF81A58e5565b8d1d555EC8E9a5c2792511c6' target='_blank'>niftypins.eth</a>",
+        "epithets": "The Crawling Stone God",
+        "description": "A unique deity which lives within the hill of Qurakukayuq. It is made up of many stones, which shift and crawl across one another. Gargantuan in size, it has an enormous mouth lined with whole rows of needle-like teeth, and shining yellow eyes."
+    },
+    {
+        "art": "<img alt='Loz'ege' height='125px' src='images/loz-ege.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x378e2b902bb4787ad9582c74d8850dab51f8b82c209ab7a69b6606dd45b9d6c7' target='_blank'>2021-07-06 06:29:36</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x94ba22deb3ff709c4bd07d10afcd3d587d1b45436673e49c33f33f9ea99f56b9' target='_blank'>2021-07-06 06:29:36</a>",
+        "name": "Loz'ege",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x701f373Df763308D96d8537822e8f9B2bAe4E847' target='_blank'>0x701f373Df763308D96d8537822e8f9B2bAe4E847</a>",
+        "epithets": "Weaver of the Web That Broods in the Crater",
+        "description": "A colossal entity that could assume the form of a spider when it emerged from the abyss, with the ability to shape and alter reality. At the time of its death, it had been weakening for millennia due to Huacas's predictions, and now it is in a state of 'slow dissolution'."
+    },
+    {
+        "art": "<img alt='Cimakh' height='125px' src='images/cimakh.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x382856a479cf0f48e290a46559d35ec56dfc005d39407256b2960387012ad9a8' target='_blank'>2021-07-06 06:58:13</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x6b620bc5d0f1d98735e8cf7266ea93381edf8b1c2acfc096a0d4850166d21e1a' target='_blank'>2021-07-06 06:58:32</a>",
+        "name": "Cimakh",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x136d06cB3f84B51C25E66F8FbB3791b50A26edf6' target='_blank'>virtualist.eth</a>",
+        "epithets": "Oblivion's Embrace",
+        "description": "An entity of great power, one of the gods of Ruhänz. Part of  her core was lost when the god's physical body was split into many pieces. Her core Entity was cast into the Credo Crater, leaving her legacy forgotten for eons."
+    },
+    {
+        "art": "<img alt='Sigyn' height='125px' src='images/sigyn.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xc9531ab4863c4849a333230fb9c8156772728da8bb982bf6574bbe3abe43f998' target='_blank'>2021-07-06 08:07:12</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x8038b1491dcfae14045743868ca9a18ab6d80ff67061dce7e3dc24475341307d' target='_blank'>2021-07-06 08:07:22</a>",
+        "name": "Sigyn",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x34a32Ad4Ba1EA1eB02CCd3ed5B9af9a8D8ea07A8' target='_blank'>trollboxed.eth</a>",
+        "epithets": "Shield of Truth",
+        "description": "A being of the spirit world, it has no true form, but appears in any form it deems fit. Many observers of its actions are astonished by its power which seems unfit for its small stature. In the past, its power was channeled into sigils inscribed on weapons and armor, which it considers tribute."
+    },
+    {
+        "art": "<img alt='Sha 'nalara' height='125px' src='images/sha-nalara.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xc3d61c546cf688e36e182b8046b25aa8354fc0e76c1a0a363cc1cee3dae78826' target='_blank'>2021-07-06 15:57:10</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x0ce09862a5faecf1fc0f254f0f924e16e74c19d64703b0be585931e874c0b3f0' target='_blank'>2021-07-06 16:20:32</a>",
+        "name": "Sha 'nalara",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xd8856cCe3F878d3Ea03964F80B18987fF1919272' target='_blank'>0xd8856cCe3F878d3Ea03964F80B18987fF1919272</a>",
+        "epithets": "Invisible Blue",
+        "description": "She can appear as any one of a number of things, depending on the vision of its keeper. On occasion, she can be seen performing the worship rituals of the Demesne of Temeria. She is described as an often skinless and disembodied being, resembling a blue humanoid when viewed from the side."
+    },
+    {
+        "art": "<img alt='Chaofraz' height='125px' src='images/chaofraz.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x4311f238b7a1b80dc04bdfac1b9187d179c6b4d998dace5c1ce358ee670fb19d' target='_blank'>2021-07-10 06:29:34</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xdbcdc663e99383515b23de61b5ba1abf41b8f2c3a99c354e2b7cd2190fe6b0a0' target='_blank'>2021-07-10 06:30:44</a>",
+        "name": "Chaofraz",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x4c973E0E6Dd28182A8CF29c78d56F8c1730CdA91' target='_blank'>techspecvault.eth</a>",
+        "epithets": "Master of Hunger and Despair",
+        "description": "A colossal entity said to have the power to bring famine to the earth. It is said to be visible from the Core World, and usually takes the form of a vast, black serpentine creature with three heads."
+    },
+    {
+        "art": "<img alt='Chaofraz' height='125px' src='images/chaofraz.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x4311f238b7a1b80dc04bdfac1b9187d179c6b4d998dace5c1ce358ee670fb19d' target='_blank'>2021-07-10 06:29:34</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xdbcdc663e99383515b23de61b5ba1abf41b8f2c3a99c354e2b7cd2190fe6b0a0' target='_blank'>2021-07-10 06:30:44</a>",
+        "name": "Chaofraz",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x4c973E0E6Dd28182A8CF29c78d56F8c1730CdA91' target='_blank'>techspecvault.eth</a>",
+        "epithets": "Master of Hunger and Despair",
+        "description": "A colossal entity said to have the power to bring famine to the earth. It is said to be visible from the Core World, and usually takes the form of a vast, black serpentine creature with three heads."
+    },
+    {
+        "art": "<img alt='Iä-Ngai' height='125px' src='images/ia-ngai.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x15c460e27e462e6a62896d8fbb16bda812e3bd92e0fcf5da4d767e13ea782e01' target='_blank'>2021-07-11 13:27:28</a>",
+        "linked_datetime": "<p class='text-danger'>No Link - Never Attempted</p>",
+        "name": "Iä-Ngai",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x0b13f13c0E99F24b96A835B787D1347B33d87776' target='_blank'>internetman.eth</a>",
+        "epithets": "Sordid Gnawer of the Moon",
+        "description": "A small, shining creature with unblinking eyes and a small agape mouth. It is said to come from the depths of space. Can bring luck or misfortune depending on time of day."
+    },
+    {
+        "art": "<img alt='Iä-Ngai' height='125px' src='images/ia-ngai.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x15c460e27e462e6a62896d8fbb16bda812e3bd92e0fcf5da4d767e13ea782e01' target='_blank'>2021-07-11 13:27:28</a>",
+        "linked_datetime": "<p class='text-danger'>Art Not Linked To NFT - Not Attempted</p>",
+        "name": "Iä-Ngai",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x0b13f13c0E99F24b96A835B787D1347B33d87776' target='_blank'>internetman.eth</a>",
+        "epithets": "Sordid Gnawer of the Moon",
+        "description": "A small, shining creature with unblinking eyes and a small agape mouth. It is said to come from the depths of space. Can bring luck or misfortune depending on time of day."
+    },
+    {
+        "art": "<img alt='Iä-Ngai' height='125px' src='images/ia-ngai.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x15c460e27e462e6a62896d8fbb16bda812e3bd92e0fcf5da4d767e13ea782e01' target='_blank'>2021-07-11 13:27:28</a>",
+        "linked_datetime": "<p class='text-danger'>Art Not Linked To NFT - Not Attempted</p>",
+        "name": "Iä-Ngai",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0x0b13f13c0E99F24b96A835B787D1347B33d87776' target='_blank'>internetman.eth</a>",
+        "epithets": "Sordid Gnawer of the Moon",
+        "description": "A small, shining creature with unblinking eyes and a small agape mouth. It is said to come from the depths of space. Can bring luck or misfortune depending on time of day."
+    },
+    {
+        "art": "<img alt='Tag'ai' height='125px' src='images/tag-ai.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xc125646ce6a3cc928aecc08c4ee68e5e341ca18d5ab62cca5a012442ed3f2e8a' target='_blank'>2021-07-12 08:10:45</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x4f85c2d43c56aba3d4c6194ca838bf654234b72c93a89ee4545a704d850539d4' target='_blank' class='text-danger'>Art Not Linked To NFT - Attempt Failed</a>",
+        "name": "Tag'ai",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xCa11d10CEb098f597a0CAb28117fC3465991a63c' target='_blank'>0xCa11d10CEb098f597a0CAb28117fC3465991a63c</a>",
+        "epithets": "The Indigo Demon",
+        "description": "An entity of a dark ice. The entity wears an emblazoned white circle upon his forehead, and it is said that this mark can bring about any curse or misfortune one may imagine. Having used the object it wears on its head to travel from place to place, it is often described as a floating, spherical globe, with a pair of bright blue eyes that seem to look directly into the souls of those who look upon it."
+    },
+    {
+        "art": "<img alt='Zhign'na-Mga' height='125px' src='images/zhign-na-mga.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x94a9f719960c11c78e944b71a7bf001147724e513de84e4172706a31e0a005d8' target='_blank'>2021-07-12 20:11:45</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x321a56ce4be99888785c1917b584501b6a3c721e68bb54b934fd3b27a4f62a82' target='_blank'>2021-07-12 20:11:50</a>",
+        "name": "Zhign'na-Mga",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x14df40586e0F2Ca5CA222DB0dAc8Df2f4C5b1AAb' target='_blank'>glorysk87.eth</a>",
+        "epithets": "The Breathing Void",
+        "description": "A colossal, amorphous, black mass which periodically sucks in all the light and air in a given radius. It is said to be a servant of the Void Mother."
+    },
+    {
+        "art": "<img alt='Hräthkk' height='125px' src='images/hrathkk.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xceac6e036ac261e70696048db8349230df9b503f678eb12ef3372f83bc95450e' target='_blank'>2021-07-24 09:09:48</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x25ec45fc7843bbd290549d1f0afd4e8b25d81f034da544cced40452a9306c425' target='_blank'>2021-07-24 09:09:48</a>",
+        "name": "Hräthkk",
+        "series": "1",
+        "author": "<a href='https://etherscan.io/address/0xdcBc0c22EB301fd12266892bDC21b316b88f494A' target='_blank'>0xdcBc0c22EB301fd12266892bDC21b316b88f494A</a>",
+        "epithets": "The Dark Wood Demon, The Living Furnace",
+        "description": "A gigantic black figure surrounded by ghostly flames and thorny tree boughs. Said to resemble a man, but mostly shrouded in shadow, its face is only visible when its eyes burn with anger. It inhabits a vast, haunted forest of dead or dying trees which can be found in many of the world's most isolated landmasses."
+    },
+    {
+        "art": "<img alt='Vertris' height='125px' src='images/vertris.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xdbaedc3e7830e163fdb64af7212f15aa049caf8db1803dc94be313f8bfba2973' target='_blank'>2021-07-24 09:12:32</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x71a896df2d97a4fd9007be23f1a68d3e80efc4caa13f1f552149180450803291' target='_blank'>2021-07-24 09:12:52</a>",
+        "name": "Vertris",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0xdcBc0c22EB301fd12266892bDC21b316b88f494A' target='_blank'>0xdcBc0c22EB301fd12266892bDC21b316b88f494A</a>",
+        "epithets": "A Taste of the Fiery Past",
+        "description": "A monstrous creature who hides in the limits of the Moag by constantly jumping and shooting fire from its hands. Those struck by its flames find themselves dislodged from time. Chronology bends when it erupts."
+    },
+    {
+        "art": "<img alt='Khepri' height='125px' src='images/khepri.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x6e121f5e3407b8082996dad245281cd345ef5e8a7d8b412bd19dd2f508d4e14e' target='_blank'>2021-08-02 01:27:00</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0x76604c7f2f9de591c05c5e0555abf5cf2c87bb21d2e7fb012c78385589d019d6' target='_blank'>2021-08-02 01:28:25</a>",
+        "name": "Khepri",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x6a191c11fBF567bB19F554393662Da80d269BE91' target='_blank'>criminy.eth</a>",
+        "epithets": "The Elemental Warden",
+        "description": "An entity of fire and ice, it was forged in the fires of the Void. As a Celestial, it is bound to the Hyades star cluster. It is a dark, forbidding, heavenly entity that is a frequent protector of sentient races, but its cruelty to aggressors knows no bounds."
+    },
+    {
+        "art": "<img alt='Kus' height='125px' src='images/kus.gif' width='125px'/>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0xf2c3b36041bbc56fd9e973eea01c76015cf2fd04f829cdfead862714efec26db' target='_blank'>2021-08-05 22:54:49</a>",
+        "linked_datetime": "<a href='https://etherscan.io/tx/0xd4ae22a444a118988c0ad46bf73e115f5aade345a35c684474648d70b994ef23' target='_blank'>2021-08-05 22:59:13</a>",
+        "name": "Kus",
+        "series": "2",
+        "author": "<a href='https://etherscan.io/address/0x2f45724d7E384b38D5C97206e78470544304887F' target='_blank'>0x2f45724d7E384b38D5C97206e78470544304887F</a>",
+        "epithets": "The Silver One",
+        "description": "The Silver One is said to be an elder god, long ago bound to the mountains by magic. It is said that it protects those who seek its help, but will only speak to those who walk with it in its native form. It was not seen for many years after it fell under the sway of the Night Gods, but it has returned and is said to be powerful enough to challenge them."
     }
 ]
