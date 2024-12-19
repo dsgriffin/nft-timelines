@@ -4,9 +4,9 @@ NFT Timelines is a repo containing various nft timelines, specifically ones rela
 
 Each timeline contains an `images/` folder; I strive to only use the original onchain/hash-matching files for each asset mentioned, but there will be the odd exception (e.g. PEPERMANENT being displayed as a .gif rather than the entire onchain .json file).
 
-# Timelines
+## Timelines
 
-## 0xmons Onchain In Early 2021
+### 0xmons Onchain In Early 2021
 
 Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR (art + algo/neural onchain) on the 9th August 2021, making them the earliest known onchain AI artworks.
 
@@ -14,7 +14,7 @@ Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR 
 
 [View Source Code](https://github.com/dsgriffin/nft-timelines/tree/main/0xmons-onchain-in-early-2021)
 
-## Earliest Hashed NFTs On Bitcoin (2014-2018)
+### Earliest Hashed NFTs On Bitcoin (2014-2018)
 
 ~99% of early Bitcoin NFTs lacked cryptographic proof linking them to the data/art they represented. This table is about the ~1%.
 
@@ -22,7 +22,7 @@ Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR 
 
 [View Source Code](https://github.com/dsgriffin/nft-timelines/tree/main/earliest-hashed-nfts-on-bitcoin)
 
-## Pre-Ordinals Onchain Bitcoin NFTs
+### Pre-Ordinals Onchain Bitcoin NFTs
 
 Before the first Ordinals inscription (14th December 2022) there was already a small batch of onchain Bitcoin NFTs. Here they are.
 
@@ -30,10 +30,10 @@ Before the first Ordinals inscription (14th December 2022) there was already a s
 
 [View Source Code](https://github.com/dsgriffin/nft-timelines/tree/main/pre-ordinals-onchain-bitcoin-nfts)
 
-# Contributing
+## Contributing
 
-If you find any assets missing, or incorrect dates or links, feel free to create an [Issue](https://github.com/dsgriffin/nft-timelines/issues).
+If you've found a bug or have an idea, feel free to open an Issue. If you've got a fix or feature ready, open a PR. Thanks!
 
-# License
+## License
 
 MIT
