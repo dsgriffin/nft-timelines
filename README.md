@@ -1,4 +1,4 @@
-
+# NFT Timelines
 
 NFT Timelines is a repo containing various nft timelines, specifically ones relating to "firsts" or relatively early tokens of a niche.
 
@@ -36,4 +36,4 @@ If you find any assets missing, or incorrect dates or links, feel free to create
 
 # License
 
-[MIT](LICENSE.txt)
+MIT
