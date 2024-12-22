@@ -4,6 +4,18 @@ NFT Timelines is a repo containing various nft timelines, specifically ones rela
 
 Each timeline contains an `images/` folder; I strive to only use the original onchain/hash-matching files for each asset mentioned, but there will be the odd exception (e.g. PEPERMANENT being displayed as a .gif rather than the entire onchain .json file).
 
+### Defining an NFT
+
+In the strictest sense, an NFT is a unique 1/1 token representing ownership of something (art etc).
+
+In common usage however, it's used to refer to any kind of tokenized asset, nonfungible or not, that is seen as collectible outside of (generally) larger supply altcoins or memecoins.
+
+For example, semi-fungible blockchain collectibles were first popularized on Bitcoin by both Ascribe & Spells of Genesis, before exploding in popularity when the ERC-1155 standard was released on Ethereum in 2019.
+
+The key point to remember is that **all NFTs are ownable, tradable (except soulbound tokens) tokens that represent something**.
+
+**The entries and dates in all of the timelines found here therefore go by the earliest date where the NFT itself fully existed; it could be ownable, it could be tradable (except for soulbound tokens) and it represented something**.
+
 ## Timelines
 
 ### 0xmons Onchain In Early 2021
