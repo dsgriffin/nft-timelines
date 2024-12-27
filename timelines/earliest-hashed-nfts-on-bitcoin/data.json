@@ -907,7 +907,7 @@
         "names": "WAIT",
         "supply": "1000",
         "hash": "?",
-        "project_author": "Ingesture <br /> <a href='https://x.com/sull' target='_blank'>Sullc</a>",
+        "project_author": "Ingesture <br /> <a href='https://x.com/sull' target='_blank'>Sull</a>",
         "file_type": "?",
         "status": "⚠️",
         "notes": "May be a verification code instead."
@@ -1089,15 +1089,15 @@
         "notes": "See <a href='https://pepe.wtf/asset/CORNBUDDHA' target='_blank'>pepe.wtf/asset/CORNBUDDHA</a>."
     },
     {
-        "file": "?",
+        "file": "<img alt='VOTEBENCH by Bench' height='85px' src='images/votebench-unhashed.jpg' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/0b4363af9b41b0b730ea8d071f2bce3fef087d585a9972bf5c25bbf5a32c8b0d' target='_blank'>2018-09-28<br/>23:11:54</a>",
         "names": "VOTEBENCH",
         "supply": "16 🔒",
         "hash": "MD5",
-        "project_author": "? <br /> <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
-        "file_type": "?",
+        "project_author": "Kaleidoscope XCP <br /> <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
+        "file_type": "jpg",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     },
     {
         "file": "<img alt='ROASTEDCORN by MightBeMike' height='85px' src='images/roastedcorn-unhashed.png' width='70px'/>",
@@ -1105,8 +1105,8 @@
         "names": "ROASTEDCORN",
         "supply": "101 🔒",
         "hash": "SHA-256",
-        "project_author": "? <br /> <a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
-        "file_type": "gif",
+        "project_author": "Kaleidoscope XCP <br /> <a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
+        "file_type": "png",
         "status": "⚠️",
         "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     },
