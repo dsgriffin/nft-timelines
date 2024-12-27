@@ -899,7 +899,7 @@
         "project_author": "?",
         "file_type": "?",
         "status": "⚠️",
-        "notes": "May be a verification code."
+        "notes": "May be a verification code instead."
     },
     {
         "file": "?",
@@ -910,7 +910,7 @@
         "project_author": "Ingesture <br /> <a href='https://x.com/sull' target='_blank'>Sullc</a>",
         "file_type": "?",
         "status": "⚠️",
-        "notes": "May be a verification code."
+        "notes": "May be a verification code instead."
     },
     {
         "file": "N/A",
@@ -924,7 +924,7 @@
         "notes": "Currently unable to locate hash-matching file. <br/> A hashed BVAM JSON file with no prefix. <br/> Asset + hash are noted in the NPM package <a href='https://www.npmjs.com/package/node-bvam-client' target='_blank'>node-bvam-client</a>."
     },
     {
-        "file": "<img alt='CHYNAPEPE by Bench' height='85px' src='images/chynapepe.png' width='70px'/>",
+        "file": "<img alt='CHYNAPEPE by Bench' height='85px' src='images/chynapepe-unhashed.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/3b03854caee209d833055689d2a54348edae0923248f9c4183f3483c62af3f38' target='_blank'>2016-10-08<br/>21:28:51</a>",
         "names": "CHYNAPEPE",
         "supply": "130 🔒",
@@ -932,7 +932,7 @@
         "project_author": "Rare Pepe <br /> <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     },
     {
         "file": "<img alt='KILLARYPEPE by Bench' height='85px' src='images/killarypepe.png' width='70px'/>",
@@ -946,7 +946,7 @@
         "notes": "See <a href='https://pepe.wtf/asset/KILLARYPEPE' target='_blank'>pepe.wtf/asset/KILLARYPEPE</a>."
     },
     {
-        "file": "<img alt='PEPESUS by ?' height='85px' src='images/PEPESUS.jpg' width='70px'/>",
+        "file": "<img alt='PEPESUS by ?' height='85px' src='images/pepesus-unhashed.jpg' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/3d0aab78c6391ad725798e0ab0ffa954658564f6d538dc6b69ecdb7d0b3886be' target='_blank'>2016-10-13<br/>10:11:49</a>",
         "names": "PEPESUS",
         "supply": "184 🔒",
@@ -954,7 +954,7 @@
         "project_author": "Rare Pepe <br /> ?",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     },
     {
         "file": "<img alt='PEPETRADERS by Bench' height='85px' src='images/PEPETRADERS.png' width='70px'/>",
@@ -1001,7 +1001,7 @@
         "notes": "Currently unable to locate hash-matching file. <br/> 13 hashed BVAM JSON files with no prefix. <br/> All 13 tokens created in 2017, the earliest is the timestamp linked. <br/> See <a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>Blockchain Validated Asset Metadata (BVAM)</a>."
     },
     {
-        "file": "<img alt='PEPEXIT by ?' height='85px' src='images/PEPEXIT.png' width='70px'/>",
+        "file": "<img alt='PEPEXIT by ?' height='85px' src='images/pepexit-unhashed.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/34e58d1bdc5186db8da290b480ee3ba4fcefaeecefc4dcea03ada9d6b89d67b7' target='_blank'>2017-02-16<br/>19:21:04</a>",
         "names": "PEPEXIT",
         "supply": "1000 🔒",
@@ -1009,7 +1009,7 @@
         "project_author": "Rare Pepe <br /> ?",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file"
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     },
     {
         "file": "<img alt='PEPEJONES by Bench' height='85px' src='images/PEPEJONES.png' width='70px'/>",
@@ -1045,7 +1045,7 @@
         "notes": "See <a href='https://pepe.wtf/asset/BTFDPEPE' target='_blank'>pepe.wtf/asset/BTFDPEPE</a>."
     },
     {
-        "file": "<img alt='ONESUN Thumbnail by sorsona/abnabnaba' height='85px' src='images/onesun-thumb.jpg' width='70px'/>",
+        "file": "<img alt='ONESUN Thumbnail by sorsona/abnabnaba' height='85px' src='images/onesun-unhashed.jpg' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/9f9099ea0d94404fd37b588f1edbfce36e1e9d84e30e90b93bdf955b4b50bc4a' target='_blank'>2017-04-20<br/>08:27:46</a>",
         "names": "ONESUN",
         "supply": "1",
@@ -1100,7 +1100,7 @@
         "notes": "Currently unable to locate hash-matching file."
     },
     {
-        "file": "<img alt='ROASTEDCORN by MightBeMike' height='85px' src='images/ROASTEDCORN.png' width='70px'/>",
+        "file": "<img alt='ROASTEDCORN by MightBeMike' height='85px' src='images/roastedcorn-unhashed.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/7329ecf866410a4131ff7cff1b63d2837bf5b35c77601b25afc6037c7193541f' target='_blank'>2018-11-18<br/>23:49:48</a>",
         "names": "ROASTEDCORN",
         "supply": "101 🔒",
@@ -1108,10 +1108,10 @@
         "project_author": "? <br /> <a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
         "file_type": "gif",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     },
     {
-        "file": "<img alt='BETTHEFARM by MightBeMike' height='85px' src='images/BETTHEFARM.gif' width='70px'/>",
+        "file": "<img alt='BETTHEFARM by MightBeMike' height='85px' src='images/betthefarm-unhashed.gif' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/1797edcec36c4bbed1044f2f7f23080f0177ae7c981f5dcdcb6b31d8cfb749de' target='_blank'>2018-11-27<br/>06:26:50</a>",
         "names": "BETTHEFARM",
         "supply": "1 🔒",
@@ -1119,10 +1119,10 @@
         "project_author": "? <br /> <a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
         "file_type": "gif",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     },
     {
-        "file": "<img alt='BETYOURFARM by MightBeMike' height='85px' src='images/BETYOURFARM.png' width='70px'/>",
+        "file": "<img alt='BETYOURFARM by MightBeMike' height='85px' src='images/betyourfarm-unhashed.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/0c16326ccbd83ff9598571a252d0f01c4d5afc307064a15432a4e933693f032c' target='_blank'>2018-11-27<br/>07:02:28</a>",
         "names": "BETYOURFARM",
         "supply": "9 🔒",
@@ -1130,6 +1130,6 @@
         "project_author": "Bitcorns <br /> <a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     }
 ]
