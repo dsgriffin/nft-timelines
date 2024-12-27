@@ -16,7 +16,7 @@ The entries and dates in all of the timelines found here therefore go by the ear
 
 ## Timelines
 
-[View All Early NFT Timelines](/timelines)
+[View All Early NFT Timelines](./timelines/)
 
 ## Contributing
 
