@@ -1009,7 +1009,7 @@
         "project_author": "Rare Pepe <br /> ?",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Currently unable to locate hash-matching file"
     },
     {
         "file": "<img alt='PEPEJONES by Bench' height='85px' src='images/PEPEJONES.png' width='70px'/>",
@@ -1045,15 +1045,15 @@
         "notes": "See <a href='https://pepe.wtf/asset/BTFDPEPE' target='_blank'>pepe.wtf/asset/BTFDPEPE</a>."
     },
     {
-        "file": "?",
+        "file": "<img alt='ONESUN Thumbnail by sorsona/abnabnaba' height='85px' src='images/onesun-thumb.jpg' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/9f9099ea0d94404fd37b588f1edbfce36e1e9d84e30e90b93bdf955b4b50bc4a' target='_blank'>2017-04-20<br/>08:27:46</a>",
         "names": "ONESUN",
         "supply": "1",
         "hash": "MD5",
-        "project_author": "?",
+        "project_author": "Rare Meme World <br /> <a href='https://bitcointalk.org/index.php?action=profile;u=988396'>sorsona</a>/<a href='https://www.reddit.com/user/abnabnaba/'>abnabnaba</a>",
         "file_type": "?",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Currently unable to locate hash-matching file. Displaying thumbnail image found on Reddit. See <a href='https://web.archive.org/web/20241227131257/https://bitcointalk.org/index.php?topic=1879968.0' target='_blank'>Rare Meme World</a>"
     },
     {
         "file": "<img alt='PEPEHODLER by Bench' height='85px' src='images/PEPEHODLER.png' width='70px'/>",
