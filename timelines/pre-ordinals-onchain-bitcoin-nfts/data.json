@@ -4,10 +4,10 @@
         "datetime": "<a href='https://horizon.market/explorer/tx/627ae48d6b4cffb2ea734be1016dedef4cee3f8ffefaea5602dd58c696de6b74' target='_blank'>2015-08-11 20:43:21</a>",
         "name": "OLGA",
         "supply": "1 🔒",
-        "project_author": "Kaleidoscope XCPs, <a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
+        "project_author": "Kaleidoscope XCP, <a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "The asset is not onchain directly but a broadcast tx, made from the same address, exists that specifies the image. See <a href='https://web.archive.org/web/20241124034106/https://jpjanssen.com/faq-about-olga/' target='_blank'>FAQ about OLGA</a>."
+        "notes": "The asset is not onchain directly but a broadcast tx made from the same address exists that specifies the image. Note that while the broadcast does not mention the OLGA asset, it does include the Russian phrase 'Моя дорогая вечная Ольга' (My dear eternal Olga). See <a href='https://web.archive.org/web/20241124034106/https://jpjanssen.com/faq-about-olga/' target='_blank'>FAQ about OLGA</a>."
     },
     {
         "file": "<img alt='CSATOSHI by Cornholio' height='75px' src='images/CCSATOSHI.png' style='image-rendering: pixelated;' width='75px'/>",
@@ -17,7 +17,7 @@
         "project_author": "Faux SoGs, <a href='https://x.com/C0rnh0li0' target='_blank'>Cornholio</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": "Inspired by JP Janssens' OLGA Broadcast, howevere here the onchain artwork is directly part of the NFT. See <a href='https://web.archive.org/web/20240622145322/https://www.fauxsogs.wtf/series/9' target='_blank'>fauxsogs.wtf</a>."
+        "notes": "Inspired by JP Janssens' OLGA Broadcast, the execution is similar except that the onchain artwork is directly part of the asset. See <a href='https://web.archive.org/web/20240622145322/https://www.fauxsogs.wtf/series/9' target='_blank'>fauxsogs.wtf</a>."
     },
     {
         "file": "<img alt='THENAKAMOTOS.2 by ?' height='75px' src='images/THENAKAMOTOS2.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none; background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
