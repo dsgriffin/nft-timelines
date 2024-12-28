@@ -8,7 +8,7 @@
     <meta content="NFT, Bitcoin NFTs, Counterparty, Bitcoin, XCP, Faux SoGs, Fake Rares"
         name="keywords" />
 
-    <title>Pre-Ordinals Onchain Bitcoin NFTs</title>
+    <title>Pre-Ordinals Onchain Bitcoin NFTs (2015-2022)</title>
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css"
         rel="stylesheet" />
@@ -21,7 +21,7 @@
 <body class="p-1 m-4">
     <div class="row pb-3 align-items-center">
         <div class="col">
-            <h1>Pre-Ordinals Onchain Bitcoin NFTs (2021-2022)</h1>
+            <h1>Pre-Ordinals Onchain Bitcoin NFTs (2015-2022)</h1>
         </div>
 
         <div class="col-md-auto">
@@ -42,6 +42,12 @@
         </h6>
     </div>
 
+    <div class="pb-3">
+        <h6>
+            ✅ = pristine, ⚠️ = check notes, 🔒 = locked supply
+        </h6>
+    </div>
+
     <table id="data-table" class="table display" style="width:100%">
         <thead class="text-center">
             <tr>
@@ -51,6 +57,7 @@
                 <th>Current Supply</th>
                 <th>Project & Author</th>
                 <th>Type</th>
+                <th></th>
                 <th>Notes</th>
             </tr>
         </thead>
@@ -90,6 +97,7 @@
                                 <td>${row.supply}</td>
                                 <td>${row.project_author}</td>
                                 <td>${row.file_type}</td>
+                                <td>${row.status}</td>
                                 <td>${row.notes}</td>
                             </tr>
                         `;
