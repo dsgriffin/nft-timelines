@@ -544,10 +544,10 @@
         "names": "A11853032714534422961 A11473914264219346819",
         "supply": "1000.0",
         "hash": "? (Base16)",
-        "project_author": "?, <a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
+        "project_author": "BVAM, <a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "?",
         "status": "⚠️",
-        "notes": "2 tokens that begin with 'NINJA-', followed by a base16 representation of a hash or data., What this data represents is currently unknown."
+        "notes": "2 tokens that begin with 'NINJA-', followed by a base16 representation of a hash or data. What this data represents is currently unknown."
     }, 
     {
         "file": "N/A",
@@ -558,7 +558,7 @@
         "project_author": "BVAM, <a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate any of these hash-matching files.  39 hashed BVAM JSON files prefixed with 'TOKNID-'.  All hashed in late 2015, the earliest is the timestamp linked.  See <a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>Blockchain Validated Asset Metadata (BVAM)</a>."
+        "notes": "Currently unable to locate any of these hash-matching files.  39 hashed BVAM JSON files prefixed with 'TOKNID-'. All hashed in late 2015, the earliest is the timestamp linked.  See <a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>Blockchain Validated Asset Metadata (BVAM)</a>."
     },
     {
         "file": "N/A",
@@ -569,7 +569,7 @@
         "project_author": "BVAM, <a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate any of these hash-matching files.  36 hashed BVAM JSON files prefixed with 'BVAMW-'.  All hashed in late 2015 to early 2016, the earliest is the timestamp linked.  See <a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>Blockchain Validated Asset Metadata (BVAM)</a>."
+        "notes": "Currently unable to locate any of these hash-matching files.  36 hashed BVAM JSON files prefixed with 'BVAMW-'. All hashed in late 2015 to early 2016, the earliest is the timestamp linked.  See <a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>Blockchain Validated Asset Metadata (BVAM)</a>."
     },
     {
         "file": "<img alt='CNPCARD by EverdreamSoft' height='85px' src='images/cnpcard.jpg' width='70px'/>",
@@ -921,7 +921,7 @@
         "project_author": "BVAM, <a href='https://x.com/wellerco' target='_blank'>Devon Weller</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file.  A hashed BVAM JSON file with no prefix.  Asset + hash are noted in the NPM package <a href='https://www.npmjs.com/package/node-bvam-client' target='_blank'>node-bvam-client</a>."
+        "notes": "Currently unable to locate hash-matching file.  A hashed BVAM JSON file with no prefix. Asset + hash are noted in the NPM package <a href='https://www.npmjs.com/package/node-bvam-client' target='_blank'>node-bvam-client</a>."
     },
     {
         "file": "<img alt='CHYNAPEPE by Bench' height='85px' src='images/chynapepe-unhashed.png' width='70px'/>",
@@ -932,7 +932,7 @@
         "project_author": "Rare Pepe, <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead. See <a href='https://web.archive.org/web/20240619131032/https://rarepepes.com/nft/chynapepe/' target='_blank'>CHYNAPEPE/a>."
     },
     {
         "file": "<img alt='KILLARYPEPE by Bench' height='85px' src='images/killarypepe.png' width='70px'/>",
@@ -943,7 +943,7 @@
         "project_author": "Rare Pepe, <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": "See <a href='https://pepe.wtf/asset/KILLARYPEPE' target='_blank'>pepe.wtf/asset/KILLARYPEPE</a>."
+        "notes": "See <a href='https://web.archive.org/web/20240908230101/https://rarepepes.com/nft/killarypepe/' target='_blank'>KILLARYPEPE</a>."
     },
     {
         "file": "<img alt='PEPESUS by ?' height='85px' src='images/pepesus-unhashed.jpg' width='70px'/>",
@@ -954,7 +954,7 @@
         "project_author": "Rare Pepe, ?",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead. See <a href='https://web.archive.org/web/20240806014546/https://rarepepes.com/nft/pepesus/' target='_blank'>PEPESUS</a>."
     },
     {
         "file": "<img alt='PEPETRADERS by Bench' height='85px' src='images/PEPETRADERS.png' width='70px'/>",
@@ -965,7 +965,7 @@
         "project_author": "Rare Pepe, <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": "See <a href='https://pepe.wtf/asset/PEPETRADERS' target='_blank'>pepe.wtf/asset/PEPETRADERS</a>."
+        "notes": "See <a href='https://web.archive.org/web/20240712205010/https://rarepepes.com/nft/pepetraders/' target='_blank'>PEPETRADERS</a>."
     },
     {
         "file": "<img alt='WPPEPE by Bench' height='85px' src='images/WPPEPE.png' width='70px'/>",
@@ -976,7 +976,7 @@
         "project_author": "Rare Pepe, <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": "See <a href='https://pepe.wtf/asset/WPPEPE' target='_blank'>pepe.wtf/asset/WPPEPE</a>."
+        "notes": "See <a href='https://web.archive.org/web/20240912181250/https://rarepepes.com/nft/wppepe/' target='_blank'>WPPEPE</a>."
     },
     {
         "file": "<img alt='PEPENUKES by ?' height='85px' src='images/PEPENUKES.gif' width='70px'/>",
@@ -987,7 +987,7 @@
         "project_author": "Rare Pepe, ?",
         "file_type": "gif",
         "status": "✅",
-        "notes": "See <a href='https://pepe.wtf/asset/PEPENUKES' target='_blank'>pepe.wtf/asset/PEPENUKES</a>."
+        "notes": "See <a href='https://web.archive.org/web/20240806011758/https://rarepepes.com/nft/pepenukes/' target='_blank'>PEPENUKES</a>."
     },
     {
         "file": "N/A",
@@ -1009,7 +1009,7 @@
         "project_author": "Rare Pepe, ?",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead. See <a href='https://web.archive.org/web/20241228180346/https://rarepepes.com/nft/PEPEXIT/' target='_blank'>PEPEXIT</a>."
     },
     {
         "file": "<img alt='PEPEJONES by Bench' height='85px' src='images/PEPEJONES.png' width='70px'/>",
@@ -1020,7 +1020,7 @@
         "project_author": "Rare Pepe, <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": "See <a href='https://pepe.wtf/asset/PEPEJONES' target='_blank'>pepe.wtf/asset/PEPEJONES</a>."
+        "notes": "See <a href='https://web.archive.org/web/20240522143438/https://rarepepes.com/nft/pepejones/' target='_blank'>PEPEJONES</a>."
     },
     {
         "file": "<img alt='PEPESTYLE by Bench' height='85px' src='images/PEPESTYLE.png' width='70px'/>",
@@ -1031,7 +1031,7 @@
         "project_author": "Rare Pepe, <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": "See <a href='https://pepe.wtf/asset/PEPESTYLE' target='_blank'>pepe.wtf/asset/PEPESTYLE</a>."
+        "notes": "See <a href='https://web.archive.org/web/20240908222720/https://rarepepes.com/nft/pepestyle/' target='_blank'>PEPESTYLE</a>."
     },
     {
         "file": "<img alt='BTFDPEPE by Bench' height='85px' src='images/BTFDPEPE.png' width='70px'/>",
@@ -1042,7 +1042,7 @@
         "project_author": "Rare Pepe, <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": "See <a href='https://pepe.wtf/asset/BTFDPEPE' target='_blank'>pepe.wtf/asset/BTFDPEPE</a>."
+        "notes": "See <a href='https://web.archive.org/web/20240712213315/https://rarepepes.com/nft/btfdpepe/' target='_blank'>BTFDPEPE</a>."
     },
     {
         "file": "<img alt='ONESUN Thumbnail by sorsona/abnabnaba' height='85px' src='images/onesun-unhashed.jpg' width='70px'/>",
@@ -1053,7 +1053,7 @@
         "project_author": "Rare Meme World, <a href='https://bitcointalk.org/index.php?action=profile;u=988396'>sorsona</a>/<a href='https://www.reddit.com/user/abnabnaba/'>abnabnaba</a>",
         "file_type": "?",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying thumbnail image found on Reddit. See <a href='https://web.archive.org/web/20241227131257/https://bitcointalk.org/index.php?topic=1879968.0' target='_blank'>Rare Meme World</a>"
+        "notes": "Currently unable to locate hash-matching file. Displaying thumbnail image found on Reddit. See <a href='https://web.archive.org/web/20241227131257/https://bitcointalk.org/index.php?topic=1879968.0' target='_blank'>Rare Meme World</a>."
     },
     {
         "file": "<img alt='PEPEHODLER by Bench' height='85px' src='images/PEPEHODLER.png' width='70px'/>",
@@ -1064,7 +1064,7 @@
         "project_author": "Rare Pepe, <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": "See <a href='https://pepe.wtf/asset/PEPEHODLER' target='_blank'>pepe.wtf/asset/PEPEHODLER</a>."
+        "notes": "See <a href='https://web.archive.org/web/20241228180826/https://rarepepes.com/nft/pepehodler/' target='_blank'>PEPEHODLER</a>."
     },
     {
         "file": "<img alt='PBOCPEPE by Bench' height='85px' src='images/PBOCPEPE.png' width='70px'/>",
@@ -1075,7 +1075,7 @@
         "project_author": "Rare Pepe, <a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": "See <a href='https://pepe.wtf/asset/PBOCPEPE' target='_blank'>pepe.wtf/asset/PBOCPEPE</a>."
+        "notes": "See <a href='https://web.archive.org/web/20240615195853/https://rarepepes.com/nft/pbocpepe/' target='_blank'>PBOCPEPE</a>."
     },
     {
         "file": "<img alt='CORNBUDDHA by MightBeMike' height='85px' src='images/CORNBUDDHA.gif' width='70px'/>",
@@ -1086,7 +1086,7 @@
         "project_author": "Bitcorns, <a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": "See <a href='https://pepe.wtf/asset/CORNBUDDHA' target='_blank'>pepe.wtf/asset/CORNBUDDHA</a>."
+        "notes": "See <a href='https://web.archive.org/web/20240624073950/https://bitcorns.com/cards/CORNBUDDHA' target='_blank'>CORNBUDDHA</a>."
     },
     {
         "file": "<img alt='VOTEBENCH by Bench' height='85px' src='images/votebench-unhashed.jpg' width='70px'/>",
@@ -1130,6 +1130,6 @@
         "project_author": "Bitcorns, <a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead. See <a href='https://web.archive.org/web/20240614080733/https://bitcorns.com/cards/BETYOURFARM' target='_blank'>BETYOURFARM</a>."
     }
 ]
