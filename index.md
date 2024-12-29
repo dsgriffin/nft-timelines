@@ -9,7 +9,7 @@ In the strict sense, an NFT is a unique 1/1 token representing ownership of some
 
 In common usage, however, it's used to refer to any kind of tokenized asset, nonfungible or not, that is viewed as collectible & represents ownership of something more than just the token itself.
 
-For example, semi-fungible Bitcoin collectibles were first popularized by both Spells of Genesis & Ascribe, before exploding in popularity on Ethereum when the ERC-1155 standard was released in 2019.
+For example, semi-fungible Bitcoin collectibles were first popularized by both Spells of Genesis & Ascribe, before exploding in popularity on Ethereum post-ERC-1155 standard.
 
 The key point is that **NFTs are ownable, tradable tokens that represent something**.
 
