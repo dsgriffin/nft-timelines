@@ -1,0 +1,14 @@
+remote_theme: dracula/gh-pages
+plugins:
+  - jekyll-remote-theme
+
+show_downloads: false
+show_header: false
+
+github:
+  owner_name: Griffin
+  owner_url: https://github.com/dsgriffin
+  repository_url: https://github.com/dsgriffin/dsgriffin.github.io
+
+title: Early NFTs
+description: All about vintage blockchain collectibles
