@@ -13,7 +13,7 @@ For example, semi-fungible blockchain collectibles were first popularized on Bit
 
 The key point is that **NFTs are ownable, tradable tokens that represent something**.
 
-The entries and dates in all of the timelines found here therefore go by the earliest date where the NFT itself fully existed; it could be ownable, it could be tradable (except for soulbound tokens) and it represented something.
+The entries and dates in all of the timelines found here therefore go by the earliest date where the NFT itself fully existed; it could be owned, it could be traded (except for soulbound tokens) and it represented something.
 
 ## Timelines
 
