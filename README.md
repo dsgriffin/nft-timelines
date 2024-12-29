@@ -1,3 +1,8 @@
+---
+layout: default
+title: Early NFTs
+---
+
 # Early NFTs
 
 Early NFTs is a repo containing various resources focused on vintage/historical blockchain collectibles (firsts, relatively early tokens of a niche etc), mostly in the form of blog posts and timelines.
