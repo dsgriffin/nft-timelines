@@ -3,8 +3,6 @@ layout: default
 title: Early NFTs
 ---
 
-This repository contains various resources focused on vintage or historical blockchain collectibles (firsts, relatively early tokens of a niche etc), mostly in the form of blog posts and timelines.
-
 ### Defining an NFT
 
 In the strictest sense, an NFT is a unique 1/1 token representing ownership of something (art etc).
@@ -20,11 +18,3 @@ The entries and dates in all of the timelines found here therefore go by the ear
 ## Timelines
 
 [View All Early NFT Timelines](./timelines/)
-
-## Contributing
-
-If you've found a bug or have an idea, feel free to open an Issue. If you've got a fix or feature ready, open a PR. Thanks!
-
-## License
-
-MIT

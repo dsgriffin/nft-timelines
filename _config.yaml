@@ -2,8 +2,8 @@ remote_theme: dracula/gh-pages
 plugins:
   - jekyll-remote-theme
 
-show_downloads: false
-show_header: false
+show_downloads: true
+show_header: true
 
 github:
   owner_name: Griffin
