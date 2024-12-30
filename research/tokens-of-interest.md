@@ -17,4 +17,4 @@ Some tokens I may or may or may not use in future timelines or blog posts.
 
 | Asset Name | First Issuance Date | Link | Notes |
 |------------|---------------------|---------------------|-------|
-| Generally Adversarial, Historically Speaking | Aug-28-2018 | [Etherscan](https://etherscan.io/tx/0xbdc0fc0a99bc9b0a8006e46aaf50f6fdee647f7d6fa5ef381fb564d3ff1180ea), [IPFS](https://ipfs.pixura.io/ipfs/QmZv9U95wbdAybRevcWrPYN1q4VuSTgAKguckh8TijqAcZ) | a SupeRare 1/1 (token #644) by Max Osiris that was the first ever censored NFT. Based on AI work by Quasimondo (Botto), when informed of the piece, he sought out that SuperRare burn the token, which Max complied with. |
+| Generally Adversarial, Historically Speaking | Aug-28-2018 | [Etherscan](https://etherscan.io/tx/0xbdc0fc0a99bc9b0a8006e46aaf50f6fdee647f7d6fa5ef381fb564d3ff1180ea), [IPFS](https://ipfs.pixura.io/ipfs/QmZv9U95wbdAybRevcWrPYN1q4VuSTgAKguckh8TijqAcZ) | a SuperRare 1/1 (Token #644) by Max Osiris which was the first ever censored NFT. Based on AI work by Quasimondo (Botto), who, when informed of the piece, sought out that SuperRare burn the token. Max later complied with this request. |
