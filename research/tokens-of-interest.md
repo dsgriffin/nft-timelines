@@ -8,10 +8,10 @@ Some tokens I may or may or may not use in future timelines or blog posts.
 
 | Asset Name | First Issuance Date | Onchain Description | Notes |
 |------------|---------------------|---------------------|-------|
-| MGAAAAAAAAAAA | 2014-10-09 | [static.mccoyspace.com/mgaaaaaaaaaaa.json](static.mccoyspace.com/mgaaaaaaaaaaa.json) | 1st Monegraph on Bitcoin, says 1/3 in metadata but is a 1/1 atm. Still available for purchase in 2024. The most pristine Monegraph (never expired or reminted later) |
-| A9096166406548465000 | 2015-02-16 | [https://cointemporary.com/artwork/a909616](https://cointemporary.com/artwork/a909616) | 50-supply original artwork. Looks like only 2/50 were ever sold. |
+| MGAAAAAAAAAAA | 2014-10-09 | [Link](static.mccoyspace.com/mgaaaaaaaaaaa.json) | 1st Monegraph on Bitcoin, says 1/3 in metadata but is a 1/1 atm. Still available for purchase in 2024. The most pristine Monegraph (never expired or reminted later) |
+| A9096166406548465000 | 2015-02-16 | [Link](https://cointemporary.com/artwork/a909616) | 50-supply original artwork. Looks like only 2/50 were ever sold. |
 | BOLETO | 2015-02-20 | BOLETO | a 1/1 that has a QR code icon, that if you use your phone, takes you to Google with the result of Boleto; a Brazillian payment method |
-| A1028163271339900500 | 2015-03-03 | [static.mccoyspace.com/A1028163271339.json](static.mccoyspace.com/A1028163271339.json) | 2nd Monegraph on Bitcoin, says 1/3 in metadata but is a divisible 1/1 atm. The JSON used to link to EVP: Amie by Brody Condon (which was reminted on Ethereum as an edition of 3), but now links to an artwork by Kevin McCoy |
+| A1028163271339900500 | 2015-03-03 | [Link](static.mccoyspace.com/A1028163271339.json) | 2nd Monegraph on Bitcoin, says 1/3 in metadata but is a divisible 1/1 atm. The JSON used to link to EVP: Amie by Brody Condon (which was reminted on Ethereum as an edition of 3), but now links to an artwork by Kevin McCoy |
 
 ## Ethereum Tokens
 
