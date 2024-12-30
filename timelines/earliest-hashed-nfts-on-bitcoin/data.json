@@ -968,6 +968,17 @@
         "notes": "See <a href='https://web.archive.org/web/20240712205010/https://rarepepes.com/nft/pepetraders/' target='_blank'>PEPETRADERS</a>."
     },
     {
+        "file": "<img alt='CPOAPEPE by ?' height='85px' src='images/cpoapepe-unhashed.png' width='70px'/>",
+        "datetime": "<a href='https://horizon.market/explorer/tx/907f54c3f8c7c89cc61fcaa3436611f0ceeff2cc622a8de078fba906a44a68f0' target='_blank'>2016-10-24 11:34:49</a>",
+        "names": "CPOAPEPE",
+        "supply": "100 🔒",
+        "hash": "MD5",
+        "project_author": "?, ?",
+        "file_type": "png",
+        "status": "⚠️",
+        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead. This NFT Asset + Hash was saved to <a href='https://web.archive.org/web/20241230231338/https://cryptoproof.info/static/CPOAPEPE.txt' target='_blank'>Cryptoproof.info</a> See <a href='https://j-dog.net/archive/RarePepeChat/2016-10_59.html#2016-10-25' target='_blank'>Rare Pepe Chat: CPOAPEPE</a>."
+    },
+    {
         "file": "<img alt='WPPEPE by Bench' height='85px' src='images/WPPEPE.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/7c72b3095e0a08b7f01ab0619709a49b9d945a22c3bf94433c4125198f2fd93b' target='_blank'>2016-10-28 20:33:20</a>",
         "names": "WPPEPE",
