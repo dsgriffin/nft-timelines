@@ -12,6 +12,7 @@ Some tokens I may or may or may not use in future timelines or blog posts.
 | A9096166406548465000 | 2015-02-16 | [Link](https://cointemporary.com/artwork/a909616) | 1/50 OG artwork. 2/50 were sold. |
 | BOLETO | 2015-02-20 | BOLETO | 1/1. QR code icon, using phone takes you to Google w result of Brazillian payment method |
 | A1028163271339900500 | 2015-03-03 | [Link](static.mccoyspace.com/A1028163271339.json) | Monegraph. 1/3 in metadata but is divisible 1/1 atm. JSON used to link to EVP: Amie by Brody Condon (reminted on Ethereum as 1/3), but now links to an artwork by Kevin McCoy |
+| A17942979392038382000 | 2017-04-17 | 22b275ddbce4b9244993e189ca499546 | 1m issuance token, hashed onchain in 2017. Supply too large to feature in NFT timeline. |
 
 ## Ethereum Tokens
 
