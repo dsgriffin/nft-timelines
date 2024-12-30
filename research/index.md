@@ -8,5 +8,5 @@ Note that each of these lists may change over time; items may be removed if they
 
 ## Tokens Of Interest
 
-[View Tokens Of Interes](https://dsgfn.com/early-nfts/research/tokens-of-interest/)
+[View Tokens Of Interest](https://dsgfn.com/early-nfts/research/tokens-of-interest/)
 
