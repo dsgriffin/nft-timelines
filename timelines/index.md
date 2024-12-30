@@ -4,7 +4,7 @@ Note that each timeline contains an `images/` folder; I strive to only use the o
 
 ## 0xmons Onchain In Early 2021
 
-Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR (art + algo/neural onchain) on the 9th August 2021, making them the earliest known onchain AI artworks.
+Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR (first AI art + algo/neural onchain) on the 9th August 2021, making them the earliest known onchain AI artworks.
 
 [View Live Timeline](https://dsgfn.com/early-nfts/timelines/0xmons-onchain-in-early-2021/)
 
