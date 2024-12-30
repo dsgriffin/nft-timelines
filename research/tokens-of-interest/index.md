@@ -1,7 +1,5 @@
 [< Back](../)
 
-# Tokens Of Interest
-
 Some tokens I may or may or may not use in future timelines or blog posts.
 
 **Important Note**: The onchain descriptions here, which may work or not, and might not even be archived, may have been attached at a later date than the first issuance (even a year or two later, check the chain).
