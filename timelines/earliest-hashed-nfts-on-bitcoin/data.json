@@ -602,7 +602,7 @@
     {
         "file": "N/A",
         "datetime": "<a href='https://horizon.market/explorer/tx/3e367201d1553f66a8d80d38c175d94f39034e56f10d6d05c99764fc36f84048' target='_blank'>2015-08-22 02:20:48</a>",
-        "names": "A11001199784417885243  + 38 Numerical Assets",
+        "names": "A11001199784417885243 + 38 Numerical Assets",
         "supply": "0 - 80000",
         "hash": "SHA-256 (Custom)",
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
@@ -614,7 +614,7 @@
     {
         "file": "N/A",
         "datetime": "<a href='https://horizon.market/explorer/tx/92b6dba7ef3de1643ab71e8e6129d6a5c155af90d632b6948f32f573923104f0' target='_blank'>2015-09-18 18:03:08</a>",
-        "names": "A11100808756733421597  + 35 Numerical Assets",
+        "names": "A11100808756733421597 + 35 Numerical Assets",
         "supply": "1 - 100000",
         "hash": "SHA-256 (Custom)",
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
@@ -1093,6 +1093,18 @@
     },
     {
         "file": "N/A",
+        "datetime": "<a href='https://horizon.market/explorer/tx/c0081da33b89303eac6b3f27291a61f5b7490bf1ec67b7250a7232f7347565ac' target='_blank'>2016-11-09 22:54:52</a>",
+        "names": "A18423481899410732657 + 9 Mixed Assets",
+        "supply": "1.0 - 10000.0",
+        "hash": "SHA-256 (Custom)",
+        "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
+        "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
+        "file_type": "json",
+        "status": "⚠️",
+        "notes": "Currently unable to locate these hash-matching files. All hashed in 2016 to mid 2018, the earliest is the timestamp linked."
+    },
+    {
+        "file": "N/A",
         "datetime": "<a href='https://horizon.market/explorer/tx/cec7c0f8cca6f150987901801bfac9516935c19ce8879c149351f275c6184724' target='_blank'>2016-11-11 02:09:33</a>",
         "names": "HAPPYBDAYEP + 6 Named Assets",
         "supply": "1.0 - 1000000.0",
@@ -1131,13 +1143,13 @@
         "file": "N/A",
         "datetime": "<a href='https://horizon.market/explorer/tx/9205c3a59a3c2451a4b0333328b9e8c42de0ba4b611a6712acbcc110319b6721' target='_blank'>2017-02-13 02:20:48</a>",
         "names": "LEPERPRINT + 12 Named Assets",
-        "supply": "1 - 100000",
+        "supply": "1.0 - 100000.0",
         "hash": "SHA-256 (Custom)",
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
-        "author": "?",
+        "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. All hashed in 2017, earliest one is the timestamp linked."
+        "notes": "Currently unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
     },
     {
         "file": "<img alt='PEPEXIT by ?' height='85px' src='images/pepexit-unhashed.png' width='70px'/>",
