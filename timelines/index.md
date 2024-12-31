@@ -1,6 +1,6 @@
 [< Back](../)
 
-Note that each timeline contains an `images/` folder; I strive to only use the original onchain/hash-matching file for each asset, but there will be the odd exception (e.g. PEPERMANENT being displayed as a .gif rather than the entire onchain .json file).
+Note that each timeline contains an `images/` folder; I strive to only use the original onchain/hash-matching file for each asset, but there may be the odd exception (it will be mentioned in the "notes" column).
 
 ## 0xmons Onchain In Early 2021
 
