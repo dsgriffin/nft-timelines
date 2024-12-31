@@ -913,6 +913,17 @@
         "notes": "May be a verification code instead."
     },
     {
+        "file": "?",
+        "datetime": "<a href='https://horizon.market/explorer/tx/8c5bba689df620cc9b3ca4618b2a6ea882d1cbcc32c5527de249e02b789400ed' target='_blank'>2016-06-08 21:52:27</a>",
+        "names": "A6894379437174428000",
+        "supply": "100.0",
+        "hash": "SHA-1",
+        "project_author": "?",
+        "file_type": "?",
+        "status": "⚠️",
+        "notes": "Currently unable to locate hash-matching file."
+    },
+    {
         "file": "N/A",
         "datetime": "<a href='https://horizon.market/explorer/tx/4a06b9889f7553983cd2d4edc196ec9bc9abd52b955885238932c3d718952ead' target='_blank'>2016-09-09 03:52:45</a>",
         "names": "SOUP",
@@ -921,7 +932,7 @@
         "project_author": "BVAM, <a href='https://x.com/wellerco' target='_blank'>Devon Weller</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file.  A hashed BVAM JSON file with no prefix. Asset + hash are noted in the NPM package <a href='https://www.npmjs.com/package/node-bvam-client' target='_blank'>node-bvam-client</a>."
+        "notes": "Currently unable to locate hash-matching file. A hashed BVAM JSON file with no prefix. Asset + hash are noted in the NPM package <a href='https://www.npmjs.com/package/node-bvam-client' target='_blank'>node-bvam-client</a>."
     },
     {
         "file": "<img alt='CHYNAPEPE by Bench' height='85px' src='images/chynapepe-unhashed.png' width='70px'/>",
