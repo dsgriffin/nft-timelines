@@ -1128,6 +1128,18 @@
         "notes": "Currently unable to locate hash-matching file."
     },
     {
+        "file": "?",
+        "datetime": "<a href='https://horizon.market/explorer/tx/4b31729e897378275d2c1f1e17bb191770e72d54573e1cad424bf094fe2ea85e' target='_blank'>2017-01-02 03:37:17</a>",
+        "names": "A7573321672166984000",
+        "supply": "1",
+        "hash": "SHA-256 (Base64)",
+        "project": "?",
+        "author": "?",
+        "file_type": "?",
+        "status": "⚠️",
+        "notes": "Currently unable to locate hash-matching file."
+    },
+    {
         "file": "<img alt='PEPENUKES by ?' height='85px' src='images/PEPENUKES.gif' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/b6e54546646815112bcc1918a239a21ad6e862edbb5a0d7f1b79172a0e6070ae' target='_blank'>2017-01-06 23:45:44</a>",
         "names": "PEPENUKES",
@@ -1138,6 +1150,30 @@
         "file_type": "gif",
         "status": "✅",
         "notes": ""
+    },
+    {
+        "file": "N/A",
+        "datetime": "<a href='https://horizon.market/explorer/tx/b2d007cb3346079fad763bedaefb9b5c13f818a30f107f05e4431376230723e4' target='_blank'>2017-01-07 08:40:21</a>",
+        "names": "DECOIN + 2 Numerical Assets",
+        "supply": "100.0 - 10000000000.0",
+        "hash": "SHA-256 (Custom)",
+        "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
+        "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
+        "file_type": "json",
+        "status": "⚠️",
+        "notes": "Currently unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
+    },
+    {
+        "file": "N/A",
+        "datetime": "<a href='https://horizon.market/explorer/tx/71e9324b03bb54f4ca1b6075ef91aecdabf92bc7ccf53a3338c459953ac7b5fb' target='_blank'>2017-02-01 17:31:40</a>",
+        "names": "LOVENLIBERTY + 6 Mixed Assets",
+        "supply": "1000.0",
+        "hash": "SHA-256 (Custom)",
+        "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
+        "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
+        "file_type": "json",
+        "status": "⚠️",
+        "notes": "Currently unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
     },
     {
         "file": "N/A",
