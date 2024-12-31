@@ -547,7 +547,7 @@
         "project_author": "BVAM, <a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "?",
         "status": "⚠️",
-        "notes": "2 tokens that begin with 'NINJA-', followed by a base16 representation of a hash or data. What this data represents is currently unknown."
+        "notes": "Currently unable to locate any of these hash-matching files. 2 tokens that begin with 'NINJA-', followed by a base16 representation of a hash or data."
     }, 
     {
         "file": "N/A",
@@ -1087,6 +1087,17 @@
         "file_type": "png",
         "status": "✅",
         "notes": "See <a href='https://web.archive.org/web/20241228180826/https://rarepepes.com/nft/pepehodler/' target='_blank'>PEPEHODLER</a>."
+    },
+    {
+        "file": "<img alt='PEPERAREIPFS by ?' height='85px' src='images/PEPERAREIPFS.gif' width='70px'/>",
+        "datetime": "<a href='https://horizon.market/explorer/tx/dfa251c363508105be262a7ae949a3d19debe4e87926fe1e7bf28a6b409dd969' target='_blank'>2017-05-16 06:52:24</a>",
+        "names": "PEPERAREIPFS",
+        "supply": "100",
+        "hash": "SHA-256 (IPFS)",
+        "project_author": "?, ?",
+        "file_type": "gif",
+        "status": "✅",
+        "notes": "Description includes IPFS CID, which still works as of 2025. I used this to download the artwork and confirm untampered SHA-256 hash."
     },
     {
         "file": "<img alt='PBOCPEPE by Bench' height='85px' src='images/PBOCPEPE.png' width='70px'/>",
