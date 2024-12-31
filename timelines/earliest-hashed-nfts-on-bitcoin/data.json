@@ -595,9 +595,9 @@
         "hash": "? (Base16)",
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
-        "file_type": "?",
+        "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. 2 hashed BVAM JSON tokens prefixed with 'NINJA-'."
+        "notes": "Currently unable to locate these hash-matching files. All prefixed with 'NINJA-'. All hashed in 2015, earliest one is the timestamp linked."
     }, 
     {
         "file": "N/A",
@@ -609,7 +609,7 @@
         "author": "<a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. 39 hashed BVAM JSON tokens prefixed with 'TOKNID-'. All hashed in 2015, earliest one is the timestamp linked."
+        "notes": "Currently unable to locate these hash-matching files. All prefixed with 'TOKNID-'. All hashed in 2015, earliest one is the timestamp linked."
     },
     {
         "file": "N/A",
@@ -621,7 +621,7 @@
         "author": "<a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. 36 hashed BVAM JSON tokens prefixed with 'BVAMW-'. All hashed in 2015 to early 2016, earliest one is the timestamp linked."
+        "notes": "Currently unable to locate these hash-matching files. All prefixed with 'BVAMW-'. All hashed in 2015 to early 2016, earliest one is the timestamp linked."
     },
     {
         "file": "<img alt='CNPCARD by EverdreamSoft' height='85px' src='images/cnpcard.jpg' width='70px'/>",
@@ -1092,6 +1092,30 @@
         "notes": ""
     },
     {
+        "file": "N/A",
+        "datetime": "<a href='https://horizon.market/explorer/tx/cec7c0f8cca6f150987901801bfac9516935c19ce8879c149351f275c6184724' target='_blank'>2016-11-11 02:09:33</a>",
+        "names": "HAPPYBDAYEP + 6 Named Assets",
+        "supply": "1.0 - 1000000.0",
+        "hash": "SHA-256 (Custom)",
+        "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
+        "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
+        "file_type": "json",
+        "status": "⚠️",
+        "notes": "Currently unable to locate these hash-matching files. All hashed in 2016 to early 2017, the earliest is the timestamp linked."
+    },
+    {
+        "file": "N/A",
+        "datetime": "<a href='https://horizon.market/explorer/tx/932c58166334478ba0eaa10929cf8e55e9b25a966dba27bf1257a31d3072bb15' target='_blank'>2016-11-11 02:44:52</a>",
+        "names": "LITTLECOLOR",
+        "supply": "10000 🔒",
+        "hash": "SHA-256 (Custom)",
+        "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
+        "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
+        "file_type": "json",
+        "status": "⚠️",
+        "notes": "Currently unable to locate hash-matching file."
+    },
+    {
         "file": "<img alt='PEPENUKES by ?' height='85px' src='images/PEPENUKES.gif' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/b6e54546646815112bcc1918a239a21ad6e862edbb5a0d7f1b79172a0e6070ae' target='_blank'>2017-01-06 23:45:44</a>",
         "names": "PEPENUKES",
@@ -1113,7 +1137,7 @@
         "author": "?",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. 13 hashed BVAM JSON files with no prefix. All 13 tokens created in 2017, the earliest is the timestamp linked."
+        "notes": "Currently unable to locate hash-matching file. All hashed in 2017, earliest one is the timestamp linked."
     },
     {
         "file": "<img alt='PEPEXIT by ?' height='85px' src='images/pepexit-unhashed.png' width='70px'/>",
