@@ -14,6 +14,10 @@ Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR 
 
 [View Live Timeline](https://dsgfn.com/early-nfts/timelines/earliest-hashed-nfts-on-bitcoin/)
 
+## Earliest URL NFTs Archived On Bitcoin (2015-2018)
+
+Work in progress
+
 ## Pre-Ordinals Onchain Bitcoin NFTs (2015-2022)
 
 Before the first Ordinals inscription (14th December 2022) there was already a small batch of onchain Bitcoin NFTs. Here they are.

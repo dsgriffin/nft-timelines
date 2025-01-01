@@ -48,7 +48,7 @@
         "notes": "Linked hashes are <a href='https://web.archive.org/web/20240615174705/https://wiki.bitmessage.org/index.php/Public_key_to_bitmessage_address' target='_blank'>Bitmessage Addresses</a>, not files."
     },
     {
-        "file": "<img alt='KETF by Weex' height='85px' src='images/ketf.jpg' width='70px'/>",
+        "file": "<img alt='KETF' height='85px' src='images/ketf.jpg' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/7ed3b7e1a42cc3291557003d57ec0c5a3c5e7450e757aad69826b45e96b9cf18' target='_blank'>2015-02-14 17:55:39</a>",
         "names": "KETF",
         "supply": "1 🔒",
@@ -1248,7 +1248,7 @@
         "notes": "Currently unable to locate hash-matching file. Displaying thumbnail image found on Reddit."
     },
     {
-        "file": "<img alt='PEPEHODLER by Bench' height='85px' src='images/PEPEHODLER.png' width='70px'/>",
+        "file": "<img alt='PEPEHODLER' height='85px' src='images/PEPEHODLER.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/f5728f475d9b39fc2d814608928f20a5d5088ee6fa75c6545cb5943e979ed0bc' target='_blank'>2017-05-03 15:10:56</a>",
         "names": "PEPEHODLER",
         "supply": "300 🔒",
@@ -1260,7 +1260,7 @@
         "notes": ""
     },
     {
-        "file": "<img alt='PEPERAREIPFS by ?' height='85px' src='images/PEPERAREIPFS.gif' width='70px'/>",
+        "file": "<img alt='PEPERAREIPFS' height='85px' src='images/PEPERAREIPFS.gif' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/dfa251c363508105be262a7ae949a3d19debe4e87926fe1e7bf28a6b409dd969' target='_blank'>2017-05-16 06:52:24</a>",
         "names": "PEPERAREIPFS",
         "supply": "100",
@@ -1272,7 +1272,7 @@
         "notes": "Description includes IPFS CID, which still works as of 2025. I used this to download the artwork and confirm untampered SHA-256 hash."
     },
     {
-        "file": "<img alt='PBOCPEPE by Bench' height='85px' src='images/PBOCPEPE.png' width='70px'/>",
+        "file": "<img alt='PBOCPEPE' height='85px' src='images/PBOCPEPE.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/f6ce2eab888c88934b86d43532eb5692ca7f4b7304082f3b8f9d170538cd1f7a' target='_blank'>2017-07-01 18:01:03</a>",
         "names": "PBOCPEPE",
         "supply": "8888 🔒",
@@ -1284,7 +1284,7 @@
         "notes": ""
     },
     {
-        "file": "<img alt='CORNBUDDHA by MightBeMike' height='85px' src='images/CORNBUDDHA.gif' width='70px'/>",
+        "file": "<img alt='CORNBUDDHA' height='85px' src='images/CORNBUDDHA.gif' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/2e95b3e1add038718d874b83d12356c19fb607d3d0ac54f6617664a410e8703f' target='_blank'>2018-09-19 01:06:13</a>",
         "names": "CORNBUDDHA",
         "supply": "28 🔒",
@@ -1296,7 +1296,7 @@
         "notes": ""
     },
     {
-        "file": "<img alt='VOTEBENCH by Bench' height='85px' src='images/votebench-unhashed.jpg' width='70px'/>",
+        "file": "<img alt='VOTEBENCH' height='85px' src='images/votebench-unhashed.jpg' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/0b4363af9b41b0b730ea8d071f2bce3fef087d585a9972bf5c25bbf5a32c8b0d' target='_blank'>2018-09-28 23:11:54</a>",
         "names": "VOTEBENCH",
         "supply": "16 🔒",
@@ -1308,7 +1308,7 @@
         "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     },
     {
-        "file": "<img alt='ROASTEDCORN by MightBeMike' height='85px' src='images/roastedcorn-unhashed.png' width='70px'/>",
+        "file": "<img alt='ROASTEDCORN' height='85px' src='images/roastedcorn-unhashed.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/7329ecf866410a4131ff7cff1b63d2837bf5b35c77601b25afc6037c7193541f' target='_blank'>2018-11-18 23:49:48</a>",
         "names": "ROASTEDCORN",
         "supply": "101 🔒",
@@ -1320,7 +1320,7 @@
         "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     },
     {
-        "file": "<img alt='BETTHEFARM by MightBeMike' height='85px' src='images/betthefarm-unhashed.gif' width='70px'/>",
+        "file": "<img alt='BETTHEFARM' height='85px' src='images/betthefarm-unhashed.gif' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/1797edcec36c4bbed1044f2f7f23080f0177ae7c981f5dcdcb6b31d8cfb749de' target='_blank'>2018-11-27 06:26:50</a>",
         "names": "BETTHEFARM",
         "supply": "1 🔒",
@@ -1332,7 +1332,7 @@
         "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
     },
     {
-        "file": "<img alt='BETYOURFARM by MightBeMike' height='85px' src='images/betyourfarm-unhashed.png' width='70px'/>",
+        "file": "<img alt='BETYOURFARM' height='85px' src='images/betyourfarm-unhashed.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/0c16326ccbd83ff9598571a252d0f01c4d5afc307064a15432a4e933693f032c' target='_blank'>2018-11-27 07:02:28</a>",
         "names": "BETYOURFARM",
         "supply": "9 🔒",

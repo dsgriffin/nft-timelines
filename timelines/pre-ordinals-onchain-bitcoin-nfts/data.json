@@ -1,6 +1,6 @@
 [
     {
-        "file": "<img alt='OLGA by JP Janssen' height='75px' src='images/OLGA.png' style='image-rendering: pixelated;' width='75px'/>",
+        "file": "<img alt='OLGA' height='75px' src='images/OLGA.png' style='image-rendering: pixelated;' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/627ae48d6b4cffb2ea734be1016dedef4cee3f8ffefaea5602dd58c696de6b74' target='_blank'>2015-08-11 20:43:21</a>",
         "name": "OLGA",
         "supply": "1 🔒",
@@ -11,7 +11,7 @@
         "notes": "The asset is not onchain directly but a broadcast tx made from the same address exists that specifies the image. Note that while the broadcast does not mention the OLGA asset, it does include the Russian phrase 'Моя дорогая вечная Ольга' (My dear eternal Olga). See <a href='https://web.archive.org/web/20241124034106/https://jpjanssen.com/faq-about-olga/' target='_blank'>FAQ about OLGA</a>."
     },
     {
-        "file": "<img alt='CSATOSHI by Cornholio' height='75px' src='images/CCSATOSHI.png' style='image-rendering: pixelated;' width='75px'/>",
+        "file": "<img alt='CSATOSHI' height='75px' src='images/CCSATOSHI.png' style='image-rendering: pixelated;' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/4c19b8f1b4dcefa27490d2a8d4b5afea2350d0b75640e402519e8aa2a628397a' target='_blank'>2021-09-28 10:52:21</a>",
         "name": "CCSATOSHI",
         "supply": "14 🔒",
@@ -22,7 +22,7 @@
         "notes": ""
     },
     {
-        "file": "<img alt='THENAKAMOTOS.2 by ?' height='75px' src='images/THENAKAMOTOS2.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none; background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
+        "file": "<img alt='THENAKAMOTOS.2' height='75px' src='images/THENAKAMOTOS2.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none; background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/9f19de022df7401cce53fc661d6dee06eeedb71bbac0db775c31d3bdd5109ba8' target='_blank'>2022-05-07 20:27:12</a>",
         "name": "THENAKAMOTOS.2",
         "supply": "0",
@@ -33,7 +33,7 @@
         "notes": ""
     },
     {
-        "file": "<img alt='THENAKAMOTOS.3 by ?' height='75px' src='images/THENAKAMOTOS3.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none; background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
+        "file": "<img alt='THENAKAMOTOS.3' height='75px' src='images/THENAKAMOTOS3.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none; background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/4a8f45f0e7c1b27bbb7080ca897969ffd97b7a650bfa9bfe535f44da71abd399' target='_blank'>2022-05-08 06:05:52</a>",
         "name": "THENAKAMOTOS.3",
         "supply": "0",
@@ -44,7 +44,7 @@
         "notes": ""
     },    
     {
-        "file": "<img alt='THENAKAMOTOS.1 by ?' height='75px' src='images/THENAKAMOTOS1.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none; background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
+        "file": "<img alt='THENAKAMOTOS.1' height='75px' src='images/THENAKAMOTOS1.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none; background-color: hsl(0, 0%, 90%);transition: background-color 300ms;' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/8b7a62bbe00d18d191dd6e5505df0bc70190b9220f4fc82d5b2dd198d767c04d' target='_blank'>2022-05-08 14:48:30</a>",
         "name": "THENAKAMOTOS.1",
         "supply": "0",
@@ -55,7 +55,7 @@
         "notes": ""
     },
     {
-        "file": "<img alt='TESTPEP by ChainLeft' height='75px' src='images/TESTPEP.svg' width='75px'/>",
+        "file": "<img alt='TESTPEP' height='75px' src='images/TESTPEP.svg' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/2c0e91077eceb451ed8d5f27255144061e974357ec650d75bf528155ee7009b5' target='_blank'>2022-11-23 02:25:48</a>",
         "name": "TESTPEP",
         "supply": "50 🔒",
@@ -66,7 +66,7 @@
         "notes": ""
     },
     {
-        "file": "<img alt='PEPERMANENT by ChainLeft' height='75px' src='images/PEPERMANENT.svg' width='75px'/>",
+        "file": "<img alt='PEPERMANENT' height='75px' src='images/PEPERMANENT.svg' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/2c0e91077eceb451ed8d5f27255144061e974357ec650d75bf528155ee7009b5' target='_blank'>2022-11-23 02:25:48</a>",
         "name": "PEPERMANENT",
         "supply": "69 🔒",
@@ -77,7 +77,7 @@
         "notes": ""
     },
     {
-        "file": "<img alt='EVAS by MasterOnchain' height='75px' src='images/EVAS.png' style='image-rendering: pixelated;' width='75px'/>",
+        "file": "<img alt='EVAS' height='75px' src='images/EVAS.png' style='image-rendering: pixelated;' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/360b79a039b3a1d715adfb8edf0c2776605beb688ae3d99ce57de30ebe1c7583' target='_blank'>2022-12-14 11:00:59</a>",
         "name": "EVAS",
         "supply": "100 🔒",
