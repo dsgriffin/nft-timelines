@@ -5,10 +5,9 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <meta content="NFT, Bitcoin NFTs, Counterparty, Bitcoin, XCP, Faux SoGs, Fake Rares"
-        name="keywords" />
+    <meta content="NFT, Bitcoin NFTs, Counterparty, Bitcoin, XCP" name="keywords" />
 
-    <title>Pre-Ordinals Onchain Bitcoin NFTs (2015-2022)</title>
+    <title>Earliest URL NFTs Archived On Bitcoin NFTs (2014-2018)</title>
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css"
         rel="stylesheet" />
@@ -21,7 +20,7 @@
 <body class="p-1 m-4">
     <div class="row pb-3 align-items-center">
         <div class="col">
-            <h1>Pre-Ordinals Onchain Bitcoin NFTs (2015-2022)</h1>
+            <h1>Earliest URL NFTs Archived On Bitcoin NFTs (2014-2018)</h1>
         </div>
 
         <div class="col-md-auto">
@@ -38,7 +37,10 @@
 
     <div class="pb-3">
         <h6>
-            Before the first Ordinals inscription (14th December 2022) there was already a small batch of onchain Bitcoin NFTs. Here they are.
+            If an NFT wasn't put onchain or hashed, linking a URL is the next best thing. The question is, how to prove the contents of the URL haven't changed over time? Unless the URL itself contained a file hash, there's no way to be 100% sure.
+        </h6>
+        <h6>
+            So in this list I'm using a combination of "Trusted Sources" (e.g. Imgur) that are less likely to have been tampered with due to reputation, plus the earliest date at which a linked file is accessible on the Wayback Machine. So you can decide for yourself.
         </h6>
     </div>
 
@@ -52,13 +54,14 @@
         <thead class="text-center">
             <tr>
                 <th>File</th>
-                <th>Onchain Datetime</th>
+                <th>URL Datetime</th>
+                <th>Trusted Source?</th>
+                <th>Archive Date</th>
                 <th>Asset Name</th>
                 <th>Supply</th>
                 <th>Project</th>
                 <th>Author</th>
                 <th>Type</th>
-                <th></th>
                 <th>Notes</th>
             </tr>
         </thead>
@@ -93,13 +96,14 @@
                         const tableRow = `
                             <tr>
                                 <td>${row.file}</td>
-                                <td>${row.datetime}</td>
+                                <td>${row.url_datetime}</td>
+                                <td>${row.trusted_host}</td>
+                                <td>${row.archive_date}</td>
                                 <td>${row.name}</td>
                                 <td>${row.supply}</td>
                                 <td>${row.project}</td>
                                 <td>${row.author}</td>
                                 <td>${row.file_type}</td>
-                                <td>${row.status}</td>
                                 <td>${row.notes}</td>
                             </tr>
                         `;
