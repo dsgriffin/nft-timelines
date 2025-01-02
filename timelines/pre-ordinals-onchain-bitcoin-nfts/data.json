@@ -81,10 +81,10 @@
         "datetime": "<a href='https://horizon.market/explorer/tx/360b79a039b3a1d715adfb8edf0c2776605beb688ae3d99ce57de30ebe1c7583' target='_blank'>2022-12-14 11:00:59</a>",
         "name": "EVAS",
         "supply": "100 🔒",
-        "project": "<a href='https://web.archive.org/web/20240928013434/https://artonchain.net/' target='_blank'>ArtOnchain</a>",
+        "project": "ArtOnchain",
         "author": "<a href='https://x.com/masteronchain' target='_blank'>MasterOnchain</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": ""
+        "notes": "Put onchain just hours before the first Ordinals Inscription (#0) was inscribed. See <a href='https://web.archive.org/web/20240928013434/https://artonchain.net/' target='_blank'>ArtOnchain</a>."
     }
 ]
