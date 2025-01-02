@@ -209,11 +209,11 @@
         "names": "Nothing",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927005538/https://www.stephanvogler.com/en/2015/03/01/nothing/' target='_blank'>Nothing</a>",
+        "project": "Nothing",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "N/A",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 20th July 2013 23:29:33 CEST. See <a href='https://web.archive.org/web/20230927005538/https://www.stephanvogler.com/en/2015/03/01/nothing/' target='_blank'>Nothing</a>."
     },
     {
         "file": "0",
@@ -221,11 +221,11 @@
         "names": "Number 0",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20240226052416/https://www.stephanvogler.com/en/2015/03/01/numbers/' target='_blank'>Numbers</a>",
+        "project": "Numbers",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "number",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 5th August 2013 21:17:55 CEST. See <a href='https://web.archive.org/web/20240226052416/https://www.stephanvogler.com/en/2015/03/01/numbers/' target='_blank'>Numbers</a>."
     },
     {
         "file": "1",
@@ -233,11 +233,11 @@
         "names": "Number 1",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20240226052416/https://www.stephanvogler.com/en/2015/03/01/numbers/' target='_blank'>Numbers</a>",
+        "project": "Numbers",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "number",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 5th August 2013 21:18:45 CEST. See <a href='https://web.archive.org/web/20240226052416/https://www.stephanvogler.com/en/2015/03/01/numbers/' target='_blank'>Numbers</a>."
     },
     {
         "file": "<img alt='Transparent Square by Stephan Vogler' height='75px' src='images/transparent-square.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -245,11 +245,11 @@
         "names": "Transparent Square",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20231210224332/https://www.stephanvogler.com/en/2015/03/01/squares/' target='_blank'>Squares</a>",
+        "project": "Squares",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:03:38 CEST. See <a href='https://web.archive.org/web/20231210224332/https://www.stephanvogler.com/en/2015/03/01/squares/' target='_blank'>Squares</a>."
     },
     {
         "file": "Everything  is a number!",
@@ -261,7 +261,7 @@
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "text",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 22nd March 2015 04:09:07 CET. See <a href='https://web.archive.org/web/20240226052416/https://www.stephanvogler.com/en/2015/03/01/numbers/' target='_blank'>Numbers</a>."
     },
     {
         "file": "<img alt='Black Square by Stephan Vogler' height='75px' src='images/black-square.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -269,11 +269,11 @@
         "names": "Black Square",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20231210224332/https://www.stephanvogler.com/en/2015/03/01/squares/' target='_blank'>Squares</a>",
+        "project": "Squares",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:05:31 CEST. See <a href='https://web.archive.org/web/20231210224332/https://www.stephanvogler.com/en/2015/03/01/squares/' target='_blank'>Squares</a>."
     },
     {
         "file": "<img alt='White Square by Stephan Vogler' height='75px' src='images/white-square.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -281,11 +281,11 @@
         "names": "White Square",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20231210224332/https://www.stephanvogler.com/en/2015/03/01/squares/' target='_blank'>Squares</a>",
+        "project": "Squares",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:06:22 CEST. See <a href='https://web.archive.org/web/20231210224332/https://www.stephanvogler.com/en/2015/03/01/squares/' target='_blank'>Squares</a>."
     },
     {
         "file": "<img alt='Nibble 0 by Stephan Vogler' height='75px' src='images/nibble0.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -293,11 +293,11 @@
         "names": "Nibble 0",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:09:48 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 1 by Stephan Vogler' height='75px' src='images/nibble1.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -305,11 +305,11 @@
         "names": "Nibble 1",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:10:29 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 2 by Stephan Vogler' height='75px' src='images/nibble2.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -317,11 +317,11 @@
         "names": "Nibble 2",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:11:06 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 3 by Stephan Vogler' height='75px' src='images/nibble3.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -329,11 +329,11 @@
         "names": "Nibble 3",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:11:57 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 4 by Stephan Vogler' height='75px' src='images/nibble4.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -341,11 +341,11 @@
         "names": "Nibble 4",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:12:29 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 5 by Stephan Vogler' height='75px' src='images/nibble5.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -353,11 +353,11 @@
         "names": "Nibble 5",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:13:15 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 6 by Stephan Vogler' height='75px' src='images/nibble6.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -365,11 +365,11 @@
         "names": "Nibble 6",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:13:50 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 7 by Stephan Vogler' height='75px' src='images/nibble7.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -377,11 +377,11 @@
         "names": "Nibble 7",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:14:19 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 8 by Stephan Vogler' height='75px' src='images/nibble8.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -389,11 +389,11 @@
         "names": "Nibble 8",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:14:49 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 9 by Stephan Vogler' height='75px' src='images/nibble9.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -401,11 +401,11 @@
         "names": "Nibble 9",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:15:21 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 10 by Stephan Vogler' height='75px' src='images/nibble10.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -413,11 +413,11 @@
         "names": "Nibble 10",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:15:49 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 11 by Stephan Vogler' height='75px' src='images/nibble11.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -425,11 +425,11 @@
         "names": "Nibble 11",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:16:18 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 12 by Stephan Vogler' height='75px' src='images/nibble12.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -437,11 +437,11 @@
         "names": "Nibble 12",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:16:49 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 13 by Stephan Vogler' height='75px' src='images/nibble13.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -449,11 +449,11 @@
         "names": "Nibble 13",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:17:16 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 14 by Stephan Vogler' height='75px' src='images/nibble14.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -461,11 +461,11 @@
         "names": "Nibble 14",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:17:44 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='Nibble 15 by Stephan Vogler' height='75px' src='images/nibble15.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -473,23 +473,23 @@
         "names": "Nibble 15",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:18:12 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
-        "file": "<img alt='Nibble 16 by Stephan Vogler' height='75px' src='images/nibble16.gif' style='image-rendering: pixelated;' width='75px'/>",
+        "file": "<img alt='All Nibbles by Stephan Vogler' height='75px' src='images/all-nibbles.gif' style='image-rendering: pixelated;' width='75px'/>",
         "datetime": "<a href='https://mempool.space/tx/6fb4d44a84ccf83703aad328fb2542cf1aadbb698120cec4fbd44c55b65b0225' target='_blank'>2015-03-31 23:18:55</a>",
-        "names": "Nibble 16",
+        "names": "All Nibbles",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>",
+        "project": "Nibbles",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:18:40 CEST. See <a href='https://web.archive.org/web/20230927024515/https://www.stephanvogler.com/en/2015/03/01/nibbles/' target='_blank'>Nibbles</a>."
     },
     {
         "file": "<img alt='4x4 Face by Stephan Vogler' height='75px' src='images/4x4-face.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -497,11 +497,11 @@
         "names": "4x4 Face",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927012504/https://www.stephanvogler.com/en/2015/03/01/faces/' target='_blank'>Faces</a>",
+        "project": "Faces",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:19:24 CEST. See <a href='https://web.archive.org/web/20230927012504/https://www.stephanvogler.com/en/2015/03/01/faces/' target='_blank'>Faces</a>."
     },
     {
         "file": "<img alt='8x8 Face by Stephan Vogler' height='75px' src='images/8x8-face.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -509,11 +509,11 @@
         "names": "8x8 Face",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927012504/https://www.stephanvogler.com/en/2015/03/01/faces/' target='_blank'>Faces</a>",
+        "project": "Faces",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:19:55 CEST. See <a href='https://web.archive.org/web/20230927012504/https://www.stephanvogler.com/en/2015/03/01/faces/' target='_blank'>Faces</a>."
     },
     {
         "file": "<img alt='16x16 Face by Stephan Vogler' height='75px' src='images/16x16-face.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -521,11 +521,11 @@
         "names": "16x16 Face",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927012504/https://www.stephanvogler.com/en/2015/03/01/faces/' target='_blank'>Faces</a>",
+        "project": "Faces",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:20:23 CEST. See <a href='https://web.archive.org/web/20230927012504/https://www.stephanvogler.com/en/2015/03/01/faces/' target='_blank'>Faces</a>."
     },
     {
         "file": "<img alt='32x32 Face by Stephan Vogler' height='75px' src='images/32x32-face.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -533,11 +533,11 @@
         "names": "32x32 Face",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927012504/https://www.stephanvogler.com/en/2015/03/01/faces/' target='_blank'>Faces</a>",
+        "project": "Faces",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:20:54 CEST. See <a href='https://web.archive.org/web/20230927012504/https://www.stephanvogler.com/en/2015/03/01/faces/' target='_blank'>Faces</a>."
     },
     {
         "file": "<img alt='64x64 Face by Stephan Vogler' height='75px' src='images/64x64-face.gif' style='image-rendering: pixelated;' width='75px'/>",
@@ -545,11 +545,11 @@
         "names": "64x64 Face",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230927012504/https://www.stephanvogler.com/en/2015/03/01/faces/' target='_blank'>Faces</a>",
+        "project": "Faces",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "gif",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 14th August 2013 23:21:22 CEST. See <a href='https://web.archive.org/web/20230927012504/https://www.stephanvogler.com/en/2015/03/01/faces/' target='_blank'>Faces</a>."
     },
     {
         "file": "?",
@@ -557,11 +557,11 @@
         "names": "Secret",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20230603144249/https://www.stephanvogler.com/en/2015/03/01/secret/' target='_blank'>Secret</a>",
+        "project": "Secret",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "?",
         "status": "✅",
-        "notes": ""
+        "notes": "Electronically signed 21st April 2015 23:18:33 CEST. See <a href='https://web.archive.org/web/20230603144249/https://www.stephanvogler.com/en/2015/03/01/secret/' target='_blank'>Secret</a>."
     },
     {
         "file": "N/A",
