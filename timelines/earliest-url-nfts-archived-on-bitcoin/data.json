@@ -46,5 +46,29 @@
         "author": "<a href='https://x.com/djangobits' target='_blank'>Django Bits</a>",
         "file_type": "jpg",
         "notes": ""
+    },
+    {
+        "file": "<img alt='MARVINPEPE' height='75px' src='images/MARVINPEPE.gif' style='image-rendering: pixelated;' width='75px'/>",
+        "url_datetime": "<a href='https://horizon.market/explorer/tx/3c097a3569338ebe75f9c1f450d50da0aa9fa39920d6168e164f4c3caeddd0e8' target='_blank'>2016-10-04 10:41:58</a>",
+        "trusted_host": "Imgur ✅",
+        "archive_date": "<a href='https://web.archive.org/web/20230509060741/http://imgur.com/cuiDGeH' target='_blank'>2023-05-13</a>",
+        "name": "MARVINPEPE",
+        "supply": "42 🔒",
+        "project": "Rare Pepe",
+        "author": "<a href='https://x.com/djangobits' target='_blank'>Django Bits</a>",
+        "file_type": "gif",
+        "notes": ""
+    },
+    {
+        "file": "<img alt='PEPEALASSAD' height='75px' src='images/PEPEALASSAD.jpg' style='image-rendering: pixelated;' width='75px'/>",
+        "url_datetime": "<a href='https://horizon.market/explorer/tx/3c097a3569338ebe75f9c1f450d50da0aa9fa39920d6168e164f4c3caeddd0e8' target='_blank'>2016-10-06 15:44:11</a>",
+        "trusted_host": "Imgur ✅",
+        "archive_date": "<a href='https://web.archive.org/web/20230509060741/http://imgur.com/cuiDGeH' target='_blank'>2023-05-09</a>",
+        "name": "PEPEALASSAD",
+        "supply": "3 🔒",
+        "project": "Rare Pepe",
+        "author": "<a href='https://x.com/djangobits' target='_blank'>Django Bits</a>",
+        "file_type": "jpg",
+        "notes": ""
     }
 ]
