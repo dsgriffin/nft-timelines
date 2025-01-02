@@ -14,38 +14,14 @@
     {
         "file": "N/A",
         "datetime": "<a href='https://horizon.market/explorer/blocks/340592?msg=issuances' target='_blank'>2015-01-26 20:05:35</a>",
-        "names": "GBPS THIS MBPS LOLZ",
+        "names": "LOLZ + 7 Named Assets",
         "supply": "1000",
         "hash": "SHA-512 (Base58)",
         "project": "?",
         "author": "?",
         "file_type": "N/A",
         "status": "⚠️",
-        "notes": "Linked hashes are <a href='https://web.archive.org/web/20240615174705/https://wiki.bitmessage.org/index.php/Public_key_to_bitmessage_address' target='_blank'>Bitmessage Addresses</a>, not files."
-    },
-    {
-        "file": "N/A",
-        "datetime": "<a href='https://horizon.market/explorer/tx/ef730a20beabd9715083ed7b88cdb6f867559fe055f6a03d256c08505aa96501' target='_blank'>2015-01-26 20:14:27</a>",
-        "names": "WHAT",
-        "supply": "1",
-        "hash": "SHA-512 (Base58)",
-        "project": "?",
-        "author": "?",
-        "file_type": "N/A",
-        "status": "⚠️",
-        "notes": "Linked hash is a <a href='https://web.archive.org/web/20240615174705/https://wiki.bitmessage.org/index.php/Public_key_to_bitmessage_address' target='_blank'>Bitmessage Address</a>, not a file."
-    },
-    {
-        "file": "N/A",
-        "datetime": "<a href='https://horizon.market/explorer/blocks/340594?msg=issuances' target='_blank'>2015-01-26 20:27:53</a>",
-        "names": "FEEL FEELS MOST",
-        "supply": "1",
-        "hash": "SHA-512 (Base58)",
-        "project": "?",
-        "author": "?",
-        "file_type": "N/A",
-        "status": "⚠️",
-        "notes": "Linked hashes are <a href='https://web.archive.org/web/20240615174705/https://wiki.bitmessage.org/index.php/Public_key_to_bitmessage_address' target='_blank'>Bitmessage Addresses</a>, not files."
+        "notes": "Linked hashes are <a href='https://web.archive.org/web/20240615174705/https://wiki.bitmessage.org/index.php/Public_key_to_bitmessage_address' target='_blank'>Bitmessage Addresses</a>, not files. All hashed with the same Bitmessage address on the same day, earliest one is the timestamp linked."
     },
     {
         "file": "<img alt='KETF' height='85px' src='images/ketf.jpg' width='70px'/>",
@@ -53,11 +29,11 @@
         "names": "KETF",
         "supply": "1 🔒",
         "hash": "RIPEMD-160",
-        "project": "<a href='https://web.archive.org/web/20150301172933/https://www.reddit.com/r/Bitcoin/comments/2x09wb/steal_this_art_crack_its_key/' target='_blank'>Steal This Art</a>",
+        "project": "Steal This Art",
         "author": "<a href='https://x.com/weex' target='_blank'>David Sterry (Weex)</a>",
         "file_type": "jpg",
         "status": "✅",
-        "notes": ""
+        "notes": "The artwork was 'stolen' by ebx, who wrote a Python script to solve the puzzle. See piece description + script at <a href='https://web.archive.org/web/20150301172933/https://www.reddit.com/r/Bitcoin/comments/2x09wb/steal_this_art_crack_its_key/' target='_blank'>Steal this art. Crack its key</a>."
     },
     {
         "file": "<img alt='A1672758370327094000 by Weex' height='85px' src='images/A1672758370327094000.jpg' width='70px'/>",
@@ -630,7 +606,7 @@
         "supply": "1000 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20211230055541/https://jpjanssen.com/xcpcards/cnpcard' target='_blank'>xcpcards.com/cnpcard</a>."
@@ -642,7 +618,7 @@
         "supply": "300 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20211230055541/https://jpjanssen.com/xcpcards/fdcard' target='_blank'>xcpcards.com/fdcard</a>."
@@ -654,7 +630,7 @@
         "supply": "418 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/gemzcard' target='_blank'>xcpcards.com/gemzcard</a>."
@@ -666,7 +642,7 @@
         "supply": "379 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/goxcard' target='_blank'>xcpcards.com/goxcard</a>."
@@ -678,7 +654,7 @@
         "supply": "1000 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/bazaarcard' target='_blank'>xcpcards.com/bazaarcard</a>."
@@ -690,7 +666,7 @@
         "supply": "366 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240618140103/https://xcpcards.com/ethxcpcard' target='_blank'>xcpcards.com/ethxcpcard</a>."
@@ -702,7 +678,7 @@
         "supply": "1000 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/ltbcard' target='_blank'>xcpcards.com/ltbcard</a>."
@@ -714,7 +690,7 @@
         "supply": "1200 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/minercard' target='_blank'>xcpcards.com/minercard</a>."
@@ -726,7 +702,7 @@
         "supply": "500 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/ripplecard' target='_blank'>xcpcards.com/ripplecard</a>."
@@ -738,7 +714,7 @@
         "supply": "1000 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/shumaicard' target='_blank'>xcpcards.com/shumaicard</a>."
@@ -750,7 +726,7 @@
         "supply": "557 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/sjcxcard' target='_blank'>xcpcards.com/sjcxcard</a>."
@@ -762,7 +738,7 @@
         "supply": "339 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/swarmcd' target='_blank'>xcpcards.com/swarmcd</a>."
@@ -774,7 +750,7 @@
         "supply": "500 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajibesaar' target='_blank'>xcpcards.com/xajibesaar</a>."
@@ -786,7 +762,7 @@
         "supply": "1000 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xcpcard' target='_blank'>xcpcards.com/xcpcard</a>."
@@ -798,7 +774,7 @@
         "supply": "1000 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/zaifcard' target='_blank'>xcpcards.com/zaifcard</a>."
@@ -810,7 +786,7 @@
         "supply": "430 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/bearwhalecd' target='_blank'>xcpcards.com/bearwhalecd</a>"
@@ -822,7 +798,7 @@
         "supply": "300 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/blocksizecd' target='_blank'>xcpcards.com/blocksizecd</a>"
@@ -834,7 +810,7 @@
         "supply": "239 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/ethereumcard' target='_blank'>xcpcards.com/ethereumcard</a>."
@@ -846,7 +822,7 @@
         "supply": "557 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/genesiscard' target='_blank'>xcpcards.com/genesiscard</a>."
@@ -858,7 +834,7 @@
         "supply": "199 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/satoshicard' target='_blank'>xcpcards.com/satoshicard</a>."
@@ -870,7 +846,7 @@
         "supply": "183 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/shapeshiftcd' target='_blank'>xcpcards.com/shapeshiftcd</a>."
@@ -882,7 +858,7 @@
         "supply": "700 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajiarketaar' target='_blank'>xcpcards.com/xajiarketaar</a>."
@@ -894,7 +870,7 @@
         "supply": "2000 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajibasilaar' target='_blank'>xcpcards.com/xajibasilaar</a>."
@@ -906,7 +882,7 @@
         "supply": "1000 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajijaspaar' target='_blank'>xcpcards.com/xajijaspaar</a>."
@@ -918,7 +894,7 @@
         "supply": "600 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
-        "author": "<a href='https://x.com/everdreamsoft' target='_blank'>EverdreamSoft</a>",
+        "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
         "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajiyeremaar' target='_blank'>xcpcards.com/xajiyeremaar</a>."
@@ -1101,7 +1077,7 @@
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. All hashed in 2016 to mid 2018, the earliest is the timestamp linked."
+        "notes": "Currently unable to locate these hash-matching files. All hashed in 2016 to mid 2018, earliest one is the timestamp linked."
     },
     {
         "file": "N/A",
@@ -1113,7 +1089,7 @@
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. All hashed in 2016 to early 2017, the earliest is the timestamp linked."
+        "notes": "Currently unable to locate these hash-matching files. All hashed in 2016 to early 2017, earliest one is the timestamp linked."
     },
     {
         "file": "N/A",
