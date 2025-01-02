@@ -257,7 +257,7 @@
         "names": "Everything is a number!",
         "supply": "1 🔒",
         "hash": "SHA-256",
-        "project": "<a href='https://web.archive.org/web/20240226052416/https://www.stephanvogler.com/en/2015/03/01/numbers/' target='_blank'>Numbers</a>",
+        "project": "Numbers",
         "author": "<a href='https://x.com/stephanvogler1' target='_blank'>Stephan Vogler</a>",
         "file_type": "text",
         "status": "✅",
@@ -573,7 +573,7 @@
         "author": "<a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. All prefixed with 'NINJA-'. All hashed in 2015, earliest one is the timestamp linked."
+        "notes": "Unable to locate these hash-matching files. All prefixed with 'NINJA-'. All hashed in 2015, earliest one is the timestamp linked."
     }, 
     {
         "file": "N/A",
@@ -585,7 +585,7 @@
         "author": "<a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. All prefixed with 'TOKNID-'. All hashed in 2015, earliest one is the timestamp linked."
+        "notes": "Unable to locate these hash-matching files. All prefixed with 'TOKNID-'. All hashed in 2015, earliest one is the timestamp linked."
     },
     {
         "file": "N/A",
@@ -597,7 +597,7 @@
         "author": "<a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. All prefixed with 'BVAMW-'. All hashed in 2015 to early 2016, earliest one is the timestamp linked."
+        "notes": "Unable to locate these hash-matching files. All prefixed with 'BVAMW-'. All hashed in 2015 to early 2016, earliest one is the timestamp linked."
     },
     {
         "file": "<img alt='CNPCARD by EverdreamSoft' height='85px' src='images/cnpcard.jpg' width='70px'/>",
@@ -609,7 +609,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20211230055541/https://jpjanssen.com/xcpcards/cnpcard' target='_blank'>xcpcards.com/cnpcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20211230055541/https://jpjanssen.com/xcpcards/cnpcard' target='_blank'>xcpcards.com/cnpcard</a>."
     },
     {
         "file": "<img alt='FDCARD by EverdreamSoft' height='85px' src='images/fdcard.jpg' width='70px'/>",
@@ -621,7 +621,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20211230055541/https://jpjanssen.com/xcpcards/fdcard' target='_blank'>xcpcards.com/fdcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20211230055541/https://jpjanssen.com/xcpcards/fdcard' target='_blank'>xcpcards.com/fdcard</a>."
     },
     {
         "file": "<img alt='GEMZCARD by EverdreamSoft' height='85px' src='images/gemzcard.jpg' width='70px'/>",
@@ -633,7 +633,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/gemzcard' target='_blank'>xcpcards.com/gemzcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/gemzcard' target='_blank'>xcpcards.com/gemzcard</a>."
     },
     {
         "file": "<img alt='GOXCARD by EverdreamSoft' height='85px' src='images/goxcard.jpg' width='70px'/>",
@@ -645,7 +645,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/goxcard' target='_blank'>xcpcards.com/goxcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/goxcard' target='_blank'>xcpcards.com/goxcard</a>."
     },
     {
         "file": "<img alt='BAZAARCARD by EverdreamSoft' height='85px' src='images/bazaarcard.jpg' width='70px'/>",
@@ -657,7 +657,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/bazaarcard' target='_blank'>xcpcards.com/bazaarcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/bazaarcard' target='_blank'>xcpcards.com/bazaarcard</a>."
     },
     {
         "file": "<img alt='ETHXCPCARD by EverdreamSoft' height='85px' src='images/ethxcpcard.jpg' width='70px'/>",
@@ -669,7 +669,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240618140103/https://xcpcards.com/ethxcpcard' target='_blank'>xcpcards.com/ethxcpcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240618140103/https://xcpcards.com/ethxcpcard' target='_blank'>xcpcards.com/ethxcpcard</a>."
     },
     {
         "file": "<img alt='LTBCARD by EverdreamSoft' height='85px' src='images/ltbcard.jpg' width='70px'/>",
@@ -681,7 +681,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/ltbcard' target='_blank'>xcpcards.com/ltbcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/ltbcard' target='_blank'>xcpcards.com/ltbcard</a>."
     },
     {
         "file": "<img alt='MINERCARD by EverdreamSoft' height='85px' src='images/minercard.jpg' width='70px'/>",
@@ -693,7 +693,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/minercard' target='_blank'>xcpcards.com/minercard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/minercard' target='_blank'>xcpcards.com/minercard</a>."
     },
     {
         "file": "<img alt='RIPPLECARD by EverdreamSoft' height='85px' src='images/ripplecard.jpg' width='70px'/>",
@@ -705,7 +705,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/ripplecard' target='_blank'>xcpcards.com/ripplecard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/ripplecard' target='_blank'>xcpcards.com/ripplecard</a>."
     },
     {
         "file": "<img alt='SHUMAICARD by EverdreamSoft' height='85px' src='images/shumaicard.jpg' width='70px'/>",
@@ -717,7 +717,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/shumaicard' target='_blank'>xcpcards.com/shumaicard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/shumaicard' target='_blank'>xcpcards.com/shumaicard</a>."
     },
     {
         "file": "<img alt='SJCXCARD by EverdreamSoft' height='85px' src='images/sjcxcard.jpg' width='70px'/>",
@@ -729,7 +729,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/sjcxcard' target='_blank'>xcpcards.com/sjcxcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/sjcxcard' target='_blank'>xcpcards.com/sjcxcard</a>."
     },
     {
         "file": "<img alt='SWARMCD by EverdreamSoft' height='85px' src='images/swarmcd.jpg' width='70px'/>",
@@ -741,7 +741,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/swarmcd' target='_blank'>xcpcards.com/swarmcd</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/swarmcd' target='_blank'>xcpcards.com/swarmcd</a>."
     },
     {
         "file": "<img alt='XAJIBESAAR by EverdreamSoft' height='85px' src='images/xajibesaar.jpg' width='70px'/>",
@@ -753,7 +753,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajibesaar' target='_blank'>xcpcards.com/xajibesaar</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajibesaar' target='_blank'>xcpcards.com/xajibesaar</a>."
     },
     {
         "file": "<img alt='XCPCARD by EverdreamSoft' height='85px' src='images/xcpcard.jpg' width='70px'/>",
@@ -765,7 +765,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xcpcard' target='_blank'>xcpcards.com/xcpcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xcpcard' target='_blank'>xcpcards.com/xcpcard</a>."
     },
     {
         "file": "<img alt='ZAIFCARD by EverdreamSoft' height='85px' src='images/zaifcard.jpg' width='70px'/>",
@@ -777,7 +777,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/zaifcard' target='_blank'>xcpcards.com/zaifcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/zaifcard' target='_blank'>xcpcards.com/zaifcard</a>."
     },
     {
         "file": "<img alt='BEARWHALECD by EverdreamSoft' height='85px' src='images/bearwhalecd.jpg' width='70px'/>",
@@ -789,7 +789,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/bearwhalecd' target='_blank'>xcpcards.com/bearwhalecd</a>"
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/bearwhalecd' target='_blank'>xcpcards.com/bearwhalecd</a>"
     },
     {
         "file": "<img alt='BLOCKSIZECD by EverdreamSoft' height='85px' src='images/blocksizecd.jpg' width='70px'/>",
@@ -801,7 +801,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/blocksizecd' target='_blank'>xcpcards.com/blocksizecd</a>"
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/blocksizecd' target='_blank'>xcpcards.com/blocksizecd</a>"
     },
     {
         "file": "<img alt='ETHEREUMCARD by EverdreamSoft' height='85px' src='images/ethereumcard.jpg' width='70px'/>",
@@ -813,7 +813,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/ethereumcard' target='_blank'>xcpcards.com/ethereumcard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/ethereumcard' target='_blank'>xcpcards.com/ethereumcard</a>."
     },
     {
         "file": "<img alt='GENESISCARD by EverdreamSoft' height='85px' src='images/genesiscard.jpg' width='70px'/>",
@@ -825,7 +825,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/genesiscard' target='_blank'>xcpcards.com/genesiscard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/genesiscard' target='_blank'>xcpcards.com/genesiscard</a>."
     },
     {
         "file": "<img alt='SATOSHICARD by EverdreamSoft' height='85px' src='images/satoshicard.jpg' width='70px'/>",
@@ -837,7 +837,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/satoshicard' target='_blank'>xcpcards.com/satoshicard</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/satoshicard' target='_blank'>xcpcards.com/satoshicard</a>."
     },
     {
         "file": "<img alt='SHAPESHIFTCD by EverdreamSoft' height='85px' src='images/shapeshiftcd.jpg' width='70px'/>",
@@ -849,7 +849,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/shapeshiftcd' target='_blank'>xcpcards.com/shapeshiftcd</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/shapeshiftcd' target='_blank'>xcpcards.com/shapeshiftcd</a>."
     },
     {
         "file": "<img alt='XAJIARKETAAR by EverdreamSoft' height='85px' src='images/xajiarketaar.jpg' width='70px'/>",
@@ -861,7 +861,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajiarketaar' target='_blank'>xcpcards.com/xajiarketaar</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajiarketaar' target='_blank'>xcpcards.com/xajiarketaar</a>."
     },
     {
         "file": "<img alt='XAJIBASILAAR by EverdreamSoft' height='85px' src='images/xajibasilaar.jpg' width='70px'/>",
@@ -873,7 +873,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajibasilaar' target='_blank'>xcpcards.com/xajibasilaar</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajibasilaar' target='_blank'>xcpcards.com/xajibasilaar</a>."
     },
     {
         "file": "<img alt='XAJIJASPAAR by EverdreamSoft' height='85px' src='images/xajijaspaar.jpg' width='70px'/>",
@@ -885,7 +885,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajijaspaar' target='_blank'>xcpcards.com/xajijaspaar</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajijaspaar' target='_blank'>xcpcards.com/xajijaspaar</a>."
     },
     {
         "file": "<img alt='XAJIYEREMAAR by EverdreamSoft' height='85px' src='images/xajiyeremaar.jpg' width='70px'/>",
@@ -897,7 +897,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajiyeremaar' target='_blank'>xcpcards.com/xajiyeremaar</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/xajiyeremaar' target='_blank'>xcpcards.com/xajiyeremaar</a>."
     },
     {
         "file": "<img alt=' WOLVERINE by EverdreamSoft' height='85px' src='images/wolverine.jpg' width='70px'/>",
@@ -909,7 +909,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/wolverine' target='_blank'>xcpcards.com/wolverine</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/wolverine' target='_blank'>xcpcards.com/wolverine</a>."
     },
     {
         "file": "<img alt='LOCHNESS by EverdreamSoft' height='85px' src='images/lochness.jpg' width='70px'/>",
@@ -921,7 +921,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/lochness' target='_blank'>xcpcards.com/lochness</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/lochness' target='_blank'>xcpcards.com/lochness</a>."
     },
     {
         "file": "<img alt='GRAYWOLF by EverdreamSoft' height='85px' src='images/graywolf.jpg' width='70px'/>",
@@ -933,7 +933,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/graywolf' target='_blank'>xcpcards.com/graywolf</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/graywolf' target='_blank'>xcpcards.com/graywolf</a>."
     },
     {
         "file": "<img alt='GENET by EverdreamSoft' height='85px' src='images/genet.jpg' width='70px'/>",
@@ -945,7 +945,7 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "The asset is not hashed directly but a broadcast tx exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/genet' target='_blank'>xcpcards.com/genet</a>."
+        "notes": "The asset is not hashed directly but a broadcast exists that specifies both asset &amp; image hash. See <a href='https://web.archive.org/web/20240605012120/https://xcpcards.com/genet' target='_blank'>xcpcards.com/genet</a>."
     },
     {
         "file": "?",
@@ -981,7 +981,7 @@
         "author": "?",
         "file_type": "?",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Unable to locate hash-matching file."
     },
     {
         "file": "N/A",
@@ -993,7 +993,7 @@
         "author": "<a href='https://x.com/wellerco' target='_blank'>Devon Weller</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. A hashed BVAM JSON file with no prefix. Asset & hash are noted in the NPM package <a href='https://www.npmjs.com/package/node-bvam-client' target='_blank'>node-bvam-client</a>."
+        "notes": "Unable to locate hash-matching file. A hashed BVAM JSON file with no prefix. Asset & hash are noted in the NPM package <a href='https://www.npmjs.com/package/node-bvam-client' target='_blank'>node-bvam-client</a>."
     },
     {
         "file": "<img alt='CHYNAPEPE by Bench' height='85px' src='images/chynapepe-unhashed.png' width='70px'/>",
@@ -1005,7 +1005,7 @@
         "author": "<a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Unable to locate hash-matching file. Displaying current asset image instead."
     },
     {
         "file": "<img alt='KILLARYPEPE by Bench' height='85px' src='images/killarypepe.png' width='70px'/>",
@@ -1029,7 +1029,7 @@
         "author": "?",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Unable to locate hash-matching file. Displaying current asset image instead."
     },
     {
         "file": "<img alt='PEPETRADERS by Bench' height='85px' src='images/PEPETRADERS.png' width='70px'/>",
@@ -1053,7 +1053,7 @@
         "author": "?",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead. QR takes you to the issuers' Bitcoin Address. Asset & hash was saved to <a href='https://web.archive.org/web/20241230231338/https://cryptoproof.info/static/CPOAPEPE.txt' target='_blank'>Cryptoproof.info</a>. See <a href='https://j-dog.net/archive/RarePepeChat/2016-10_59.html#2016-10-25' target='_blank'>Rare Pepe Chat: CPOAPEPE</a>."
+        "notes": "Unable to locate hash-matching file. Displaying current asset image instead. QR takes you to the issuers' Bitcoin Address. Asset & hash was saved to <a href='https://web.archive.org/web/20241230231338/https://cryptoproof.info/static/CPOAPEPE.txt' target='_blank'>Cryptoproof.info</a>. See <a href='https://j-dog.net/archive/RarePepeChat/2016-10_59.html#2016-10-25' target='_blank'>Rare Pepe Chat: CPOAPEPE</a>."
     },
     {
         "file": "<img alt='WPPEPE by Bench' height='85px' src='images/WPPEPE.png' width='70px'/>",
@@ -1077,7 +1077,7 @@
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. All hashed in 2016 to mid 2018, earliest one is the timestamp linked."
+        "notes": "Unable to locate these hash-matching files. All hashed in 2016 to mid 2018, earliest one is the timestamp linked."
     },
     {
         "file": "N/A",
@@ -1089,7 +1089,7 @@
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. All hashed in 2016 to early 2017, earliest one is the timestamp linked."
+        "notes": "Unable to locate these hash-matching files. All hashed in 2016 to early 2017, earliest one is the timestamp linked."
     },
     {
         "file": "N/A",
@@ -1101,7 +1101,7 @@
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Unable to locate hash-matching file."
     },
     {
         "file": "?",
@@ -1113,7 +1113,7 @@
         "author": "?",
         "file_type": "?",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file."
+        "notes": "Unable to locate hash-matching file."
     },
     {
         "file": "<img alt='PEPENUKES by ?' height='85px' src='images/PEPENUKES.gif' width='70px'/>",
@@ -1137,7 +1137,7 @@
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
+        "notes": "Unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
     },
     {
         "file": "N/A",
@@ -1149,7 +1149,7 @@
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
+        "notes": "Unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
     },
     {
         "file": "N/A",
@@ -1161,7 +1161,7 @@
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
         "status": "⚠️",
-        "notes": "Currently unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
+        "notes": "Unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
     },
     {
         "file": "<img alt='PEPEXIT by ?' height='85px' src='images/pepexit-unhashed.png' width='70px'/>",
@@ -1173,7 +1173,7 @@
         "author": "?",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Unable to locate hash-matching file. Displaying current asset image instead."
     },
     {
         "file": "<img alt='PEPEJONES by Bench' height='85px' src='images/PEPEJONES.png' width='70px'/>",
@@ -1221,7 +1221,7 @@
         "author": "<a href='https://bitcointalk.org/index.php?action=profile;u=988396'>sorsona</a>",
         "file_type": "?",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying thumbnail image found on Reddit."
+        "notes": "Unable to locate hash-matching file. Displaying thumbnail image found on Reddit."
     },
     {
         "file": "<img alt='PEPEHODLER' height='85px' src='images/PEPEHODLER.png' width='70px'/>",
@@ -1281,7 +1281,7 @@
         "author": "<a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "jpg",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Unable to locate hash-matching file. Displaying current asset image instead."
     },
     {
         "file": "<img alt='ROASTEDCORN' height='85px' src='images/roastedcorn-unhashed.png' width='70px'/>",
@@ -1293,7 +1293,7 @@
         "author": "<a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Unable to locate hash-matching file. Displaying current asset image instead."
     },
     {
         "file": "<img alt='BETTHEFARM' height='85px' src='images/betthefarm-unhashed.gif' width='70px'/>",
@@ -1305,7 +1305,7 @@
         "author": "<a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
         "file_type": "gif",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Unable to locate hash-matching file. Displaying current asset image instead."
     },
     {
         "file": "<img alt='BETYOURFARM' height='85px' src='images/betyourfarm-unhashed.png' width='70px'/>",
@@ -1317,6 +1317,6 @@
         "author": "<a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Currently unable to locate hash-matching file. Displaying currently used asset image instead."
+        "notes": "Unable to locate hash-matching file. Displaying current asset image instead."
     }
 ]
