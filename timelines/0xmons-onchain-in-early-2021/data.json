@@ -221,7 +221,7 @@
     },
     {
         "art": "<img alt='El Diab' height='125px' src='images/el-diab.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x62e6c342f9fc20d8b1d6fc30c4ee6516b603421876366ac6a399ab208d97fce9' target='_blank'>2021-04-24 03:44:46/a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x62e6c342f9fc20d8b1d6fc30c4ee6516b603421876366ac6a399ab208d97fce9' target='_blank'>2021-04-24 03:44:46</a>",
         "linked_datetime": "<a href='https://etherscan.io/tx/0x2a2f58783dd3ba17b62a752888e084420a2a5bc8d0f5b671a6cc7152952247c7' target='_blank'>2021-04-24 03:47:49</a>",
         "name": "El Diab",
         "series": "2",
@@ -231,7 +231,7 @@
     },
     {
         "art": "<img alt='Mla'grgh' height='125px' src='images/mla-grgh.gif' width='125px'/>",
-        "onchain_datetime": "<a href='https://etherscan.io/tx/0x210b7ac275c69983da2d4c4c06c2c5d6ee0bb70c0eac5da1f1cd102adfcbc455' target='_blank'>2021-04-24 04:25:46/a>",
+        "onchain_datetime": "<a href='https://etherscan.io/tx/0x210b7ac275c69983da2d4c4c06c2c5d6ee0bb70c0eac5da1f1cd102adfcbc455' target='_blank'>2021-04-24 04:25:46</a>",
         "linked_datetime": "<a href='https://etherscan.io/tx/0xed76bf32588c089bca9b065921c93bc5cfe9236a8faec98035b049b59df4052b' target='_blank'>2021-04-24 04:26:14</a>",
         "name": "Mla'grgh",
         "series": "2",
