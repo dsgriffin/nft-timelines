@@ -1272,7 +1272,7 @@
         "notes": ""
     },
     {
-        "file": "<img alt='VOTEBENCH' height='85px' src='images/votebench-unhashed.jpg' width='70px'/>",
+        "file": "<img alt='VOTEBENCH' height='85px' src='images/VOTEBENCH.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/0b4363af9b41b0b730ea8d071f2bce3fef087d585a9972bf5c25bbf5a32c8b0d' target='_blank'>2018-09-28 23:11:54</a>",
         "names": "VOTEBENCH",
         "supply": "16 🔒",
@@ -1280,8 +1280,8 @@
         "project": "Kaleidoscope XCP",
         "author": "<a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "jpg",
-        "status": "⚠️",
-        "notes": "Unable to locate hash-matching file. Displaying current asset image instead."
+        "status": "✅",
+        "notes": ""
     },
     {
         "file": "<img alt='ROASTEDCORN' height='85px' src='images/roastedcorn-unhashed.png' width='70px'/>",

@@ -14,7 +14,7 @@ Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR 
 
 [View Live Timeline](https://dsgfn.com/early-nfts/timelines/earliest-hashed-nfts-on-bitcoin/)
 
-## Earliest URL NFTs Archived On Bitcoin (2015-2018)
+## Earliest URL NFTs Archived On Bitcoin (2014-2018)
 
 Work in progress
 
