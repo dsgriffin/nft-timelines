@@ -8,10 +8,10 @@
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "The asset is not onchain directly but a broadcast tx made from the same address exists that specifies the image. Note that while the broadcast does not mention the OLGA asset, it does include the Russian phrase 'Моя дорогая вечная Ольга' (My dear eternal Olga). See <a href='https://web.archive.org/web/20241124034106/https://jpjanssen.com/faq-about-olga/' target='_blank'>FAQ about OLGA</a>."
+        "notes": "The asset is not onchain but a broadcast (made from the same address) exists that specifies the image. While the broadcast doesn't mention the OLGA asset it includes, in Russian, 'Моя дорогая вечная Ольга' (My dear eternal Olga). See <a href='https://web.archive.org/web/20241124034106/https://jpjanssen.com/faq-about-olga/' target='_blank'>OLGA FAQ</a>."
     },
     {
-        "file": "<img alt='CSATOSHI' height='75px' src='images/CCSATOSHI.png' style='image-rendering: pixelated;' width='75px'/>",
+        "file": "<img alt='CCSATOSHI' height='75px' src='images/CCSATOSHI.png' style='image-rendering: pixelated;' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/4c19b8f1b4dcefa27490d2a8d4b5afea2350d0b75640e402519e8aa2a628397a' target='_blank'>2021-09-28 10:52:21</a>",
         "name": "CCSATOSHI",
         "supply": "14 🔒",
