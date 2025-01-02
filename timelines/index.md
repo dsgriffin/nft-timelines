@@ -20,6 +20,6 @@ Work in progress
 
 ## Pre-Ordinals Onchain Bitcoin NFTs (2015-2022)
 
-Before the first Ordinals inscription (14th December 2022) there was already a small batch of onchain Bitcoin NFTs. Here they are.
+Before the first Ordinals inscription (14th December 2022) there was already a small batch of entirely onchain Bitcoin NFTs. Here they are.
 
 [View Live Timeline](https://dsgfn.com/early-nfts/timelines/pre-ordinals-onchain-bitcoin-nfts/)
