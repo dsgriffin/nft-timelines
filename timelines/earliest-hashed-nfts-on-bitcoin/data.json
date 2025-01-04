@@ -33,7 +33,7 @@
         "author": "<a href='https://x.com/weex' target='_blank'>David Sterry (Weex)</a>",
         "file_type": "jpg",
         "status": "✅",
-        "notes": "This token was 'stolen' by ebx, who wrote a Python script to solve the puzzle. See full description & puzzle solution at <a href='https://web.archive.org/web/20150301172933/https://www.reddit.com/r/Bitcoin/comments/2x09wb/steal_this_art_crack_its_key/' target='_blank'>Steal this art. Crack its key</a>."
+        "notes": "This token was 'stolen' by <a href='https://bitcointalk.org/index.php?action=profile;u=354177' target='_blank'>ebx</a> who wrote a Python script to solve the puzzle. See full description & puzzle solution at <a href='https://web.archive.org/web/20150301172933/https://www.reddit.com/r/Bitcoin/comments/2x09wb/steal_this_art_crack_its_key/' target='_blank'>Steal this art. Crack its key</a>."
     },
     {
         "file": "<img alt='A1672758370327094000' height='85px' src='images/A1672758370327094000.jpg' width='70px'/>",
@@ -1212,6 +1212,18 @@
         "notes": ""
     },
     {
+        "file": "<img alt='BUGS' height='85px' src='images/BUGS.png' width='70px'/>",
+        "datetime": "<a href='https://horizon.market/explorer/tx/2f3f140b1eb4ac7bdd2c2f07f2dfe5fbb04b75e77b115b63326ba5813af58f9f' target='_blank'>2017-04-18 00:01:02</a>",
+        "names": "BUGS",
+        "supply": "1000.0",
+        "hash": "SHA-1 (Custom)",
+        "project": "?",
+        "author": "<a href='https://bitcointalk.org/index.php?action=profile;u=354177' target='_blank'>ebx</a>",
+        "file_type": "json",
+        "status": "✅",
+        "notes": "First to include hashed interactive HTML (an alert dialog pops up). As well as HTML, it includes this creative commons <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Glider.svg/1024px-Glider.svg.png' target='_blank'>Glider artwork</a>."
+    },
+    {
         "file": "<img alt='ONESUN' height='85px' src='images/onesun-unhashed.jpg' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/9f9099ea0d94404fd37b588f1edbfce36e1e9d84e30e90b93bdf955b4b50bc4a' target='_blank'>2017-04-20 08:27:46</a>",
         "names": "ONESUN",
@@ -1291,7 +1303,7 @@
         "hash": "SHA-256",
         "project": "Kaleidoscope XCP",
         "author": "<a href='https://x.com/mightbemike' target='_blank'>MightBeMike</a>",
-        "file_type": "png",
+        "file_type": "?",
         "status": "⚠️",
         "notes": "Unable to locate hash-matching file. Displaying current asset image instead."
     },
