@@ -1,8 +1,8 @@
 [
     {
-        "file": "<img alt='FORMICACOIN' height='75px' src='images/FORMICACOIN.png' style='image-rendering: pixelated;' width='70spx'/>",
+        "file": "<img alt='FORMICACOIN' height='85px' src='images/FORMICACOIN.png' style='image-rendering: pixelated;' width='70spx'/>",
         "url_datetime": "<a href='https://horizon.market/explorer/tx/c20890805dd4e0da887210833e2e81978fbb71545c573e6c7169a33d83a52ad6' target='_blank'>2014-07-29 20:18:40</a>",
-        "trusted_host": "Imgur ✅",
+        "host": "imgur.com",
         "archive_date": "<a href='https://web.archive.org/web/20230509230447/https://imgur.com/KZjKrMc' target='_blank'>2023-05-09</a>",
         "name": "FORMICACOIN",
         "supply": "1000.0 🔒",
@@ -12,9 +12,9 @@
         "notes": ""
     },
     {
-        "file": "<img alt='CHERPEPE' height='75px' src='images/CHERPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
+        "file": "<img alt='CHERPEPE' height='85px' src='images/CHERPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
         "url_datetime": "<a href='https://horizon.market/explorer/tx/00aca9985ae3ea3867f6c94de448e20c939b6d0ff0fa83f16a72a00065ab1bfb' target='_blank'>2016-09-23 00:57:50</a>",
-        "trusted_host": "Imgur ✅",
+        "host": "imgur.com",
         "archive_date": "<a href='https://web.archive.org/web/20161014201118/https://i.redd.it/7avz7ew4g4mx.jpg' target='_blank'>2016-10-14</a>",
         "name": "CHERPEPE",
         "supply": "500 🔒",
@@ -24,9 +24,9 @@
         "notes": ""
     },
     {
-        "file": "<img alt='HEISENPEPE' height='75px' src='images/HEISENPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
+        "file": "<img alt='HEISENPEPE' height='85px' src='images/HEISENPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
         "url_datetime": "<a href='https://horizon.market/explorer/tx/157cf5ff1004ea02f9642b52fba338075eeceb0ad2ffb0cb707656c537a08d01' target='_blank'>2016-09-27 12:59:33</a>",
-        "trusted_host": "Imgur ✅",
+        "host": "imgur.com",
         "archive_date": "<a href='https://web.archive.org/web/20230508035713/https://imgur.com/zIpGsRP' target='_blank'>2023-05-08</a>",
         "name": "HEISENPEPE",
         "supply": "777 🔒",
@@ -36,9 +36,9 @@
         "notes": ""
     },
     {
-        "file": "<img alt='LEOPEPESCAM' height='75px' src='images/LEOPEPESCAM.jpg' style='image-rendering: pixelated;' width='70px'/>",
+        "file": "<img alt='LEOPEPESCAM' height='85px' src='images/LEOPEPESCAM.jpg' style='image-rendering: pixelated;' width='70px'/>",
         "url_datetime": "<a href='https://horizon.market/explorer/tx/adf9ff125f69f78765deb95d25b0469b3714785d5c34f61afba0e501e3c50a06' target='_blank'>2016-09-27 23:25:18</a>",
-        "trusted_host": "Imgur ✅",
+        "host": "imgur.com",
         "archive_date": "<a href='https://web.archive.org/web/20230512204816/https://imgur.com/sHFrMeS' target='_blank'>2023-05-12</a>",
         "name": "LEOPEPESCAM",
         "supply": "717 🔒",
@@ -48,9 +48,9 @@
         "notes": ""
     },
     {
-        "file": "<img alt='HILLARYPEPE' height='75px' src='images/HILLARYPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
+        "file": "<img alt='HILLARYPEPE' height='85px' src='images/HILLARYPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
         "url_datetime": "<a href='https://horizon.market/explorer/tx/3c097a3569338ebe75f9c1f450d50da0aa9fa39920d6168e164f4c3caeddd0e8' target='_blank'>2016-09-28 22:55:00</a>",
-        "trusted_host": "Imgur ✅",
+        "host": "imgur.com",
         "archive_date": "<a href='https://web.archive.org/web/20230509060741/https://imgur.com/cuiDGeH' target='_blank'>2023-05-09</a>",
         "name": "HILLARYPEPE",
         "supply": "400 🔒",
@@ -60,9 +60,9 @@
         "notes": ""
     },
     {
-        "file": "<img alt='MARVINPEPE' height='75px' src='images/MARVINPEPE.gif' style='image-rendering: pixelated;' width='70px'/>",
+        "file": "<img alt='MARVINPEPE' height='85px' src='images/MARVINPEPE.gif' style='image-rendering: pixelated;' width='70px'/>",
         "url_datetime": "<a href='https://horizon.market/explorer/tx/b44894ba6f4e56fcb1f9681f4bf2c3dda0e942ccb4d6dd09aa74721f92b24554' target='_blank'>2016-10-04 10:41:58</a>",
-        "trusted_host": "Imgur ✅",
+        "host": "imgur.com",
         "archive_date": "<a href='https://web.archive.org/web/20230513001858/https://imgur.com/Fta2GTT' target='_blank'>2023-05-13</a>",
         "name": "MARVINPEPE",
         "supply": "42 🔒",
@@ -72,9 +72,9 @@
         "notes": ""
     },
     {
-        "file": "<img alt='PEPEALASSAD' height='75px' src='images/PEPEALASSAD.jpg' style='image-rendering: pixelated;' width='70px'/>",
+        "file": "<img alt='PEPEALASSAD' height='85px' src='images/PEPEALASSAD.jpg' style='image-rendering: pixelated;' width='70px'/>",
         "url_datetime": "<a href='https://horizon.market/explorer/tx/2d3f2543868faa93cef51b08ec914ecdc9c334d171ca2a5d984ac3cd0e624823' target='_blank'>2016-10-06 15:44:11</a>",
-        "trusted_host": "Imgur ✅",
+        "host": "imgur.com",
         "archive_date": "<a href='https://web.archive.org/web/20230509104825/https://imgur.com/RyNzGAH' target='_blank'>2023-05-09</a>",
         "name": "PEPEALASSAD",
         "supply": "3 🔒",
@@ -84,9 +84,9 @@
         "notes": ""
     },
     {
-        "file": "<img alt='PEPERRR' height='75px' src='images/PEPERRR.jpg' style='image-rendering: pixelated;' width='70px'/>",
+        "file": "<img alt='PEPERRR' height='85px' src='images/PEPERRR.jpg' style='image-rendering: pixelated;' width='70px'/>",
         "url_datetime": "<a href='https://horizon.market/explorer/tx/3c097a3569338ebe75f9c1f450d50da0aa9fa39920d6168e164f4c3caeddd0e8' target='_blank'>2016-12-19 00:26:10</a>",
-        "trusted_host": "Imgur ✅",
+        "host": "imgur.com",
         "archive_date": "<a href='https://web.archive.org/web/20230509060741/https://imgur.com/cuiDGeH' target='_blank'>2023-05-08</a>",
         "name": "PEPERRR",
         "supply": "600 🔒",
@@ -94,5 +94,29 @@
         "author": "ICQPEPE",
         "file_type": "jpg",
         "notes": ""
+    },
+    {
+        "file": "<img alt='SAYHELLO' height='85px' src='images/SAYHELLO.gif' style='image-rendering: pixelated;' width='70px'/>",
+        "url_datetime": "<a href='https://horizon.market/explorer/tx/6088ced5e7654d70538d8b583b2be270f120db4edefb37f7705fb7e9ead5153a' target='_blank'>2018-06-06 21:11:00</a>",
+        "host": "mafiawars.io",
+        "archive_date": "<a href='https://web.archive.org/web/20180617161925/https://mafiawars.io/card/SAYHELLO#' target='_blank'>2018-06-17</a>",
+        "name": "SAYHELLO",
+        "supply": "1000 🔒",
+        "project": "Mafia Wars",
+        "author": "?",
+        "file_type": "gif",
+        "notes": "Card has archived proof of artwork just 11 days after creation. Trustable."
+    },
+    {
+        "file": "<img alt='METSYSPWNBRK' height='85px' src='images/METSYSPWNBRK.jpg' style='image-rendering: pixelated;' width='70px'/>",
+        "url_datetime": "<a href='https://horizon.market/explorer/tx/43f68919cf739880d1c1965005ac143edf3fb6e4ece9c1bab8e062f6706e49d7' target='_blank'>2018-06-10 01:29:53</a>",
+        "host": "mafiawars.io",
+        "archive_date": "<a href='https://web.archive.org/web/20180615094353/https://mafiawars.io/card/METSYSPWNBRK#' target='_blank'>2018-06-15</a>",
+        "name": "METSYSPWNBRK",
+        "supply": "125 🔒",
+        "project": "Mafia Wars",
+        "author": "?",
+        "file_type": "jpg",
+        "notes": "Card has archived proof of artwork just 5 days after creation. Trustable."
     }
 ]

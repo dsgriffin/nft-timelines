@@ -49,7 +49,7 @@
             If an NFT isn't onchain or hashed, linking a URL is the next best thing. The question is, how to prove the contents of the URL haven't changed over time? Unless the URL itself contains a file hash, there's no way to be 100% sure.
         </h6>
         <h6>
-            So, this table showcases a combination of assets that either come from a "trusted source" (e.g. Imgur) that have are less likely to have been tampered with, as well as tokens with associated URLs that have relatively early (pre-2019) archival links on the Wayback Machine.
+            So, this table showcases a combination of assets that either come from a "trusted source" (e.g. Imgur) that have are less likely to have been tampered with or tokens with associated URLs that have relatively early (pre-2019) archival links on the Wayback Machine.
         </h6>
     </div>
 
@@ -58,7 +58,7 @@
             <tr>
                 <th>File</th>
                 <th>URL Datetime</th>
-                <th>Trusted Source?</th>
+                <th>Host</th>
                 <th>Archive Date</th>
                 <th>Asset Name</th>
                 <th>Supply</th>
@@ -100,7 +100,7 @@
                             <tr>
                                 <td>${row.file}</td>
                                 <td>${row.url_datetime}</td>
-                                <td>${row.trusted_host}</td>
+                                <td>${row.host}</td>
                                 <td>${row.archive_date}</td>
                                 <td>${row.name}</td>
                                 <td>${row.supply}</td>
