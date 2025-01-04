@@ -204,7 +204,7 @@
         "notes": "Token + physical reside with artist as of 2025. See <a href='https://web.archive.org/web/20220125090135/https://bitcointalk.org/index.php?topic=954740' target='_blank'>Bitcoin 2.0</a>."
     },
     {
-        "file": "N/A",
+        "file": "",
         "datetime": "<a href='https://mempool.space/tx/d5abd1da80839519adad13a5803e86e196a885672c74efe91c9fb4604401a6ca' target='_blank'>2015-03-29 19:23:45</a>",
         "names": "Nothing",
         "supply": "1 🔒",
@@ -1005,7 +1005,7 @@
         "author": "<a href='https://x.com/benchbtc' target='_blank'>Bench</a>",
         "file_type": "png",
         "status": "⚠️",
-        "notes": "Unable to locate hash-matching file. Displaying current asset image instead."
+        "notes": "Unable to locate hash-matching file. Displaying current asset image instead. There is a <a href='https://www.youtube.com/watch?v=nofo90f7V7A' target='_blank'>2018 Youtube video</a> showing the CHYNAPEPE artwork being uploaded to a MD5 hash checker, where it matches against the onchain hash successfully."
     },
     {
         "file": "<img alt='KILLARYPEPE' height='85px' src='images/killarypepe.png' width='70px'/>",
@@ -1044,7 +1044,7 @@
         "notes": ""
     },
     {
-        "file": "<img alt='CPOAPEPE' height='85px' src='images/cpoapepe-unhashed.png' width='70px'/>",
+        "file": "<img alt='CPOAPEPE' height='85px' src='images/cpoapepe.png' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/907f54c3f8c7c89cc61fcaa3436611f0ceeff2cc622a8de078fba906a44a68f0' target='_blank'>2016-10-24 11:34:49</a>",
         "names": "CPOAPEPE",
         "supply": "100 🔒",
@@ -1052,8 +1052,8 @@
         "project": "?",
         "author": "?",
         "file_type": "png",
-        "status": "⚠️",
-        "notes": "Unable to locate hash-matching file. Displaying current asset image instead. QR takes you to the issuers' Bitcoin Address. Asset & hash was saved to <a href='https://web.archive.org/web/20241230231338/https://cryptoproof.info/static/CPOAPEPE.txt' target='_blank'>Cryptoproof.info</a>. See <a href='https://j-dog.net/archive/RarePepeChat/2016-10_59.html#2016-10-25' target='_blank'>Rare Pepe Chat: CPOAPEPE</a>."
+        "status": "✅",
+        "notes": "QR takes you to the issuers' Bitcoin Address. Asset & hash was saved to <a href='https://web.archive.org/web/20241230231338/https://cryptoproof.info/static/CPOAPEPE.txt' target='_blank'>Cryptoproof.info</a>. See <a href='https://j-dog.net/archive/RarePepeChat/2016-10_59.html#2016-10-25' target='_blank'>Rare Pepe Chat: CPOAPEPE</a>."
     },
     {
         "file": "<img alt='WPPEPE' height='85px' src='images/WPPEPE.png' width='70px'/>",
