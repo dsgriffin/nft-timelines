@@ -8,7 +8,7 @@
         "project": "?",
         "author": "?",
         "file_type": "N/A",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Linked hash is a <a href='https://web.archive.org/web/20240615174705/https://wiki.bitmessage.org/index.php/Public_key_to_bitmessage_address' target='_blank'>Bitmessage Address</a>, not a file."
     },
     {
@@ -20,7 +20,7 @@
         "project": "?",
         "author": "?",
         "file_type": "N/A",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Linked hashes are <a href='https://web.archive.org/web/20240615174705/https://wiki.bitmessage.org/index.php/Public_key_to_bitmessage_address' target='_blank'>Bitmessage Addresses</a>, not files. All hashed with the same Bitmessage address on the same day, earliest one is the timestamp linked."
     },
     {
@@ -564,7 +564,7 @@
         "notes": "Electronically signed 21st April 2015 23:18:33 CEST. See <a href='https://web.archive.org/web/20230603144249/https://www.stephanvogler.com/en/2015/03/01/secret/' target='_blank'>Secret</a>."
     },
     {
-        "file": "N/A",
+        "file": "?",
         "datetime": "<a href='https://horizon.market/explorer/tx/9ef3dad49c66a9f305934890d367fa30dd56dd7f167765faa832c520c872a065' target='_blank'>2015-08-21 04:43:16</a>",
         "names": "A11853032714534422961 + 2 Numerical Assets",
         "supply": "1000.0",
@@ -572,11 +572,11 @@
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "json",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate these hash-matching files. All prefixed with 'NINJA-'. All hashed in 2015, earliest one is the timestamp linked."
     }, 
     {
-        "file": "N/A",
+        "file": "?",
         "datetime": "<a href='https://horizon.market/explorer/tx/3e367201d1553f66a8d80d38c175d94f39034e56f10d6d05c99764fc36f84048' target='_blank'>2015-08-22 02:20:48</a>",
         "names": "A11001199784417885243 + 38 Numerical Assets",
         "supply": "0 - 80000",
@@ -584,11 +584,11 @@
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "json",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate these hash-matching files. All prefixed with 'TOKNID-'. All hashed in 2015, earliest one is the timestamp linked."
     },
     {
-        "file": "N/A",
+        "file": "?",
         "datetime": "<a href='https://horizon.market/explorer/tx/92b6dba7ef3de1643ab71e8e6129d6a5c155af90d632b6948f32f573923104f0' target='_blank'>2015-09-18 18:03:08</a>",
         "names": "A11100808756733421597 + 35 Numerical Assets",
         "supply": "1 - 100000",
@@ -596,14 +596,14 @@
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/wasthatawolf' target='_blank'>Joe Looney</a>",
         "file_type": "json",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate these hash-matching files. All prefixed with 'BVAMW-'. All hashed in 2015 to early 2016, earliest one is the timestamp linked."
     },
     {
         "file": "<img alt='CNPCARD' height='85px' src='images/cnpcard.jpg' width='70px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/c442b4ca83eea51f465a4f874060117cbc809dc4fc24fc67bec8090071b7bed4' target='_blank'>2015-11-11 10:45:35</a>",
         "names": "CNPCARD",
-        "supply": "1000 🔒",
+        "supply": "689 🔒",
         "hash": "SHA-256 (Base64)",
         "project": "Spells Of Genesis",
         "author": "<a href='https://x.com/jp_janssen' target='_blank'>JP Janssen</a>",
@@ -968,7 +968,7 @@
         "project": "Ingesture",
         "author": "<a href='https://x.com/sull' target='_blank'>Sull</a>",
         "file_type": "?",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "May be a verification code instead."
     },
     {
@@ -980,11 +980,11 @@
         "project": "?",
         "author": "?",
         "file_type": "?",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate hash-matching file."
     },
     {
-        "file": "N/A",
+        "file": "?",
         "datetime": "<a href='https://horizon.market/explorer/tx/4a06b9889f7553983cd2d4edc196ec9bc9abd52b955885238932c3d718952ead' target='_blank'>2016-09-09 03:52:45</a>",
         "names": "SOUP",
         "supply": "100000",
@@ -992,7 +992,7 @@
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/wellerco' target='_blank'>Devon Weller</a>",
         "file_type": "json",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate hash-matching file. A hashed BVAM JSON file with no prefix. Asset & hash are noted in the NPM package <a href='https://www.npmjs.com/package/node-bvam-client' target='_blank'>node-bvam-client</a>."
     },
     {
@@ -1068,7 +1068,7 @@
         "notes": ""
     },
     {
-        "file": "N/A",
+        "file": "?",
         "datetime": "<a href='https://horizon.market/explorer/tx/c0081da33b89303eac6b3f27291a61f5b7490bf1ec67b7250a7232f7347565ac' target='_blank'>2016-11-09 22:54:52</a>",
         "names": "A18423481899410732657 + 9 Mixed Assets",
         "supply": "1.0 - 10000.0",
@@ -1076,11 +1076,11 @@
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate these hash-matching files. All hashed in 2016 to mid 2018, earliest one is the timestamp linked."
     },
     {
-        "file": "N/A",
+        "file": "?",
         "datetime": "<a href='https://horizon.market/explorer/tx/cec7c0f8cca6f150987901801bfac9516935c19ce8879c149351f275c6184724' target='_blank'>2016-11-11 02:09:33</a>",
         "names": "HAPPYBDAYEP + 6 Named Assets",
         "supply": "1.0 - 1000000.0",
@@ -1088,11 +1088,11 @@
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate these hash-matching files. All hashed in 2016 to early 2017, earliest one is the timestamp linked."
     },
     {
-        "file": "N/A",
+        "file": "?",
         "datetime": "<a href='https://horizon.market/explorer/tx/932c58166334478ba0eaa10929cf8e55e9b25a966dba27bf1257a31d3072bb15' target='_blank'>2016-11-11 02:44:52</a>",
         "names": "LITTLECOLOR",
         "supply": "10000 🔒",
@@ -1100,7 +1100,7 @@
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate hash-matching file."
     },
     {
@@ -1112,7 +1112,7 @@
         "project": "?",
         "author": "?",
         "file_type": "?",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate hash-matching file."
     },
     {
@@ -1128,7 +1128,7 @@
         "notes": ""
     },
     {
-        "file": "N/A",
+        "file": "?",
         "datetime": "<a href='https://horizon.market/explorer/tx/b2d007cb3346079fad763bedaefb9b5c13f818a30f107f05e4431376230723e4' target='_blank'>2017-01-07 08:40:21</a>",
         "names": "DECOIN + 2 Numerical Assets",
         "supply": "100.0 - 10000000000.0",
@@ -1136,11 +1136,11 @@
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
     },
     {
-        "file": "N/A",
+        "file": "?",
         "datetime": "<a href='https://horizon.market/explorer/tx/71e9324b03bb54f4ca1b6075ef91aecdabf92bc7ccf53a3338c459953ac7b5fb' target='_blank'>2017-02-01 17:31:40</a>",
         "names": "LOVENLIBERTY + 6 Mixed Assets",
         "supply": "1000.0",
@@ -1148,11 +1148,11 @@
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
     },
     {
-        "file": "N/A",
+        "file": "?",
         "datetime": "<a href='https://horizon.market/explorer/tx/9205c3a59a3c2451a4b0333328b9e8c42de0ba4b611a6712acbcc110319b6721' target='_blank'>2017-02-13 02:20:48</a>",
         "names": "LEPERPRINT + 12 Named Assets",
         "supply": "1.0 - 100000.0",
@@ -1160,7 +1160,7 @@
         "project": "<a href='https://web.archive.org/web/20241203105737/https://gist.github.com/loon3/98219e445a3aacf093a2' target='_blank'>BVAM</a>",
         "author": "<a href='https://x.com/adamblevine' target='_blank'>Adam B. Levine</a>",
         "file_type": "json",
-        "status": "⚠️",
+        "status": "❗️",
         "notes": "Unable to locate these hash-matching files. All hashed in 2017, earliest one is the timestamp linked."
     },
     {

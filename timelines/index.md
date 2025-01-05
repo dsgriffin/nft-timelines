@@ -1,4 +1,4 @@
-[< Back](../)
+[< Back To Early NFTs](../)
 
 Note that each timeline contains an `images/` folder; I strive to only use the original onchain/hash-matching file for each asset, but there may be the odd exception (it will be mentioned in the "notes" column).
 
@@ -16,7 +16,7 @@ Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR 
 
 ## Earliest URL NFTs Archived On Bitcoin (2014-2018)
 
-Work in progress
+[View Live Timeline](https://dsgfn.com/early-nfts/timelines/earliest-url-nfts-archived-on-bitcoin/)
 
 ## Pre-Ordinals Onchain Bitcoin NFTs (2015-2022)
 
