@@ -12,42 +12,6 @@
         "notes": "Imgur is a trusted source."
     },
     {
-        "file": "<img alt='RAREPEPE' height='85px' src='images/RAREPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
-        "url_datetime": "<a href='https://horizon.market/explorer/tx/de3fe82a85ca1d84a0331e6a74a9ad6e65d40883415536622b6ac71c23f8a9d0' target='_blank'>2016-09-09 17:05:40</a>",
-        "host": "myrarepepe.com",
-        "archive_date": "<a href='https://web.archive.org/web/20161102033056/http://myrarepepe.com:80/' target='_blank'>2016-10-02</a>",
-        "name": "RAREPEPE",
-        "supply": "300 🔒",
-        "project": "Rare Pepe",
-        "author": "<a href='https://x.com/myrarepepe' target='_blank'>Mike</a>",
-        "file_type": "jpg",
-        "notes": "Card has archival proof of artwork less than 30 days after creation."
-    },
-    {
-        "file": "<img alt='SHITCOINCARD' height='85px' src='images/SHITCOINCARD.jpg' style='image-rendering: pixelated;' width='70px'/>",
-        "url_datetime": "<a href='https://horizon.market/explorer/tx/3916feea791842f68e7ecca4f85168a5bcbfbb852edc475bb08e9187b40ca442' target='_blank'>2016-09-11 15:51:06</a>",
-        "host": "myrarepepe.com",
-        "archive_date": "<a href='https://web.archive.org/web/20161102033056/http://myrarepepe.com:80/' target='_blank'>2016-10-02</a>",
-        "name": "SHITCOINCARD",
-        "supply": "3000 🔒",
-        "project": "Rare Pepe",
-        "author": "<a href='https://x.com/myrarepepe' target='_blank'>Mike</a>",
-        "file_type": "jpg",
-        "notes": "Card has archival proof of artwork less than 30 days after creation."
-    },
-    {
-        "file": "<img alt='GOXPEPE' height='85px' src='images/GOXPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
-        "url_datetime": "<a href='https://horizon.market/explorer/tx/0248a75207267035dc70d63fdc331f39a084703427b6da1a9adedb119aafa1b3' target='_blank'>2016-09-13 12:43:36</a>",
-        "host": "myrarepepe.com",
-        "archive_date": "<a href='https://web.archive.org/web/20161102033056/http://myrarepepe.com:80/' target='_blank'>2016-10-02</a>",
-        "name": "GOXPEPE",
-        "supply": "300 🔒",
-        "project": "Rare Pepe",
-        "author": "<a href='https://x.com/myrarepepe' target='_blank'>Mike</a>",
-        "file_type": "jpg",
-        "notes": "Card has archival proof of artwork less than 30 days after creation."
-    },
-    {
         "file": "<img alt='CHERPEPE' height='85px' src='images/CHERPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
         "url_datetime": "<a href='https://horizon.market/explorer/tx/00aca9985ae3ea3867f6c94de448e20c939b6d0ff0fa83f16a72a00065ab1bfb' target='_blank'>2016-09-23 00:57:50</a>",
         "host": "reddit.com",
@@ -58,78 +22,6 @@
         "author": "<a href='https://x.com/djangobits' target='_blank'>Django Bits</a>",
         "file_type": "jpg",
         "notes": "Reddit is a trusted source."
-    },
-    {
-        "file": "<img alt='HEISENPEPE' height='85px' src='images/HEISENPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
-        "url_datetime": "<a href='https://horizon.market/explorer/tx/157cf5ff1004ea02f9642b52fba338075eeceb0ad2ffb0cb707656c537a08d01' target='_blank'>2016-09-27 12:59:33</a>",
-        "host": "imgur.com",
-        "archive_date": "<a href='https://web.archive.org/web/20230508035713/https://imgur.com/zIpGsRP' target='_blank'>2023-05-08</a>",
-        "name": "HEISENPEPE",
-        "supply": "777 🔒",
-        "project": "Rare Pepe",
-        "author": "<a href='https://x.com/djangobits' target='_blank'>Django Bits</a>",
-        "file_type": "jpg",
-        "notes": "Imgur is a trusted source."
-    },
-    {
-        "file": "<img alt='LEOPEPESCAM' height='85px' src='images/LEOPEPESCAM.jpg' style='image-rendering: pixelated;' width='70px'/>",
-        "url_datetime": "<a href='https://horizon.market/explorer/tx/adf9ff125f69f78765deb95d25b0469b3714785d5c34f61afba0e501e3c50a06' target='_blank'>2016-09-27 23:25:18</a>",
-        "host": "imgur.com",
-        "archive_date": "<a href='https://web.archive.org/web/20230512204816/https://imgur.com/sHFrMeS' target='_blank'>2023-05-12</a>",
-        "name": "LEOPEPESCAM",
-        "supply": "717 🔒",
-        "project": "Rare Pepe",
-        "author": "<a href='https://x.com/djangobits' target='_blank'>Django Bits</a>",
-        "file_type": "jpg",
-        "notes": "Imgur is a trusted source."
-    },
-    {
-        "file": "<img alt='HILLARYPEPE' height='85px' src='images/HILLARYPEPE.jpg' style='image-rendering: pixelated;' width='70px'/>",
-        "url_datetime": "<a href='https://horizon.market/explorer/tx/3c097a3569338ebe75f9c1f450d50da0aa9fa39920d6168e164f4c3caeddd0e8' target='_blank'>2016-09-28 22:55:00</a>",
-        "host": "imgur.com",
-        "archive_date": "<a href='https://web.archive.org/web/20230509060741/https://imgur.com/cuiDGeH' target='_blank'>2023-05-09</a>",
-        "name": "HILLARYPEPE",
-        "supply": "400 🔒",
-        "project": "Rare Pepe",
-        "author": "<a href='https://x.com/djangobits' target='_blank'>Django Bits</a>",
-        "file_type": "jpg",
-        "notes": "Imgur is a trusted source."
-    },
-    {
-        "file": "<img alt='MARVINPEPE' height='85px' src='images/MARVINPEPE.gif' style='image-rendering: pixelated;' width='70px'/>",
-        "url_datetime": "<a href='https://horizon.market/explorer/tx/b44894ba6f4e56fcb1f9681f4bf2c3dda0e942ccb4d6dd09aa74721f92b24554' target='_blank'>2016-10-04 10:41:58</a>",
-        "host": "imgur.com",
-        "archive_date": "<a href='https://web.archive.org/web/20230513001858/https://imgur.com/Fta2GTT' target='_blank'>2023-05-13</a>",
-        "name": "MARVINPEPE",
-        "supply": "42 🔒",
-        "project": "Rare Pepe",
-        "author": "<a href='https://x.com/djangobits' target='_blank'>Django Bits</a>",
-        "file_type": "gif",
-        "notes": "Imgur is a trusted source."
-    },
-    {
-        "file": "<img alt='PEPEALASSAD' height='85px' src='images/PEPEALASSAD.jpg' style='image-rendering: pixelated;' width='70px'/>",
-        "url_datetime": "<a href='https://horizon.market/explorer/tx/2d3f2543868faa93cef51b08ec914ecdc9c334d171ca2a5d984ac3cd0e624823' target='_blank'>2016-10-06 15:44:11</a>",
-        "host": "imgur.com",
-        "archive_date": "<a href='https://web.archive.org/web/20230509104825/https://imgur.com/RyNzGAH' target='_blank'>2023-05-09</a>",
-        "name": "PEPEALASSAD",
-        "supply": "3 🔒",
-        "project": "Rare Pepe",
-        "author": "<a href='https://x.com/djangobits' target='_blank'>Django Bits</a>",
-        "file_type": "jpg",
-        "notes": "Imgur is a trusted source."
-    },
-    {
-        "file": "<img alt='PEPERRR' height='85px' src='images/PEPERRR.jpg' style='image-rendering: pixelated;' width='70px'/>",
-        "url_datetime": "<a href='https://horizon.market/explorer/tx/3c097a3569338ebe75f9c1f450d50da0aa9fa39920d6168e164f4c3caeddd0e8' target='_blank'>2016-12-19 00:26:10</a>",
-        "host": "imgur.com",
-        "archive_date": "<a href='https://web.archive.org/web/20230509060741/https://imgur.com/cuiDGeH' target='_blank'>2023-05-08</a>",
-        "name": "PEPERRR",
-        "supply": "600 🔒",
-        "project": "Rare Pepe",
-        "author": "ICQPEPE",
-        "file_type": "jpg",
-        "notes": "Imgur is a trusted source."
     },
     {
         "file": "<img alt='COLOMBO' height='85px' src='images/COLOMBO.png' style='image-rendering: pixelated;' width='70px'/>",
