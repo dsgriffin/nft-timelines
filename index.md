@@ -3,6 +3,10 @@ layout: default
 title: Early NFTs
 ---
 
+## Site In Progress
+
+I am in the process of moving a ton of Early NFT-related data I held privately to this Github repo. Some parts will take time!
+
 ### Defining an NFT
 
 In the strict sense, an NFT is a unique 1/1 token representing ownership of something (art etc).
