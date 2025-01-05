@@ -4,22 +4,24 @@ Note that each timeline contains an `images/` folder; I strive to only use the o
 
 ## 0xmons Onchain In Early 2021
 
-Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR (first AI art + algo/neural onchain) on the 9th August 2021, making them the earliest known onchain AI artworks.
+Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR (first AI art + algo/neural onchain) on the 9th August 2021, making them the earliest known onchain AI artworks
 
 [View Live Timeline](https://dsgfn.com/early-nfts/timelines/0xmons-onchain-in-early-2021/)
 
 ## Earliest Hashed NFTs On Bitcoin (2015-2018)
 
-~99% of early Bitcoin NFTs lacked cryptographic proof linking them to the data/art they represented. This table is about the ~1%.
+~99% of early Bitcoin NFTs lacked cryptographic proof linking them to the data/art they represented. This table is about the ~1%
 
 [View Live Timeline](https://dsgfn.com/early-nfts/timelines/earliest-hashed-nfts-on-bitcoin/)
 
 ## Earliest URL NFTs Archived On Bitcoin (2014-2018)
 
+If an NFT isn't onchain or hashed, linking a URL is the next best thing. The question is, how to prove the contents of the URL haven't changed over time?
+
 [View Live Timeline](https://dsgfn.com/early-nfts/timelines/earliest-url-nfts-archived-on-bitcoin/)
 
 ## Pre-Ordinals Onchain Bitcoin NFTs (2015-2022)
 
-Before the first Ordinals inscription (14th December 2022) there was already a small batch of entirely onchain Bitcoin NFTs. Here they are.
+Before the first Ordinals inscription (14th December 2022) there was already a small batch of entirely onchain Bitcoin NFTs
 
 [View Live Timeline](https://dsgfn.com/early-nfts/timelines/pre-ordinals-onchain-bitcoin-nfts/)
