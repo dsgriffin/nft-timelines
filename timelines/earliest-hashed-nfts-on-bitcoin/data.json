@@ -1212,8 +1212,8 @@
         "notes": ""
     },
     {
-        "file": "<img alt='BUGS' height='85px' src='images/BUGS.png' width='70px'/>",
-        "datetime": "<a href='https://horizon.market/explorer/tx/2f3f140b1eb4ac7bdd2c2f07f2dfe5fbb04b75e77b115b63326ba5813af58f9f' style='background-color: hsl(0, 0%, 90%);' target='_blank'>2017-04-18 00:01:02</a>",
+        "file": "<img alt='BUGS' height='85px' src='images/BUGS.png' style='background-color: hsl(0, 0%, 90%);' width='70px'/>",
+        "datetime": "<a href='https://horizon.market/explorer/tx/2f3f140b1eb4ac7bdd2c2f07f2dfe5fbb04b75e77b115b63326ba5813af58f9f' target='_blank'>2017-04-18 00:01:02</a>",
         "names": "BUGS",
         "supply": "1000.0",
         "hash": "SHA-1 (Custom)",
