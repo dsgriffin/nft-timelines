@@ -15,44 +15,44 @@
         "datetime": "<a href='https://horizon.market/explorer/tx/4c19b8f1b4dcefa27490d2a8d4b5afea2350d0b75640e402519e8aa2a628397a' target='_blank'>2021-09-28 10:52:21</a>",
         "name": "CCSATOSHI",
         "supply": "14 🔒",
-        "project": "<a href='https://web.archive.org/web/20240622145322/https://www.fauxsogs.wtf/series/9' target='_blank'>Faux SoGs</a>",
+        "project": "Faux SoGs",
         "author": "<a href='https://x.com/C0rnh0li0' target='_blank'>Cornholio</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": ""
+        "notes": "Inspired by JP's OLGA broadcast. Originally issued as a 1/1, an extra 13 were issued on the 3rd May 2023. See <a href='https://web.archive.org/web/20240622145322/https://www.fauxsogs.wtf/series/9' target='_blank'>Faux SoGs</a>."
     },
     {
         "file": "<img alt='THENAKAMOTOS.2' height='75px' src='images/THENAKAMOTOS2.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none;' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/9f19de022df7401cce53fc661d6dee06eeedb71bbac0db775c31d3bdd5109ba8' target='_blank'>2022-05-07 20:27:12</a>",
         "name": "THENAKAMOTOS.2",
         "supply": "0",
-        "project": "<a href='https://web.archive.org/web/20241219165641/https://thenakamotos.club/' target='_blank'>The Nakamotos Club</a>",
+        "project": "The Nakamotos Club",
         "author": "<a href='https://x.com/quentinbdb' target='_blank'>ffmad.xcp</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": ""
+        "notes": "See <a href='https://web.archive.org/web/20241219165641/https://thenakamotos.club/' target='_blank'>The Nakamotos Club</a>."
     },
     {
         "file": "<img alt='THENAKAMOTOS.3' height='75px' src='images/THENAKAMOTOS3.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none;' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/4a8f45f0e7c1b27bbb7080ca897969ffd97b7a650bfa9bfe535f44da71abd399' target='_blank'>2022-05-08 06:05:52</a>",
         "name": "THENAKAMOTOS.3",
         "supply": "0",
-        "project": "<a href='https://web.archive.org/web/20241219165641/https://thenakamotos.club/' target='_blank'>The Nakamotos Club</a>",
+        "project": "The Nakamotos Club",
         "author": "<a href='https://x.com/quentinbdb' target='_blank'>ffmad.xcp</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": ""
+        "notes": "See <a href='https://web.archive.org/web/20241219165641/https://thenakamotos.club/' target='_blank'>The Nakamotos Club</a>."
     },    
     {
         "file": "<img alt='THENAKAMOTOS.1' height='75px' src='images/THENAKAMOTOS1.png' style='image-rendering: pixelated; display: block;-webkit-user-select: none;' width='75px'/>",
         "datetime": "<a href='https://horizon.market/explorer/tx/8b7a62bbe00d18d191dd6e5505df0bc70190b9220f4fc82d5b2dd198d767c04d' target='_blank'>2022-05-08 14:48:30</a>",
         "name": "THENAKAMOTOS.1",
         "supply": "0",
-        "project": "<a href='https://web.archive.org/web/20241219165641/https://thenakamotos.club/' target='_blank'>The Nakamotos Club</a>",
+        "project": "The Nakamotos Club",
         "author": "<a href='https://x.com/quentinbdb' target='_blank'>ffmad.xcp</a>",
         "file_type": "png",
         "status": "✅",
-        "notes": ""
+        "notes": "See <a href='https://web.archive.org/web/20241219165641/https://thenakamotos.club/' target='_blank'>The Nakamotos Club</a>."
     },
     {
         "file": "<img alt='TESTPEP' height='75px' src='images/TESTPEP.svg' width='75px'/>",
@@ -63,7 +63,7 @@
         "author": "<a href='https://x.com/ChainLeftist' target='_blank'>ChainLeft</a>",
         "file_type": "svg",
         "status": "✅",
-        "notes": ""
+        "notes": "Appears to have been a PEPERMANENT-related experiment."
     },
     {
         "file": "<img alt='PEPERMANENT' height='75px' src='images/PEPERMANENT.svg' width='75px'/>",
@@ -74,7 +74,7 @@
         "author": "<a href='https://x.com/ChainLeftist' target='_blank'>ChainLeft</a>",
         "file_type": "svg",
         "status": "✅",
-        "notes": ""
+        "notes": "See <a href='https://mirror.xyz/chainleft.eth/Z76zkKbgBkR0k9zuKeBUAOguWxQ9iLGiot1LVlZKyqs'>Release Notes: PEPERMANENT</a>."
     },
     {
         "file": "<img alt='EVAS' height='75px' src='images/EVAS.png' style='image-rendering: pixelated;' width='75px'/>",
