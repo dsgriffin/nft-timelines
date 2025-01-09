@@ -18,7 +18,9 @@ Only 83 0xmons had their full GAN animations onchain before Nahiko released XOR 
 
 If an NFT isn't onchain or hashed, linking a URL is the next best thing. The question is, how to prove the contents of the URL haven't changed over time?
 
-[View Live Timeline](https://dsgfn.com/early-nfts/timelines/earliest-url-nfts-archived-on-bitcoin/)
+**IN PROGRESS**
+
+<!-- [View Live Timeline](https://dsgfn.com/early-nfts/timelines/earliest-url-nfts-archived-on-bitcoin/) -->
 
 ## Pre-Ordinals Onchain Bitcoin NFTs (2015-2022)
 
