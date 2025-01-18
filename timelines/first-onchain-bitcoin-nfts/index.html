@@ -5,22 +5,23 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <meta content="NFT, Bitcoin NFTs, Counterparty, Bitcoin, XCP" name="keywords" />
+    <meta content="NFT, Bitcoin NFTs, Counterparty, Bitcoin, XCP, Faux SoGs, Fake Rares"
+        name="keywords" />
 
-    <title>Earliest URL NFTs Archived On Bitcoin NFTs (2014-2018)</title>
+    <title>First Onchain Bitcoin NFTs (2015-2022)</title>
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css"
         rel="stylesheet" />
     <link href="https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.css" rel="stylesheet" />
 
-    <link href="images/favicon.ico" rel="icon" type="image/jpeg" />
+    <link href="assets/favicon.ico" rel="icon" type="image/jpeg" />
     <link href="../../styles.css" rel="stylesheet" />
 </head>
 
 <body class="p-1 m-4">
     <div class="row pb-2 align-items-center">
         <div class="col">
-            <h1>Earliest URL NFTs Archived On Bitcoin NFTs (2014-2018)</h1>
+            <h1>First Onchain Bitcoin NFTs (2015-2022)</h1>
         </div>
     </div>
 
@@ -34,25 +35,19 @@
     </div>
 
     <div class="pb-4">
-        <a href="https://github.com/dsgriffin/early-nfts/tree/main/timelines/earliest-url-nfts-archived-on-bitcoin" class="github-btn">
+        <a href="https://github.com/dsgriffin/early-nfts/tree/main/timelines/first-onchain-bitcoin-nfts" class="github-btn">
             <svg height="20" width="20" style="fill: white;" viewBox="0 0 16 16"
                 xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                 <path
                     d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.19 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" />
             </svg>
-            View this timelines' source code (data, images etc.) on GitHub
+            View this timelines' source code (data, onchain images etc.) on GitHub
         </a>
     </div>
 
     <div class="pb-3">
         <h6>
-            If an NFT isn't onchain or hashed, linking a URL is the next best thing. The question is, how to prove the contents of the URL haven't changed over time? Unless the URL itself contains a file hash, there's no way to be 100% sure.
-        </h6>
-        <h6>
-            So, this table showcases a combination of assets with a description URL that either comes from a highly trusted source (e.g. Imgur, Reddit) that are very unlikely to have been tampered with OR has a relatively early (pre-2020) archival link on the Wayback Machine to back it up.
-        </h6>
-        <h6>
-            Please note that Rare Pepe cards are excluded from this timeline as all of them were already archived via. <a href="https://github.com/loon3/pepechain" target="_blank">Pepechain in 2018</a>.
+            Before the first Ordinals inscription (14th December 2022) there was already a small batch of entirely onchain Bitcoin NFTs. Here they are.
         </h6>
     </div>
 
@@ -60,14 +55,13 @@
         <thead class="text-center">
             <tr>
                 <th>File</th>
-                <th>URL Datetime</th>
-                <th>Host</th>
-                <th>Archived</th>
+                <th>Onchain Datetime</th>
                 <th>Asset Name</th>
                 <th>Supply</th>
                 <th>Project</th>
                 <th>Author</th>
                 <th>Type</th>
+                <th></th>
                 <th>Notes</th>
             </tr>
         </thead>
@@ -102,14 +96,13 @@
                         const tableRow = `
                             <tr>
                                 <td>${row.file}</td>
-                                <td>${row.url_datetime}</td>
-                                <td>${row.host}</td>
-                                <td>${row.archive_date}</td>
+                                <td>${row.datetime}</td>
                                 <td>${row.name}</td>
                                 <td>${row.supply}</td>
                                 <td>${row.project}</td>
                                 <td>${row.author}</td>
                                 <td>${row.file_type}</td>
+                                <td>${row.status}</td>
                                 <td>${row.notes}</td>
                             </tr>
                         `;
@@ -122,12 +115,9 @@
                         responsive: true,
                         order: [[1, 'asc']],
                         columnDefs: [
-                            { width: '8%', targets: 2 },
-                            { width: '8%', targets: 3 },
-                            { width: '12%', targets: 4 },
-                            { width: '8%', targets: 5 },
-                            { width: '8%', targets: 6 },
-                            { width: '8%', targets: 7 },
+                            { width: '10%', targets: 2 },
+                            { width: '15%', targets: 4 },
+                            { width: '10%', targets: 5 },
                         ]
                     });
                 })
